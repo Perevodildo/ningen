@@ -17,9 +17,9 @@ Keyframes File: keyframes/nk2_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.750000
-Scroll Position: 432
-Active Line: 436
-Video Position: 38806
+Scroll Position: 6
+Active Line: 7
+Video Position: 817
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +39,7 @@ Dialogue: 1,0:00:05.74,0:00:10.74,Default,,0,0,0,,{\clip(0,0,30,640)\t(0,4800,\c
 Dialogue: 0,0:00:10.74,0:00:16.41,Default,,0,0,0,,{\fade(0,600)\clip(0,0,90,640)\t(70,2900,\clip(0,0,640,640))} Furthermore, it could one day remold {さらに全人類の宿命の転換をも可能にするのだ} \N\h
 Dialogue: 1,0:00:13.33,0:00:16.41,Default,,0,0,0,,{\fade(0,600)\clip(0,0,150,640)\t(0,2500,\clip(0,0,640,640))} the fate of the human race.
 Dialogue: 0,0:00:17.91,0:00:26.97,Sign,,0,0,0,,The Human Revolution {人間革命}
-Dialogue: 0,0:00:19.75,0:00:26.97,Sign,,0,0,0,,Episode 2 \NGush Forth{[from the earth like a Bodhisattva] - explained in lines from 27:27 onwards}{地湧} 
+Dialogue: 0,0:00:19.75,0:00:26.97,Sign,,0,0,0,,Episode 2 \NGush Forth{[from the earth like a Bodhisattva] - explained in lines from 27:27 onwards}{地湧}
 Dialogue: 0,0:00:30.09,0:00:34.05,Sign,,0,0,0,,{\c&HFDFFFD&\bord0\blur0.3\xshad2\yshad1\4c&H0D1817&} Original work: Daisaku Ikeda
 Dialogue: 0,0:00:34.05,0:00:41.20,Sign,,0,0,0,,{right to left} Kurobane Station {黒羽駅}\NToya Railway {東野鉄道}\NNishinasuno Station {西那須野駅}\NTohoku Main Line {東北本線}
 Dialogue: 0,0:00:55.80,0:00:58.29,Default,,0,0,0,,"A ravaged country still has \Nits untouched nature. {chinese poem "springtime"; http://www.kangin.or.jp/learning/text/chinese/k_B1_025.html}
@@ -47,7 +47,7 @@ Dialogue: 0,0:00:58.97,0:01:02.38,Default,,0,0,0,,Spring has arrived in the capi
 Dialogue: 0,0:01:02.38,0:01:05.98,Default,,0,0,0,,This poem really hits home for me.
 Dialogue: 0,0:01:07.27,0:01:10.94,Default,,0,0,0,,Sensei, a little further down this road is the Ryogo Village.
 Dialogue: 0,0:01:10.94,0:01:14.89,Default,,0,0,0,,We're looking the house of Masuda-san, \Nthe son of the Nasu Mountains.
-Dialogue: 0,0:01:14.89,0:01:19.90,Sign,,0,0,0,,September 1946 (Showa 21) \NRyogo Village, Nasu County, Tochigi Prefecture
+Dialogue: 0,0:01:14.89,0:01:19.90,Sign,,0,0,0,,September 1946 \NRyogo Village, Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:15.36,0:01:19.35,NarTop,,0,0,0,,The missionary work in post-war rural Japan had begun.
 Dialogue: 0,0:01:19.90,0:01:23.65,Narrator,,0,0,0,,Toda with a group of his followers traveled to Ryogo Village in Tochigi Prefecture.
 Dialogue: 0,0:01:23.65,0:01:25.66,Default,,0,0,0,,Oh! Look at this!
@@ -145,7 +145,7 @@ Dialogue: 0,0:06:34.12,0:06:38.69,Narrator,,0,0,0,,gradually intensified, \Nplun
 Dialogue: 0,0:06:28.83,0:06:32.78,Sign,,0,0,0,,Protest against layoffs! {馘首絶\N対反対}
 Dialogue: 0,0:06:32.78,0:06:34.67,Sign,,0,0,0,,Strikes at Toshiba {東芝罷業決行}
 Dialogue: 0,0:06:36.81,0:06:39.75,Sign,,0,0,0,,Control of national media {放送の國家管理}
-Dialogue: 0,0:06:39.81,0:06:42.83,Sign,,0,0,0,,November 17, 1946 (Showa 21) \NKanda Education Hall {1946年(昭和21年)11月17日神田・教育会館}
+Dialogue: 0,0:06:39.81,0:06:42.83,Sign,,0,0,0,,November 17, 1946 \NKanda Education Hall {1946年(昭和21年)11月17日神田・教育会館}
 Dialogue: 0,0:06:42.83,0:06:45.76,Sign,,0,0,0,,Education Hall
 Dialogue: 0,0:06:43.80,0:06:48.76,NarTop,,0,0,0,,On November 17, 1946,
 Dialogue: 0,0:06:48.76,0:06:51.81,Sign,,0,0,0,,Memorial service for the third anniversary of the first chairman Makiguchi's death {牧口初代会長 三回忌法要}
@@ -244,7 +244,7 @@ Dialogue: 0,0:12:42.05,0:12:47.65,Default,,0,0,0,,by building a peaceful nation 
 Dialogue: 0,0:12:47.65,0:12:52.43,Default,,0,0,0,,He preached the Buddhist teachings of Nam Myoho Renge Kyo with great conviction.
 Dialogue: 0,0:12:52.43,0:12:55.75,Default,,0,0,0,,So what will Daishonin-sama gain by deceiving you?
 Dialogue: 0,0:12:55.75,0:12:58.63,Default,,0,0,0,,What is worth believing at all,
-Dialogue: 0,0:12:58.63,0:13:00.48,Default,,0,0,0,,if not this dharma? {probably means lotus sutra}
+Dialogue: 0,0:12:58.63,0:13:00.48,Default,,0,0,0,,if not this Dharma? {probably means lotus sutra}
 Dialogue: 0,0:13:02.19,0:13:06.49,Narrator,,0,0,0,,To save one young man... \NTo save a single common man,
 Dialogue: 0,0:13:06.49,0:13:11.49,Narrator,,0,0,0,,Toda and other Soka Gakkai members worked hard to preach Daishonin's Buddhism.
 Dialogue: 0,0:13:11.49,0:13:15.93,Narrator,,0,0,0,,As Toda was running around town from one roundtable discussion to another,
@@ -455,7 +455,7 @@ Dialogue: 0,0:25:25.75,0:25:29.73,Default,,0,0,0,,The times have changed drastic
 Dialogue: 0,0:25:29.73,0:25:32.34,Default,,0,0,0,,As you can see from the new constitution,
 Dialogue: 0,0:25:32.34,0:25:37.42,Default,,0,0,0,,sovereignty resides with the people, \Nwhile the Emperor remains a symbolic figure,
 Dialogue: 0,0:25:37.42,0:25:39.85,Default,,0,0,0,,but I think that's fine.
-Dialogue: 0,0:25:39.85,0:25:45.04,Default,,0,0,0,,The question now is how can our people, \Nincluding the Εmperor,
+Dialogue: 0,0:25:39.85,0:25:45.04,Default,,0,0,0,,The question now is how can our people, \Nincluding the Emperor,
 Dialogue: 0,0:25:45.04,0:25:50.80,Default,,0,0,0,,rise up from the agony \Nof this defeat as soon as possible
 Dialogue: 0,0:25:50.80,0:25:55.33,Default,,0,0,0,,and build a peaceful, tranquil, and cultured nation?
 Dialogue: 0,0:25:55.33,0:25:57.33,Default,,0,0,0,,Isn't that right? {probably "does this answer your question?"}
@@ -482,14 +482,14 @@ Dialogue: 0,0:27:20.55,0:27:23.26,Default,,0,0,0,,To dispel the dark clouds from
 Dialogue: 0,0:27:23.85,0:27:26.97,Default,,0,0,0,,To find a great tree unbowed by the tempest
 Dialogue: 0,0:27:27.56,0:27:31.44,Default,,0,0,0,,I gush forth from the Earth. {[like a Bodhisattva of the earth]}
 Dialogue: 0,0:27:38.79,0:27:42.49,Thought,,0,0,0,,Yamamoto Shinichi-kun, 19 years old...
-Dialogue: 0,0:27:44.07,0:27:48.29,Thought,,0,0,0,,"I gush forth from the Earth." 
+Dialogue: 0,0:27:44.07,0:27:48.29,Thought,,0,0,0,,"I gush forth from the Earth."
 Dialogue: 0,0:27:49.00,0:27:50.77,Thought,,0,0,0,,From the earth, huh... {episode title}
 Dialogue: 0,0:27:50.77,0:27:55.46,Thought,,0,0,0,,But I think they said Yamamoto-kun \Nsuffers from a lung disease. {lit: his chest is bad/wounded}
 Dialogue: 0,0:27:55.46,0:27:58.15,Thought,,0,0,0,,No, he'll be fine. He's only 19. {idk what he means}
 Dialogue: 0,0:27:58.15,0:28:02.26,Thought,,0,0,0,,Ah, the sweet age of 19. \NI was still in Hokkaido.
 Dialogue: 0,0:28:02.26,0:28:05.21,Thought,,0,0,0,,In Mayachi, Yubari county...
 Dialogue: 0,0:28:02.78,0:28:05.83,Sign,,0,0,0,,Yubari{district}, Mayachi{town}{夕張・真谷地}
-Dialogue: 0,0:28:05.83,0:28:09.77,Sign,,0,0,0,,Shinayachi Elementary School {真谷地尋常小學校}
+Dialogue: 0,0:28:05.83,0:28:09.77,Sign,,0,0,0,,Mayachi Elementary School {真谷地尋常小學校}
 Dialogue: 0,0:28:09.45,0:28:13.81,Thought,,0,0,0,,Then, when I was 20 years old, \NI moved to Tokyo.
 Dialogue: 0,0:28:13.81,0:28:20.80,Thought,,0,0,0,,I'm 47 years old now, Yamamoto-kun is 19 years old, almost 20 actually...
 Dialogue: 0,0:28:25.49,0:28:30.22,Narrator,,0,0,0,,In ten more days, on August 24th,
