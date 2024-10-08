@@ -17,9 +17,9 @@ Keyframes File: keyframes/nk3_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.250000
-Scroll Position: 474
-Active Line: 299
-Video Position: 24250
+Scroll Position: 290
+Active Line: 291
+Video Position: 23620
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -325,7 +325,7 @@ Dialogue: 0,0:16:08.57,0:16:10.21,Default,,0,0,0,,What would we do without you?
 Dialogue: 0,0:16:10.21,0:16:14.39,Default,,0,0,0,,Oh no, I don't deserve such praise.\NWell, if you excuse me leaving now.
 Dialogue: 0,0:16:14.39,0:16:15.46,Default,,0,0,0,,Sure.
 Dialogue: 0,0:16:16.33,0:16:23.60,Thought,,0,0,0,,He's doing a great job hiding his condition. \NI really wish he could get better.
-Dialogue: 0,0:16:23.60,0:16:29.55,Sign,,0,0,0,,Daisei Academy (now Fuji Junior College), \NPolitical Science and Economics Dept., Night Classes {大世学院(現・富士短期大学)政経科\N夜間部の授業}
+Dialogue: 0,0:16:23.60,0:16:29.55,Sign,,0,0,0,,Taisei Academy (now Fuji Junior College), \NPolitical Science and Economics Dept., Night Classes {大世学院(現・富士短期大学)政経科\N夜間部の授業}
 Dialogue: 0,0:16:24.33,0:16:27.63,NarTop,,0,0,0,,Eager to learn more and deepen his knowledge,
 Dialogue: 0,0:16:27.63,0:16:30.32,NarTop,,0,0,0,,the studious and diligent young Yamamoto
 Dialogue: 0,0:16:30.32,0:16:32.93,NarTop,,0,0,0,,graduated from Oriental Commerce School in March
