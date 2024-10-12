@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 01 [DVD] [E2BF4693].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.875000
-Scroll Position: 459
-Active Line: 490
-Video Position: 45611
+Scroll Position: 383
+Active Line: 412
+Video Position: 37257
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,7 +146,7 @@ Dialogue: 0,0:07:16.62,0:07:23.05,Sign,,0,0,0,,{\fade(0,500)\bord0\blur0.5\c&HFC
 Dialogue: 0,0:07:23.05,0:07:24.30,Default,,0,0,0,,"In their present existence,
 Dialogue: 0,0:07:24.30,0:07:28.22,Default,,0,0,0,,the clergy of Japan, as well as the laity revering them, are transforming this country... {full text: https://gosho-search.sokanet.jp/page.php?n=1450 ; mainly taking translation from https://www.nichirenlibrary.org/en/wnd-1/Content/100 without the text he omittted} {されば今の日本国の諸僧等は、又、在家の人々は}
 Dialogue: 0,0:07:28.22,0:07:32.26,Default,,0,0,0,,...In addition to agonies unknown in previous ages, will be swarmed by a foreign power. {先代になき大苦を受くる上他国より責めらるべし }
-Dialogue: 0,0:07:32.47,0:07:34.10,Default,,0,0,0,,This is due solely 
+Dialogue: 0,0:07:32.47,0:07:34.10,Default,,0,0,0,,This is due solely
 Dialogue: 0,0:07:34.10,0:07:38.10,Default,,0,0,0,,to the workings of deities like Brahma, Shakra, and the gods of the Sun and Moon..." {此は偏に梵天、帝釈、日月等の御はからひなり  }
 Dialogue: 0,0:07:38.56,0:07:43.36,Thought,,0,0,0,,Nichiren Daishonin's prophecy came true all too exact. {日蓮大聖人の予言はあまりにも厳しく的中してしまった}
 Dialogue: 0,0:07:44.03,0:07:46.40,Thought,,0,0,0,,By oppressing those who believe in true Buddhism
@@ -257,7 +257,7 @@ Dialogue: 0,0:13:40.34,0:13:45.43,Thought,,0,0,0,,we were hurriedly following Ma
 Dialogue: 0,0:13:45.43,0:13:46.81,Thought,,0,0,0,,At that time, the sect
 Dialogue: 0,0:13:46.81,0:13:48.64,Thought,,0,0,0,,feared the oppression from the military,
 Dialogue: 0,0:13:48.64,0:13:52.06,Thought,,0,0,0,,so to placate the authorities, the prayer book text was altered. {no clue what's 御観念文 but I see it being used as "prayer text"; Gokanmon (Buddhist scriptures)} {あの当時宗門は軍部の弾圧を恐れ権力に迎合して御観念文を改ざんし}
-Dialogue: 0,0:13:52.06,0:13:54.65,Thought,,0,0,0,,We've effaced some important verses from the scriptures, 
+Dialogue: 0,0:13:52.06,0:13:54.65,Thought,,0,0,0,,We've effaced some important verses from the scriptures,
 Dialogue: 0,0:13:54.65,0:13:58.44,Thought,,0,0,0,,thus committing an act of blasphemy against Daishonin's teachings. {御書の重要御文を削除して大聖人の教えに反する 謗法行為を犯していた - apparently he means "important prayers/sentences/holy writings removed from nichiren's letters" but it's not the same as "scriptures" it seems and "nichiren's letters" is a mouthful, but saying "gosho" is overcomplicating things}
 Dialogue: 0,0:13:58.44,0:14:02.11,Thought,,0,0,0,,And on top of that, something even darker... {actually just "there was another thing" but no clue what he means} {その上に加えてこともあろうに。。。}
 Dialogue: 0,0:13:59.53,0:14:02.11,Sign,,0,0,0,,{\bord0\blur0.5\c&HFFF1FE&}Head Temple Taisekiji {大石寺 宗務院}
@@ -415,11 +415,11 @@ Dialogue: 0,0:24:12.64,0:24:13.43,Overlap,,0,0,0,,Yes!
 Dialogue: 0,0:24:14.14,0:24:16.06,Default,,0,0,0,,Therefore, when we say "Nam,"
 Dialogue: 0,0:24:16.06,0:24:20.06,Default,,0,0,0,,it means we believe in Buddha \Nand offer our bodies and souls together to him. {ですがら南無するといえば身も心も共に信じてささげることを意味します}
 Dialogue: 0,0:24:22.07,0:24:27.57,Default,,0,0,0,,As for Myoho Renge Kyo part, it refers to the 28 chapters of Gautama Buddha's Lotus Sutra. {believing https://en.wikipedia.org/wiki/Lotus_Sutra}
-Dialogue: 0,0:24:27.57,0:24:31.07,Default,,0,0,0,,In the present Degenerate Age of Dharma{/Latter Day of the Dharma}, Daishonin's Buddhism
+Dialogue: 0,0:24:27.57,0:24:31.07,Default,,0,0,0,,In the present Latter Day of the Law, Daishonin's Buddhism
 Dialogue: 0,0:24:31.07,0:24:34.08,Default,,0,0,0,,was mainly defined by Nam Myoho Renge Kyo. {unsure what he means: 末法の現在にあっては日蓮大聖人の南無妙法蓮華経の仏法になります}
 Dialogue: 0,0:24:34.08,0:24:38.00,Default,,0,0,0,,The line we must draw clearly and firmly here is... {ここで深くはっきりと留意しなければならないことは - unsure what to make of "heed deep and clear"}
 Dialogue: 0,0:24:38.00,0:24:40.71,Default,,0,0,0,,If we don't uphold Daishonin's Buddhism,
-Dialogue: 0,0:24:40.71,0:24:44.09,Default,,0,0,0,,the living creatures of the Degenerate Age cannot be saved. {thinking maybe neutral "later/third" period wouldve worked better} {この大聖人の仏法でなければ末法の衆生は救えないということです}
+Dialogue: 0,0:24:40.71,0:24:44.09,Default,,0,0,0,,the living creatures of the Latter Day of the Law cannot be saved.
 Dialogue: 0,0:24:45.05,0:24:49.09,Sign,,0,0,0,,{\bord0\blur0.5\c&HFFF5F2&\fade(400,0)} On the next {day of }lecture... {講義}
 Dialogue: 0,0:24:45.30,0:24:48.05,Default,,0,0,0,,Next would be Seki-kun's part. \NRead it for us, will you? {次のところを関くん 読んでくれないか}
 Dialogue: 0,0:24:48.05,0:24:48.63,Default,,0,0,0,,Okay.
@@ -440,9 +440,9 @@ Dialogue: 0,0:25:33.39,0:25:34.85,Default,,0,0,0,,No, not really...
 Dialogue: 0,0:25:35.31,0:25:38.10,Default,,0,0,0,,
 Dialogue: 0,0:25:38.10,0:25:41.60,Default,,0,0,0,,Yes. It's a bit hard to tell on your own. {そう 自分ではなかなか分がらないものだ}
 Dialogue: 0,0:25:41.60,0:25:45.73,Default,,0,0,0,,But as Daishonin-sama put it once, \N"If it wasn't for the {appearance of the }Bodhisattvas of the Earth,
-Dialogue: 0,0:25:45.73,0:25:47.69,Default,,0,0,0,,this chant would've fallen into oblivion." {I have no clue what's this about, but from what I could gather, nichiren was oppressed and everyone chanted old chant or didn't chant at all until bod. of the earth appeared and started chanting it too, otherwise this chant would've been hard to disseminate} 
+Dialogue: 0,0:25:45.73,0:25:47.69,Default,,0,0,0,,this chant would've fallen into oblivion." {I have no clue what's this about, but from what I could gather, nichiren was oppressed and everyone chanted old chant or didn't chant at all until bod. of the earth appeared and started chanting it too, otherwise this chant would've been hard to disseminate}
 Dialogue: 0,0:25:47.69,0:25:50.28,Default,,0,0,0,,By saying so, he decreed it sternly:
-Dialogue: 0,0:25:50.28,0:25:52.95,Default,,0,0,0,,in the Degenerate Age of Dharma,
+Dialogue: 0,0:25:50.28,0:25:52.95,Default,,0,0,0,,in the Latter Day of the Law,
 Dialogue: 0,0:25:52.95,0:25:56.95,Default,,0,0,0,,only those who chant Nam Myoho Renge Kyo get to become Bodhisattvas of the Earth.
 Dialogue: 0,0:25:56.95,0:25:58.70,Default,,0,0,0,,That's something to be proud of!
 Dialogue: 0,0:25:59.70,0:26:02.67,Default,,0,0,0,,We, my friends, are the Bodhisattvas of the Earth.
@@ -454,8 +454,8 @@ Dialogue: 0,0:26:11.30,0:26:15.14,Default,,0,0,0,,It is beyond doubt for me \Nth
 Dialogue: 0,0:26:15.14,0:26:16.30,Default,,0,0,0,,
 Dialogue: 0,0:26:16.64,0:26:20.56,Default,,0,0,0,,That's something I want everyone of you \Nto realize clearly today. {今日はみんなにこのことをはっきりと自覚してもらいたいのだ}
 Dialogue: 0,0:26:21.02,0:26:22.31,Default,,0,0,0,,Can you do that, friends?
-Dialogue: 0,0:26:22.56,0:26:23.39,Default,,0,0,0,,Yes! 
-Dialogue: 0,0:26:22.69,0:26:23.56,Overlap,,0,0,0,,Yes! 
+Dialogue: 0,0:26:22.56,0:26:23.39,Default,,0,0,0,,Yes!
+Dialogue: 0,0:26:22.69,0:26:23.56,Overlap,,0,0,0,,Yes!
 Dialogue: 0,0:26:26.06,0:26:29.48,Default,,0,0,0,,Chairman! Thank you so much. {理事長 ありがとうございました}
 Dialogue: 0,0:26:29.48,0:26:30.94,Default,,0,0,0,,Don't mention it.
 Dialogue: 0,0:26:30.94,0:26:34.70,Default,,0,0,0,,Actually, I'd like to organize a roundtable discussion. {実は座談会を開きたいと思っているんです}
@@ -521,6 +521,6 @@ Dialogue: 0,0:30:35.90,0:30:49.41,Song,,0,0,0,,Eyes flashing keen in the moonlig
 Dialogue: 0,0:30:49.41,0:30:54.17,Narrator,,0,0,0,,Thus, Yamamoto Shinichi's deep contemplations kept piling up. {なおも山本伸一青年の深い思索が重ねられていく - unsure what she means}
 Dialogue: 0,0:30:54.62,0:30:59.42,Narrator,,0,0,0,,But before long, he would find himself overwhelmed, when time comes
 Dialogue: 0,0:30:59.42,0:31:02.17,Narrator,,0,0,0,,for his fateful encounter with Toda Josei. {そして劇的な戸田城聖との運命の出会いの時をやがて迎えることになるのである - complicated wording and I don't understand all of it}
-Dialogue: 0,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.5\shad2\bord0\fade(00,0)\an6\pos(224.719,400)\c&HF8F4FA&} Raw provider \N Encoding & QC \N Translation \N Editing & typesetting\NQuality checking 
+Dialogue: 0,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.5\shad2\bord0\fade(00,0)\an6\pos(224.719,400)\c&HF8F4FA&} Raw provider \N Encoding & QC \N Translation \N Editing & typesetting\NQuality checking
 Dialogue: 0,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.5\bord0\shad2\fade(00,0)\an4\pos(251.685,400)\c&HF8F4FA&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Collectr \N Muzussawa
 Dialogue: 0,0:31:47.68,0:31:56.60,Sign,,0,0,0,,{\blur0.5\bord0\fade(1800,0)\an5\pos(311.111,230)\fs40\c&HEEEFF2&\fscy93}Human Revolution \N\N\N\N\N\N\N\NEpisode 1 \N\N\N\N\NThe End
