@@ -16,9 +16,8 @@ Video File: Ningen Kakumei (1995) - 02 [DVD] [97708ABB].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.750000
-Scroll Position: 432
-Active Line: 467
-Video Position: 41117
+Active Line: 8
+Video Position: 42215
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,8 +43,8 @@ Dialogue: 0,0:00:17.91,0:00:26.97,Sign,,0,0,0,,{\fax0.3\an5\frx85\fs30\t(0,1530,
 Dialogue: 0,0:00:19.71,0:00:26.97,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an5\pos(320,380)\fs30\c&HFFFFFF&\4c&H0A0F16&\bord0\shad2\blur0.4} Episode 2      {\fs40}Gush Forth{[from the earth like a Bodhisattva] - explained in lines from 27:27 onwards}{地湧}
 Dialogue: 0,0:00:30.09,0:00:34.06,Sign,,0,0,0,,{\fs30\fnFOT-Seurat Pro EB\b1\an3\c&HFFFFFE&\\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(224,341)}Original Work
 Dialogue: 0,0:00:30.09,0:00:34.06,Sign,,0,0,0,,{\fs40\fnFOT-Seurat Pro EB\b1\an1\c&HFFFFFE&\\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(261,346)}Daisaku Ikeda
-Dialogue: 0,0:29:19.65,0:29:24.62,Sign,,0,0,0,,{\blur0.6\shad2\an6\pos(220,400)\c&HFFFFFF&} Raw provider \N Encoding & QC \N Translation \N Editing & Typesetting\NQC
-Dialogue: 1,0:29:19.65,0:29:24.62,Sign,,0,0,0,,{\blur0.6\shad2\an4\pos(252,400)\c&HFFFFFF&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Collectr \N Muzussawa, True Noobow Gamer
+Dialogue: 0,0:29:19.65,0:29:24.62,Sign,,0,0,0,,{\blur0.6\shad2\an6\fs22\pos(220,400)\c&HFFFFFF&} Raw provider \N Encoding & QC \N Translation \N Editing \NTypesetting, QC\NQC
+Dialogue: 1,0:29:19.65,0:29:24.62,Sign,,0,0,0,,{\blur0.6\shad2\an4\fs22\pos(252,400)\c&HFFFFFF&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
 Dialogue: 0,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0.5\blur1\pos(308,80)}The Human Revolution
 Dialogue: 1,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs30\pos(319,274)\fnKozuka Mincho Pro H\c&HFFFFFF&}Episode 2
 Dialogue: 2,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs50\pos(314,414)\fnKozuka Mincho Pro H\c&HFFFFFF&}The End
