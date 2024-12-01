@@ -15,10 +15,10 @@ Audio File: Ningen Kakumei (1995) - 01 [DVD] [E2BF4693].mkv
 Video File: Ningen Kakumei (1995) - 01 [DVD] [E2BF4693].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 1384
-Active Line: 1402
-Video Position: 45611
+Video Zoom Percent: 2.000000
+Scroll Position: 467
+Active Line: 1118
+Video Position: 15242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,17 +39,17 @@ Dialogue: 0,0:00:00.77,0:00:10.74,Default,,0,0,0,,{\clip(0,0,98,640)\t(0,5000,\c
 Dialogue: 1,0:00:05.74,0:00:10.74,Default,,0,0,0,,{\clip(0,0,30,640)\t(0,4800,\clip(0,0,640,640))} before long, it'll define the fate of the nation. {やがて一国の宿命の転換をも成し遂げ}
 Dialogue: 0,0:00:10.74,0:00:16.41,Default,,0,0,0,,{\fade(0,600)\clip(0,0,90,640)\t(70,2900,\clip(0,0,640,640))} Furthermore, it could one day remold {さらに全人類の宿命の転換をも可能にするのだ} \N\h
 Dialogue: 1,0:00:13.33,0:00:16.41,Default,,0,0,0,,{\fade(0,600)\clip(0,0,150,640)\t(0,2500,\clip(0,0,640,640))} the fate of the human race.
-Dialogue: 0,0:00:42.02,0:00:44.86,Default,,0,0,0,,There is nothing more inhumane than war.
-Dialogue: 0,0:00:45.40,0:00:48.19,Default,,0,0,0,,There is nothing more tragic than war.
-Dialogue: 0,0:00:48.19,0:00:52.53,Default,,0,0,0,,However, that war is not over yet.
+Dialogue: 0,0:00:42.02,0:00:44.86,Narrator,,0,0,0,,There is nothing more inhumane than war.
+Dialogue: 0,0:00:45.40,0:00:48.19,Narrator,,0,0,0,,There is nothing more tragic than war.
+Dialogue: 0,0:00:48.19,0:00:52.53,Narrator,,0,0,0,,However, that war is not over yet.
 Dialogue: 0,0:01:16.72,0:01:18.06,Default,,0,0,0,,Dear...
 Dialogue: 0,0:01:19.98,0:01:21.23,Default,,0,0,0,,Dear!
 Dialogue: 0,0:01:21.23,0:01:24.15,Default,,0,0,0,,Oh, Ikue? {幾枝}\NYou came to pick me up?
 Dialogue: 0,0:01:24.81,0:01:26.15,Default,,0,0,0,,Is the house safe? {/alright/survived the bombings}
 Dialogue: 0,0:01:26.15,0:01:28.53,Default,,0,0,0,,Yes. Everyone is in good health.
 Dialogue: 0,0:01:28.53,0:01:31.07,Default,,0,0,0,,I see. I'm glad, so glad.
-Dialogue: 0,0:01:31.07,0:01:34.66,Default,,0,0,0,,I've caused you so much trouble. {to cause someone trouble; to burden someone} \NBut you've nothing to worry about now.
-Dialogue: 0,0:01:34.99,0:01:36.62,Default,,0,0,0,,So, let's go, okay?
+Dialogue: 0,0:01:31.07,0:01:34.66,Default,,0,0,0,,I've caused you so much trouble, \Nbut worry no more.
+Dialogue: 0,0:01:34.99,0:01:36.62,Default,,0,0,0,,So, shall we go now?
 Dialogue: 0,0:01:37.33,0:01:39.45,Narrator,,0,0,0,,This yukata-clad man {この浴衣がけの男こそ後年民衆の偉大な指導者としご 知られるようになる“戸田城聖”その人ごあった}
 Dialogue: 0,0:01:39.45,0:01:45.59,Narrator,,0,0,0,,would later come to be known as Toda Josei, \Nthe great commander and guide of the people. {I can't find any english established translation for "民衆の偉大な指導者" except "the great master, the transmitter of the teachings, the commander and guide" in one of academic works}
 Dialogue: 0,0:01:46.59,0:01:50.76,Narrator,,0,0,0,,However, at that time, \NToda's name was barely known to anyone.
@@ -73,7 +73,7 @@ Dialogue: 0,0:02:49.27,0:02:52.28,Default,,0,0,0,,I even made a shovel with it o
 Dialogue: 0,0:02:52.28,0:02:56.20,Default,,0,0,0,,If you need a kitchen knife, \Nyou can make five or six from a single shell! {包丁だったら一つの殻で5~6丁は取れるかな?}
 Dialogue: 0,0:02:56.20,0:02:57.74,Default,,0,0,0,,Why be so stingy?
 Dialogue: 0,0:02:57.74,0:02:59.03,Default,,0,0,0,,You can get away with ten!
-Dialogue: 0,0:02:59.45,0:03:04.00,Thought,,0,0,0,,The people remain resilient ,\Nno matter the times they're facing. {庶民大衆というのはいつの時代にあってもたくましいな - I think he means "would adapt/survive/find a way through in any era"}
+Dialogue: 0,0:02:59.45,0:03:04.00,Thought,,0,0,0,,The people remain resilient,\Nno matter the times they're facing. {庶民大衆というのはいつの時代にあってもたくましいな - I think he means "would adapt/survive/find a way through in any era"}
 Comment: 0,0:03:04.71,0:03:05.58,Default,,0,0,0,,Hm?
 Dialogue: 0,0:03:15.63,0:03:19.60,Default,,0,0,0,,Harajuku! Harajuku!
 Dialogue: 0,0:03:20.05,0:03:22.81,Thought,,0,0,0,,I see. The Meiji Shrine. {そうか明治神宮を}
@@ -85,7 +85,7 @@ Dialogue: 0,0:03:33.23,0:03:37.49,Thought,,0,0,0,,that propelled Japan into this
 Dialogue: 0,0:03:37.49,0:03:40.32,Thought,,0,0,0,,And because of that, President Makiguchi... {https://en.wikipedia.org/wiki/Tsunesabur%C5%8D_Makiguchi}
 Dialogue: 0,0:03:40.91,0:03:44.91,NarrTop,,0,0,0,,Imprisoned on the same ideological offense charges as Toda, President Makiguchi
 Dialogue: 0,0:03:44.91,0:03:47.87,NarrTop,,0,0,0,,was subjected to harsh interrogations and malnutrition. {戸田と同じく思想犯で逮捕された牧口会長は過酷な取り調べと栄養失調がもとで}
-Dialogue: 0,0:03:47.87,0:03:51.42,Narrator,,0,0,0,,And on November 18,1944,
+Dialogue: 0,0:03:47.87,0:03:51.42,Narrator,,0,0,0,,And on November 18, 1944,
 Dialogue: 0,0:03:51.84,0:03:53.75,Narrator,,0,0,0,,he passed away in his prison cell. {昭和19年11月18日 獄中にて逝去した}
 Dialogue: 0,0:03:54.34,0:03:57.38,Narrator,,0,0,0,,He was 73 years old. {73歳の高齢ごあった}
 Dialogue: 0,0:03:57.38,0:04:01.85,Thought,,0,0,0,,Makiguchi-sensei, you can trust me to make every effort. {this toda will definitely...}
@@ -132,7 +132,7 @@ Dialogue: 0,0:06:45.13,0:06:46.14,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:06:46.59,0:06:47.85,Default,,0,0,0,,I am truly grateful!
 Dialogue: 0,0:06:49.68,0:06:52.39,Narrator,,0,0,0,,Toda set up a print shop\N and procured paper for it
 Dialogue: 0,0:06:52.39,0:06:54.98,Narrator,,0,0,0,,with money raised from his old friend.
-Dialogue: 0,0:06:54.98,0:06:59.11,Narrator,,0,0,0,,At last, his business was\N almost ready to reopen. {well-ordered; in good order; well-featured; well-regulated} {旧知の友人から資金を調達し印刷所や紙などの手配をつけてようやく\N事業再開の準備が整った時}
+Dialogue: 0,0:06:54.98,0:06:59.11,Narrator,,0,0,0,,At last, his business was\N almost ready to be reopened. {well-ordered; in good order; well-featured; well-regulated} {旧知の友人から資金を調達し印刷所や紙などの手配をつけてようやく\N事業再開の準備が整った時}
 Dialogue: 0,0:07:08.62,0:07:12.42,Top,,0,0,0,,{\b0}After pondering deeply\N the general trends of the world
 Dialogue: 0,0:07:12.42,0:07:15.54,Top,,0,0,0,,{\b0}and the actual conditions obtaining to our empire today, {朕󠄁深ク世界ノ大勢ト帝󠄁國ノ現狀トニ鑑ミ}{jewel voice speech, translation from wikipedia}
 Dialogue: 0,0:07:15.54,0:07:20.83,Top,,0,0,0,,{\b0}we have decided to effect a settlement of the present situation{非常ノ措置ヲ以テ時局ヲ收拾セムト欲シ茲ニ忠良ナル爾臣民ニ吿ク} {the last part is off but I can't be bothered}
@@ -190,7 +190,7 @@ Dialogue: 0,0:10:06.54,0:10:08.63,Default,,0,0,0,,but I'm sure only good things\
 Dialogue: 0,0:10:08.63,0:10:10.59,Default,,0,0,0,,Let's all take good care of it. {みんな 大事に使おうじゃないか}
 Dialogue: 0,0:10:10.59,0:10:11.59,Default,,0,0,0,,Okay!
 Dialogue: 0,0:10:11.09,0:10:11.59,Overlap,,0,0,0,,Okay.
-Dialogue: 0,0:10:17.47,0:10:21.39,Default,,0,0,0,,Well, thank you for stopping by. \NI'm counting on you to do your best now. {いやあ 訪ねてくれてありがとう じゃしっかり頼みますよ - unsure what's this last part about}
+Dialogue: 0,0:10:17.47,0:10:21.39,Default,,0,0,0,,Right, thank you for stopping by. \NWell, please do your best now.
 Dialogue: 0,0:10:21.39,0:10:24.23,Default,,0,0,0,,Yes, I won't let you down. \NThank you very much.
 Dialogue: 0,0:10:24.23,0:10:26.61,Narrator,,0,0,0,,The office of Nihon Shogakkan\N in Nishi-Kanda
 Dialogue: 0,0:10:26.61,0:10:28.73,Narrator,,0,0,0,,became the main operational base for Soka Gakkai. {/Society}
@@ -221,8 +221,8 @@ Dialogue: 0,0:11:59.62,0:12:02.45,Narrator,,0,0,0,,After this war, countless peo
 Dialogue: 0,0:12:02.45,0:12:07.62,Narrator,,0,0,0,,dwelt in the depths of despair after losing their husbands or families to fires during the air raids. {この戦争で幾人かの会員もまた空襲で家を焼かれ夫や家族を矢い失意のどん底にあった} {hate to omit "while their houses burnt down" here}
 Dialogue: 0,0:12:07.96,0:12:08.75,Narrator,,0,0,0,,However...
 Dialogue: 0,0:12:09.88,0:12:13.17,Default,,0,0,0,,Listen. Your suffering might seem never-ending now,
-Dialogue: 0,0:12:13.17,0:12:17.51,Default,,0,0,0,,but as long as you carry on with your faith,\N you'll always have brighter days ahead. {ちゃんと信心さえ貫いていけば 必ず幸せになれる}
-Dialogue: 0,0:12:18.63,0:12:21.35,Default,,0,0,0,,You shouldn't think it's all about you alone! {目分一人だけのことじやない}
+Dialogue: 0,0:12:13.17,0:12:17.51,Default,,0,0,0,,but as long as you carry on with your faith,\N you'll have brighter days ahead. {ちゃんと信心さえ貫いていけば 必ず幸せになれる}
+Dialogue: 0,0:12:18.63,0:12:21.35,Default,,0,0,0,,You shouldn't think you're alone in this.
 Dialogue: 0,0:12:21.35,0:12:25.64,Default,,0,0,0,,This kid's future happiness and everything \Nalso hinges on your faith.
 Dialogue: 0,0:12:28.64,0:12:31.61,Default,,0,0,0,,What do you say? \NCan you persevere a bit longer? {どうだ 辛抱強くやれるがね ?}
 Dialogue: 0,0:12:31.61,0:12:34.15,Default,,0,0,0,,Ah... Yes! I'll do it.
@@ -232,10 +232,10 @@ Dialogue: 0,0:12:44.24,0:12:46.83,Default,,0,0,0,,Okay! Thank you ever so much!
 Dialogue: 0,0:12:52.17,0:12:53.88,Default,,0,0,0,,Cheer up, will you?
 Dialogue: 0,0:13:11.56,0:13:16.44,Thought,,0,0,0,,Today must be the day I take the first step \Ntowards inheriting my late mentor's mantle. {/the torch from my mentor} {/carrying on with ...'s legacy/cause/work left uncompleted at death} {今日こそ恩師の遺業を継ぐ第一歩の日にしなくては}
 Dialogue: 0,0:13:16.44,0:13:17.94,Thought,,0,0,0,,{Day of }First step.
-Dialogue: 0,0:13:18.32,0:13:19.70,Narrator,,0,0,0,,The year when the war ended,
+Dialogue: 0,0:13:18.32,0:13:19.70,NarrTop,,0,0,0,,The year when the war ended,
 Dialogue: 0,0:13:19.70,0:13:21.74,NarrTop,,0,0,0,,November 18th. {終戦の年の11月18日}
 Dialogue: 0,0:13:21.74,0:13:26.33,NarrTop,,0,0,0,,A memorial {Buddhist }service was held for Makiguchi Tsunesaburo, the founder of Soka Kyoiku Gakkai,
-Dialogue: 0,0:13:26.33,0:13:29.41,Narrator,,0,0,0,,on the first anniversary of his death. {創価教育学会初代会長・牧口常三郎の一周忌追善法要が営まれた}
+Dialogue: 0,0:13:26.33,0:13:29.41,NarrTop,,0,0,0,,on the first anniversary of his death. {創価教育学会初代会長・牧口常三郎の一周忌追善法要が営まれた}
 Dialogue: 0,0:13:30.87,0:13:35.92,Thought,,0,0,0,,Sensei, I still remember\N that day in June of 1943. {先生あれは確か昭和18 年の6月でしたね} {lib}
 Dialogue: 0,0:13:37.96,0:13:40.34,Thought,,0,0,0,,Summoned by the Religious Affairs Council,
 Dialogue: 0,0:13:40.34,0:13:45.43,Thought,,0,0,0,,we hurriedly followed Makiguchi-sensei uphill to the Taisekiji Temple. {宗務院の呼び出しにより急きょ私たちは牧口先生に従って大石寺に登山した}
@@ -279,7 +279,7 @@ Dialogue: 0,0:16:41.61,0:16:44.90,Default,,0,0,0,,I haven't done anything wrong,
 Dialogue: 0,0:16:45.65,0:16:47.15,Default,,0,0,0,,Second verse same as first, huh?
 Dialogue: 0,0:16:47.78,0:16:50.36,Default,,0,0,0,,All your other buddies\N have pleaded guilty already,
 Dialogue: 0,0:16:50.36,0:16:53.08,Default,,0,0,0,,sworn to convert, and been released long ago. {ぁんたの仲間はみんな罪を認め転向を誓ってとっくにここを出ていったよ}
-Dialogue: 0,0:16:53.08,0:16:55.74,Default,,0,0,0,,You're the only remaining idiot.
+Dialogue: 0,0:16:53.08,0:16:55.74,Default,,0,0,0,,You're the last one left.
 Dialogue: 0,0:16:55.74,0:16:59.96,Default,,0,0,0,,That's not true. \NMakiguchi-sensei also persists. {そんなことはない 牧ロ先生が厳然としていらっしゃる - no clue what he means}
 Dialogue: 0,0:17:00.46,0:17:02.17,Default,,0,0,0,,Makiguchi is dead.
 Dialogue: 0,0:17:02.17,0:17:03.84,Default,,0,0,0,,What?!
@@ -326,7 +326,7 @@ Dialogue: 0,0:20:19.11,0:20:22.74,Default,,0,0,0,,Yes. Thank you for your contin
 Dialogue: 0,0:20:22.74,0:20:25.25,Default,,0,0,0,,I'm counting on you for our next project. {次の企画 よろしく頼みますよ}
 Dialogue: 0,0:20:25.25,0:20:25.70,Default,,0,0,0,,Okay!
 Dialogue: 0,0:20:27.66,0:20:29.00,Default,,0,0,0,,Is this book performing well? {どうだい この本は ?}
-Dialogue: 0,0:20:29.00,0:20:33.46,Default,,0,0,0,,Yes. It gained an enormous traction already. \NWe barely manage to keep up with the demand. {/putting them out with a great vigor} {はい もう大変な評判です\Nすごい勢いで出てます}
+Dialogue: 0,0:20:29.00,0:20:33.46,Default,,0,0,0,,Yes. It gained enormous traction. We're barely managing to keep up with the demand. {/putting them out with a great vigor} {はい もう大変な評判です\Nすごい勢いで出てます}
 Dialogue: 0,0:20:33.46,0:20:38.13,Default,,0,0,0,,So I thought. These days, all and sundry, \Nyoung men in particular,
 Dialogue: 0,0:20:38.13,0:20:42.47,Default,,0,0,0,,are jumping ecstatically into the feast\N of democracy they've never tasted before. {not a particularly straightforward analogy but I can't think of any simpler one in English} {今は誰も彼も 特に若者はだ食べたこともない民主主義というごちそうに夢中になって飛び付いている}
 Dialogue: 0,0:20:42.47,0:20:46.51,Default,,0,0,0,,But let me tell you, \Nthis is not what true democracy looks like. {だがね 真実の民主主義とはこんなもんじゃないんだよ}
@@ -335,7 +335,7 @@ Dialogue: 0,0:20:49.98,0:20:51.98,Default,,0,0,0,,Democracy in the true sense of
 Dialogue: 0,0:20:51.98,0:20:57.19,Default,,0,0,0,,cannot be achieved just by replacing the ruling party and reforming societal structures. {単なる政治機構や社会体制の変革だけで出来上がるもんじゃない}
 Dialogue: 0,0:20:57.19,0:20:59.53,Default,,0,0,0,,It must first establish itself in people's minds.
 Dialogue: 0,0:20:59.53,0:21:02.74,Default,,0,0,0,,That's the starting point,\N the foundation of democracy. {個人の内側からの確立それが出発点であり土台となるんだよ}
-Dialogue: 0,0:21:03.33,0:21:04.87,Default,,0,0,0,,So? Are you following? {/do yo uunderstand}
+Dialogue: 0,0:21:03.33,0:21:04.87,Default,,0,0,0,,So? Do you follow?
 Dialogue: 0,0:21:07.41,0:21:11.75,Default,,0,0,0,,Establish itself in the minds of individuals \Nby means of the Human Revolution!
 Dialogue: 0,0:21:12.75,0:21:13.92,Default,,0,0,0,,Kiyohara-san.
 Dialogue: 0,0:21:13.92,0:21:14.75,Default,,0,0,0,,Yes?
@@ -355,7 +355,7 @@ Dialogue: 0,0:22:06.10,0:22:09.27,Thought,,0,0,0,,Toda-sensei is finally startin
 Dialogue: 0,0:22:09.27,0:22:10.56,Thought,,0,0,0,,I've never been this happy!
 Dialogue: 0,0:22:10.98,0:22:14.90,Thought,,0,0,0,,I should probably also tell Izumida-san \Nand gather as many people as I can! {泉田さんにも知らせて一人でも多く人を集めなくては…}
 Dialogue: 0,0:22:14.90,0:22:19.40,Default,,0,0,0,,Huh? Toda-sensei is giving lectures? That's just amazing!
-Dialogue: 0,0:22:19.40,0:22:23.36,Default,,0,0,0,,Let's split the work and send express mail \Nto everyone whose address we know! {手分けして 住所の分かっているところへ速達を出しましようよ}
+Dialogue: 0,0:22:19.40,0:22:23.36,Default,,0,0,0,,Let's split the work and send express mail \Nto everyone whose addresses we know! 
 Dialogue: 0,0:22:23.74,0:22:27.49,Default,,0,0,0,,But many evacuated because their homes \Nburned down during the war. {戦災で家が焼けて疎開している人もいるし}
 Dialogue: 0,0:22:27.49,0:22:29.37,Default,,0,0,0,,Will they receive it? {/be delivered properly}
 Dialogue: 0,0:22:29.37,0:22:32.25,Default,,0,0,0,,No point worrying about that right now!
@@ -455,13 +455,13 @@ Dialogue: 0,0:27:32.30,0:27:36.05,Narrator,,0,0,0,,due to defeat in the war, peo
 Dialogue: 0,0:27:36.05,0:27:39.39,Narrator,,0,0,0,,They actively sought\N to absorb new knowledge.
 Dialogue: 0,0:27:40.60,0:27:45.85,Narrator,,0,0,0,,Among them was a young man at the front,\N listening quietly to his friends. {最前から仲間の話に静かに耳を傾けている青年がいた}
 Dialogue: 0,0:27:46.39,0:27:51.77,Narrator,,0,0,0,,The young man seemed to be deep in contemplation, searching intently for something.
-Dialogue: 0,0:27:56.07,0:27:58.66,Default,,0,0,0,,We've had quite a productive reading session today. {今日の読書会充実してたね}
+Dialogue: 0,0:27:56.07,0:27:58.66,Default,,0,0,0,,We've had quite the productive reading session today. {今日の読書会充実してたね}
 Dialogue: 0,0:27:58.66,0:28:02.91,Default,,0,0,0,,I feel that I have something in common with the way of life of Uchimura Kanzo,
 Dialogue: 0,0:28:02.91,0:28:04.87,Default,,0,0,0,,who became a Christian. {僕はキリス卜教徒になった内村鑑三の生き方に何か通じるものを感じるんだ - unsure what he means}
 Dialogue: 0,0:28:07.37,0:28:10.04,Default,,0,0,0,,Oh? You've started reading it already?
 Dialogue: 0,0:28:10.04,0:28:13.13,Default,,0,0,0,,Miki Kiyoshi's {\i1}Notes on the Theory of Life{\i0}.\N It looks awfully difficult. {もう読み始めてるのか 三木清の「人生論ノー卜」 難しそうだな} {https://en.wikipedia.org/wiki/Kiyoshi_Miki#List_of_works}
 Dialogue: 0,0:28:13.13,0:28:15.63,Default,,0,0,0,,Yeah. I'm having a hard time reading this.
-Dialogue: 0,0:28:15.63,0:28:20.05,Default,,0,0,0,,I'm a somewhat slow-paced fella, \Nso I can barely read one book a month. {僕はペースが遅いから月に一冊がやっとだけど}
+Dialogue: 0,0:28:15.63,0:28:20.05,Default,,0,0,0,,I'm a bit of a slow reader, \Nso I can only manage about one book a month.
 Dialogue: 0,0:28:20.05,0:28:24.47,Default,,0,0,0,,They call you Bookworm Yamamoto-kun, \Nso you probably read like five or six, right? {山本君は〝本の虫"といわれるぐらいだがら 5~6冊は読むんだろう ?}
 Dialogue: 0,0:28:24.47,0:28:25.64,Default,,0,0,0,,No, I wouldn't say...
 Dialogue: 0,0:28:26.64,0:28:33.65,Narrator,,0,0,0,,The youngest of the group, \Nthis teenager's name was Yamamoto Shinichi. {グループの中で一番年少のこの若者は一名前を“山本伸一”といった}
@@ -738,8 +738,8 @@ Dialogue: 0,0:00:50.90,0:00:50.94,Sign,,0,0,0,,{\fscy97.68\fscx97.68\fs50\frz-89
 Dialogue: 0,0:00:50.94,0:00:50.98,Sign,,0,0,0,,{\fscy98.99\fscx98.99\fs50\frz-89.89\c&HF4FCFF&\\fnA-OTF Ryumin Pr5 EH-KL\pos(200.93,220.39)\alpha&H00&\t(-71,129,\alpha&HFF&)}Great Tokyo Air Raid
 Dialogue: 0,0:00:50.98,0:00:51.03,Sign,,0,0,0,,{\fscy100\fscx100\fs50\frz-90\c&HF4FCFF&\\fnA-OTF Ryumin Pr5 EH-KL\pos(200,220)\alpha&H00&\t(-113,87,\alpha&HFF&)}Great Tokyo Air Raid
 Dialogue: 0,0:00:51.03,0:00:51.07,Sign,,0,0,0,,{\fscy100\fscx100\fs50\frz-90\c&HF4FCFF&\\fnA-OTF Ryumin Pr5 EH-KL\pos(200,220)\alpha&H00&\t(-154,46,\alpha&HFF&)}Great Tokyo Air Raid
-Dialogue: 0,0:00:52.53,0:00:57.54,Sign,,0,0,0,,{\fs30\fnFOT-Seurat Pro EB\b1\an3\c&HFFFFFE&\\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(224,341)}Original Work
-Dialogue: 0,0:00:52.53,0:00:57.54,Sign,,0,0,0,,{\fs40\fnFOT-Seurat Pro EB\b1\an1\c&HFFFFFE&\\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(261,346)}Daisaku Ikeda
+Dialogue: 0,0:00:52.53,0:00:57.54,Sign,,0,0,0,,{\fs30\fnFOT-Seurat Pro EB\b1\an3\c&HFFFFFE&\\blur0.2\xshad3\yshad2\4c&H0D1817&\pos(224,341)}Original Work
+Dialogue: 0,0:00:52.53,0:00:57.54,Sign,,0,0,0,,{\fs40\fnFOT-Seurat Pro EB\b1\an1\c&HFFFFFE&\\blur0.4\xshad3\yshad2\4c&H0D1817&\pos(261,346)}Daisaku Ikeda
 Dialogue: 0,0:00:57.54,0:01:01.54,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HE8D8EA&\pos(320,454)}Toyotama Prison, July 3, 1945
 Dialogue: 0,0:03:40.91,0:03:45.50,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\fad(300,400)\c&HFFFFFF&\pos(315,454)}Tsunesaburo Makiguchi\NFounder of Soka Gakkai {創価学会初代会長 牧口常三郎}
 Dialogue: 0,0:04:30.54,0:04:32.54,Sign,,0,0,0,,{\fax0.4\fs40\frz1\c&H060505&\blur1.2\pos(322,313)\fnDeBorstel Brush Reduced}Toda
@@ -1436,8 +1436,8 @@ Dialogue: 1,0:27:43.39,0:27:43.43,Sign,,0,0,0,,{\fs23\frz-24\fax-0.13\fnKozuka M
 Dialogue: 1,0:27:43.43,0:27:43.47,Sign,,0,0,0,,{\fs23\frz-24\fax-0.13\fnKozuka Mincho Pro H\blur1\c&H091320&\pos(258.84,219.65)}R{*\frz335.885}e{*\frz335.769}p{*\frz335.654}r{*\frz335.538}e{*\frz335.423}s{*\frz335.308}e{*\frz335.192}n{*\frz335.077}t{*\frz334.962}a{*\frz334.846}t{*\frz334.731}i{*\frz334.615}v{*\frz334.5}e {*\frz334.269}M{*\frz334.154}e{*\frz334.038}n {*\frz333.808}o{*\frz333.692}f {*\frz333.462}J{*\frz333.346}a{*\frz333.231}p{*\frz333.115}a{\frz-27}n
 Dialogue: 1,0:27:43.47,0:27:43.55,Sign,,0,0,0,,{\fs23\frz-24\fax-0.13\fnKozuka Mincho Pro H\blur1\c&H091320&\pos(259.19,219.69)}R{*\frz335.885}e{*\frz335.769}p{*\frz335.654}r{*\frz335.538}e{*\frz335.423}s{*\frz335.308}e{*\frz335.192}n{*\frz335.077}t{*\frz334.962}a{*\frz334.846}t{*\frz334.731}i{*\frz334.615}v{*\frz334.5}e {*\frz334.269}M{*\frz334.154}e{*\frz334.038}n {*\frz333.808}o{*\frz333.692}f {*\frz333.462}J{*\frz333.346}a{*\frz333.231}p{*\frz333.115}a{\frz-27}n
 Dialogue: 1,0:27:43.55,0:27:43.60,Sign,,0,0,0,,{\fs23\frz-24\fax-0.13\fnKozuka Mincho Pro H\blur1\c&H091320&\pos(259.08,219.46)}R{*\frz335.885}e{*\frz335.769}p{*\frz335.654}r{*\frz335.538}e{*\frz335.423}s{*\frz335.308}e{*\frz335.192}n{*\frz335.077}t{*\frz334.962}a{*\frz334.846}t{*\frz334.731}i{*\frz334.615}v{*\frz334.5}e {*\frz334.269}M{*\frz334.154}e{*\frz334.038}n {*\frz333.808}o{*\frz333.692}f {*\frz333.462}J{*\frz333.346}a{*\frz333.231}p{*\frz333.115}a{\frz-27}n
-Dialogue: 0,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.6\shad2\an6\pos(220,400)\c&HFFFFFF&} Raw provider \N Encoding & QC \N Translation \N Editing & Typesetting\NQC
-Dialogue: 1,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.6\shad2\an4\pos(252,400)\c&HFFFFFF&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Collectr \N Muzussawa, True Noobow Gamer
+Dialogue: 0,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.6\shad2\an6\pos(220,400)\fs22\c&HFFFFFF&} Raw provider \N Encoding & QC \N Translation \N Editing & Typesetting\N Editing \NQC
+Dialogue: 1,0:31:42.34,0:31:47.34,Sign,,0,0,0,,{\blur0.6\shad2\an4\pos(252,400)\fs22\c&HFFFFFF&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Collectr \N Paul Geromini \N Muzussawa, True Noobow Gamer
 Dialogue: 0,0:31:47.68,0:31:56.60,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0.5\blur1\pos(308,80)}The Human Revolution
 Dialogue: 1,0:31:47.68,0:31:56.60,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs30\pos(319,274)\fnKozuka Mincho Pro H\c&HFFFFFF&}Episode 1
 Dialogue: 2,0:31:47.68,0:31:56.60,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs50\pos(314,414)\fnKozuka Mincho Pro H\c&HFFFFFF&}The End
