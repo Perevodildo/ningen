@@ -110,7 +110,7 @@ Dialogue: 0,0:04:19.55,0:04:21.87,Default,,0,0,0,,If this continues, we'll run o
 Dialogue: 0,0:04:23.34,0:04:27.79,Default,,0,0,0,,Sensei, at this rate, \Na bank run seems more than likely.
 Dialogue: 0,0:04:27.79,0:04:29.87,Default,,0,0,0,,Ever since the war in Korea broke out,
 Dialogue: 0,0:04:29.87,0:04:33.86,Default,,0,0,0,,we've had nothing but withdrawals for three days straight.
-Dialogue: 0,0:04:33.86,0:04:38.88,NarrTop,,0,0,0,,The memory of postwar bank deposit freezes \Nwas still fresh in the minds of the Japanese .
+Dialogue: 0,0:04:33.86,0:04:38.88,NarrTop,,0,0,0,,The memory of postwar bank deposit freezes \Nwas still fresh in the minds of the Japanese.
 Dialogue: 0,0:04:33.86,0:04:38.88,Sign,,0,0,0,,February 1946: The Japanese government promulgates the Financial Emergency Measures Order {https://ja.wikipedia.org/wiki/%E9%A0%90%E9%87%91%E5%B0%81%E9%8E%96}{昭和21年2月\N日本政府、金融緊急措置令を公布}
 Dialogue: 0,0:04:38.88,0:04:45.26,NarrTop,,0,0,0,,For that reason, out of fear that Japan might be drawn into a war in the neighboring country,
 Dialogue: 0,0:04:38.88,0:04:49.78,Sign,,0,0,0,,"Citizens' deposits are frozen" {probably refers to 1946, so maybe make it "were" to make a clear distinction with 1950}{国民の預金が封鎖される}
