@@ -15,10 +15,10 @@ Audio File: Ningen Kakumei (1995) - 02 [DVD] [97708ABB].mkv
 Video File: Ningen Kakumei (1995) - 02 [DVD] [97708ABB].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.500000
-Scroll Position: 251
-Active Line: 290
-Video Position: 27707
+Video Zoom Percent: 2.000000
+Scroll Position: 491
+Active Line: 2752
+Video Position: 42213
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -473,7 +473,7 @@ Dialogue: 0,0:00:19.71,0:00:26.97,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an5\pos(3
 Dialogue: 0,0:00:30.09,0:00:34.06,Sign,,0,0,0,,{\fs30\fnFOT-Seurat Pro EB\b1\an3\c&HFFE5F8&\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(224,341)}Original Work
 Dialogue: 0,0:00:30.09,0:00:34.06,Sign,,0,0,0,,{\fs40\fnFOT-Seurat Pro EB\b1\an1\c&HFFE5F8&\blur0.6\xshad3\yshad2\4c&H0D1817&\pos(261,346)}Daisaku Ikeda
 Comment: 0,0:00:34.09,0:00:41.20,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(565,228)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(0,160,1,\alpha&H00&)}Kurobane\N Station
-Dialogue: 0,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(565,228)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(0,160,\alpha&H00&)}Kurobane\N Station
+Dialogue: 0,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{=0}{\fnFOT-Rodin Pro EB\b1\fs20\pos(565,228)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(0,160,\alpha&H00&)}Kurobane\N Station
 Dialogue: 0,0:00:34.13,0:00:34.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(565.52,227)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(-41,119,\alpha&H00&)}Kurobane\N Station
 Dialogue: 0,0:00:34.18,0:00:34.22,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(565.88,227.77)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(-83,77,\alpha&H00&)}Kurobane\N Station
 Dialogue: 0,0:00:34.22,0:00:34.26,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(566.12,227.6)\blur0.6\c&HFFEEF9&\alpha&HFF&\t(-125,35,\alpha&H00&)}Kurobane\N Station
@@ -642,9 +642,9 @@ Dialogue: 0,0:00:40.97,0:00:41.02,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(
 Dialogue: 0,0:00:41.02,0:00:41.06,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(566.2,226.83)\blur0.6\c&HFFEEF9&\alpha&H00&}Kurobane\N Station
 Dialogue: 0,0:00:41.06,0:00:41.10,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(566.22,226.76)\blur0.6\c&HFFEEF9&\alpha&H00&}Kurobane\N Station
 Dialogue: 0,0:00:41.10,0:00:41.14,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(567.04,226.7)\blur0.6\c&HFFEEF9&\alpha&H00&}Kurobane\N Station
-Dialogue: 0,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\pos(567.42,226.51)\blur0.6\c&HFFEEF9&\alpha&H00&}Kurobane\N Station
+Dialogue: 0,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{=1}{\fnFOT-Rodin Pro EB\b1\fs20\pos(567.42,226.51)\blur0.6\c&HFFEEF9&\alpha&H00&}Kurobane\N Station
 Comment: 1,0:00:34.09,0:00:41.20,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(476,374)\alpha&HFF&\t(0,160,1,\alpha&H00&)}Toya Railway
-Dialogue: 1,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(476,374)\alpha&HFF&\t(0,160,\alpha&H00&)}Toya Railway
+Dialogue: 1,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{=2}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(476,374)\alpha&HFF&\t(0,160,\alpha&H00&)}Toya Railway
 Dialogue: 1,0:00:34.13,0:00:34.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(476.52,373)\alpha&HFF&\t(-41,119,\alpha&H00&)}Toya Railway
 Dialogue: 1,0:00:34.18,0:00:34.22,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(476.88,373.77)\alpha&HFF&\t(-83,77,\alpha&H00&)}Toya Railway
 Dialogue: 1,0:00:34.22,0:00:34.26,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(477.12,373.6)\alpha&HFF&\t(-125,35,\alpha&H00&)}Toya Railway
@@ -813,9 +813,9 @@ Dialogue: 1,0:00:40.97,0:00:41.02,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur
 Dialogue: 1,0:00:41.02,0:00:41.06,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(477.2,372.83)\alpha&H00&}Toya Railway
 Dialogue: 1,0:00:41.06,0:00:41.10,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(477.22,372.76)\alpha&H00&}Toya Railway
 Dialogue: 1,0:00:41.10,0:00:41.14,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(478.04,372.7)\alpha&H00&}Toya Railway
-Dialogue: 1,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(478.42,372.51)\alpha&H00&}Toya Railway
+Dialogue: 1,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{=3}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(478.42,372.51)\alpha&H00&}Toya Railway
 Comment: 2,0:00:34.09,0:00:41.20,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(352,264)\alpha&HFF&\t(0,160,1,\alpha&H00&)}Nishinasuno\N Station
-Dialogue: 2,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(352,264)\alpha&HFF&\t(0,160,\alpha&H00&)}Nishinasuno\N Station
+Dialogue: 2,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{=4}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(352,264)\alpha&HFF&\t(0,160,\alpha&H00&)}Nishinasuno\N Station
 Dialogue: 2,0:00:34.13,0:00:34.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(352.52,263)\alpha&HFF&\t(-41,119,\alpha&H00&)}Nishinasuno\N Station
 Dialogue: 2,0:00:34.18,0:00:34.22,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(352.88,263.77)\alpha&HFF&\t(-83,77,\alpha&H00&)}Nishinasuno\N Station
 Dialogue: 2,0:00:34.22,0:00:34.26,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(353.12,263.6)\alpha&HFF&\t(-125,35,\alpha&H00&)}Nishinasuno\N Station
@@ -984,9 +984,9 @@ Dialogue: 2,0:00:40.97,0:00:41.02,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur
 Dialogue: 2,0:00:41.02,0:00:41.06,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(353.2,262.83)\alpha&H00&}Nishinasuno\N Station
 Dialogue: 2,0:00:41.06,0:00:41.10,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(353.22,262.76)\alpha&H00&}Nishinasuno\N Station
 Dialogue: 2,0:00:41.10,0:00:41.14,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(354.04,262.7)\alpha&H00&}Nishinasuno\N Station
-Dialogue: 2,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(354.42,262.51)\alpha&H00&}Nishinasuno\N Station
+Dialogue: 2,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{=5}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFE7F8&\pos(354.42,262.51)\alpha&H00&}Nishinasuno\N Station
 Comment: 3,0:00:34.09,0:00:41.20,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(230,405)\alpha&HFF&\t(0,160,1,\alpha&H00&)}Tohoku\N Main Line
-Dialogue: 3,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(230,405)\alpha&HFF&\t(0,160,\alpha&H00&)}Tohoku\N Main Line
+Dialogue: 3,0:00:34.09,0:00:34.13,Sign,,0,0,0,,{=6}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(230,405)\alpha&HFF&\t(0,160,\alpha&H00&)}Tohoku\N Main Line
 Dialogue: 3,0:00:34.13,0:00:34.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(230.52,404)\alpha&HFF&\t(-41,119,\alpha&H00&)}Tohoku\N Main Line
 Dialogue: 3,0:00:34.18,0:00:34.22,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(230.88,404.77)\alpha&HFF&\t(-83,77,\alpha&H00&)}Tohoku\N Main Line
 Dialogue: 3,0:00:34.22,0:00:34.26,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(231.12,404.6)\alpha&HFF&\t(-125,35,\alpha&H00&)}Tohoku\N Main Line
@@ -1155,9 +1155,9 @@ Dialogue: 3,0:00:40.97,0:00:41.02,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur
 Dialogue: 3,0:00:41.02,0:00:41.06,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(231.2,403.83)\alpha&H00&}Tohoku\N Main Line
 Dialogue: 3,0:00:41.06,0:00:41.10,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(231.22,403.76)\alpha&H00&}Tohoku\N Main Line
 Dialogue: 3,0:00:41.10,0:00:41.14,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(232.04,403.7)\alpha&H00&}Tohoku\N Main Line
-Dialogue: 3,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(232.42,403.51)\alpha&H00&}Tohoku\N Main Line
+Dialogue: 3,0:00:41.14,0:00:41.18,Sign,,0,0,0,,{=7}{\fnFOT-Rodin Pro EB\b1\fs20\blur0.6\c&HFFEEF9&\pos(232.42,403.51)\alpha&H00&}Tohoku\N Main Line
 Comment: 0,0:01:14.89,0:01:19.90,Sign,,0,0,0,,{\pos(319,464)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
-Dialogue: 0,0:01:14.88,0:01:14.92,Sign,,0,0,0,,{\pos(319,464)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
+Dialogue: 0,0:01:14.88,0:01:14.92,Sign,,0,0,0,,{=8}{\pos(319,464)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:14.92,0:01:14.97,Sign,,0,0,0,,{\pos(318.08,463.7)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:14.97,0:01:15.01,Sign,,0,0,0,,{\pos(318.55,465.33)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:15.01,0:01:15.05,Sign,,0,0,0,,{\pos(318.48,466.75)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
@@ -1276,9 +1276,9 @@ Dialogue: 0,0:01:19.68,0:01:19.72,Sign,,0,0,0,,{\pos(319.15,463.78)\fnKozuka Min
 Dialogue: 0,0:01:19.72,0:01:19.76,Sign,,0,0,0,,{\pos(319.06,463.99)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:19.76,0:01:19.80,Sign,,0,0,0,,{\pos(318.66,464)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Dialogue: 0,0:01:19.80,0:01:19.85,Sign,,0,0,0,,{\pos(319.19,463.77)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
-Dialogue: 0,0:01:19.85,0:01:19.89,Sign,,0,0,0,,{\pos(319.9,464.1)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
+Dialogue: 0,0:01:19.85,0:01:19.89,Sign,,0,0,0,,{=9}{\pos(319.9,464.1)\fnKozuka Mincho Pro H\c&HFFF5FE&\3c&HFFF5FE&\bord0.1\blur1}September 1946 - Ryogo Village,\N Nasu County, Tochigi Prefecture
 Comment: 0,0:01:28.11,0:01:31.06,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454,244)\c&H3C4248&\blur0.6}Toda Josei is coming!
-Dialogue: 0,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454,244)\c&H3C4248&\blur0.6}Toda Josei is coming!
+Dialogue: 0,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{=10}{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454,244)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Dialogue: 0,0:01:28.19,0:01:28.23,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(453.97,243.41)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Dialogue: 0,0:01:28.23,0:01:28.27,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.08,244.08)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Dialogue: 0,0:01:28.27,0:01:28.31,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.11,244.1)\c&H3C4248&\blur0.6}Toda Josei is coming!
@@ -1345,9 +1345,9 @@ Dialogue: 0,0:01:30.82,0:01:30.86,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC
 Dialogue: 0,0:01:30.86,0:01:30.90,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.44,244.54)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Dialogue: 0,0:01:30.90,0:01:30.94,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.34,244.73)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Dialogue: 0,0:01:30.94,0:01:30.98,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.39,244.64)\c&H3C4248&\blur0.6}Toda Josei is coming!
-Dialogue: 0,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.65,244.22)\c&H3C4248&\blur0.6}Toda Josei is coming!
+Dialogue: 0,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{=11}{\fax-0.1\fs28\frz-90\fnArnovaITC TT\pos(454.65,244.22)\c&H3C4248&\blur0.6}Toda Josei is coming!
 Comment: 1,0:01:28.11,0:01:31.06,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370,237)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
-Dialogue: 1,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370,237)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
+Dialogue: 1,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{=12}{\fs28\frz-90\fnArnovaITC TT\pos(370,237)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Dialogue: 1,0:01:28.19,0:01:28.23,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(369.97,236.41)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Dialogue: 1,0:01:28.23,0:01:28.27,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.08,237.08)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Dialogue: 1,0:01:28.27,0:01:28.31,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.11,237.1)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
@@ -1414,9 +1414,9 @@ Dialogue: 1,0:01:30.82,0:01:30.86,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(
 Dialogue: 1,0:01:30.86,0:01:30.90,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.44,237.54)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Dialogue: 1,0:01:30.90,0:01:30.94,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.34,237.73)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Dialogue: 1,0:01:30.94,0:01:30.98,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.39,237.64)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
-Dialogue: 1,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{\fs28\frz-90\fnArnovaITC TT\pos(370.65,237.22)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
+Dialogue: 1,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{=13}{\fs28\frz-90\fnArnovaITC TT\pos(370.65,237.22)\c&H3C4248&\blur0.6}Grand Lecture on the Lotus Sutra
 Comment: 2,0:01:28.11,0:01:31.06,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270,260)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
-Dialogue: 2,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270,260)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
+Dialogue: 2,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{=14}{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270,260)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Dialogue: 2,0:01:28.19,0:01:28.23,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(269.97,259.41)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Dialogue: 2,0:01:28.23,0:01:28.27,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.08,260.08)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Dialogue: 2,0:01:28.27,0:01:28.31,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.11,260.1)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
@@ -1483,9 +1483,9 @@ Dialogue: 2,0:01:30.82,0:01:30.86,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC
 Dialogue: 2,0:01:30.86,0:01:30.90,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.44,260.54)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Dialogue: 2,0:01:30.90,0:01:30.94,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.34,260.73)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Dialogue: 2,0:01:30.94,0:01:30.98,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.39,260.64)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
-Dialogue: 2,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.65,260.22)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
+Dialogue: 2,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{=15}{\\fax0.1\fs28\frz-90\fnArnovaITC TT\pos(270.65,260.22)\c&H3C4248&\blur0.6}Time: September 22nd, 2 PM
 Comment: 3,0:01:28.11,0:01:31.06,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199,258)\c&H3C4248&\blur0.6}Location: Ryogo Public School
-Dialogue: 3,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199,258)\c&H3C4248&\blur0.6}Location: Ryogo Public School
+Dialogue: 3,0:01:28.10,0:01:28.19,Sign,,0,0,0,,{=16}{\fax0.2\frz-90\fnArnovaITC TT\pos(199,258)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Dialogue: 3,0:01:28.19,0:01:28.23,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(198.97,257.41)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Dialogue: 3,0:01:28.23,0:01:28.27,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.08,258.08)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Dialogue: 3,0:01:28.27,0:01:28.31,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.11,258.1)\c&H3C4248&\blur0.6}Location: Ryogo Public School
@@ -1552,9 +1552,9 @@ Dialogue: 3,0:01:30.82,0:01:30.86,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\po
 Dialogue: 3,0:01:30.86,0:01:30.90,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.44,258.54)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Dialogue: 3,0:01:30.90,0:01:30.94,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.34,258.73)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Dialogue: 3,0:01:30.94,0:01:30.98,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.39,258.64)\c&H3C4248&\blur0.6}Location: Ryogo Public School
-Dialogue: 3,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{\fax0.2\frz-90\fnArnovaITC TT\pos(199.65,258.22)\c&H3C4248&\blur0.6}Location: Ryogo Public School
+Dialogue: 3,0:01:30.98,0:01:31.07,Sign,,0,0,0,,{=17}{\fax0.2\frz-90\fnArnovaITC TT\pos(199.65,258.22)\c&H3C4248&\blur0.6}Location: Ryogo Public School
 Comment: 0,0:02:23.21,0:02:25.63,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178,384)\c&H1A1C20&}Ryogo\N Public\N School
-Dialogue: 0,0:02:23.20,0:02:23.24,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178,384)\c&H1A1C20&}Ryogo\N Public\N School
+Dialogue: 0,0:02:23.20,0:02:23.24,Sign,,0,0,0,,{=18}{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178,384)\c&H1A1C20&}Ryogo\N Public\N School
 Dialogue: 0,0:02:23.24,0:02:23.28,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.1,383.59)\c&H1A1C20&}Ryogo\N Public\N School
 Dialogue: 0,0:02:23.28,0:02:23.33,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.05,383.84)\c&H1A1C20&}Ryogo\N Public\N School
 Dialogue: 0,0:02:23.33,0:02:23.37,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.24,383.85)\c&H1A1C20&}Ryogo\N Public\N School
@@ -1610,9 +1610,9 @@ Dialogue: 0,0:02:25.37,0:02:25.41,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnK
 Dialogue: 0,0:02:25.41,0:02:25.45,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.19,383.45)\c&H1A1C20&}Ryogo\N Public\N School
 Dialogue: 0,0:02:25.45,0:02:25.50,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.2,383.45)\c&H1A1C20&}Ryogo\N Public\N School
 Dialogue: 0,0:02:25.50,0:02:25.54,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.2,383.26)\c&H1A1C20&}Ryogo\N Public\N School
-Dialogue: 0,0:02:25.54,0:02:25.62,Sign,,0,0,0,,{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.56,383.1)\c&H1A1C20&}Ryogo\N Public\N School
+Dialogue: 0,0:02:25.54,0:02:25.62,Sign,,0,0,0,,{=19}{\blur0.6\fry-10\frz-0.5\fs20\fnKozuka Mincho Pro H\pos(178.56,383.1)\c&H1A1C20&}Ryogo\N Public\N School
 Comment: 0,0:02:25.63,0:02:27.63,Sign,,0,0,0,,{\an7\pos(0,0)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
-Dialogue: 0,0:02:25.62,0:02:25.70,Sign,,0,0,0,,{\an7\pos(0,0)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
+Dialogue: 0,0:02:25.62,0:02:25.70,Sign,,0,0,0,,{=20}{\an7\pos(0,0)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Dialogue: 0,0:02:25.70,0:02:25.75,Sign,,0,0,0,,{\an7\pos(0.16,-0.78)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Dialogue: 0,0:02:25.75,0:02:25.79,Sign,,0,0,0,,{\an7\pos(0.41,-0.38)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Dialogue: 0,0:02:25.79,0:02:25.83,Sign,,0,0,0,,{\an7\pos(0.68,-0.43)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
@@ -1657,9 +1657,9 @@ Dialogue: 0,0:02:27.37,0:02:27.41,Sign,,0,0,0,,{\an7\pos(0.65,-0.38)\p1\c&H08080
 Dialogue: 0,0:02:27.41,0:02:27.46,Sign,,0,0,0,,{\an7\pos(0.46,-0.56)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Dialogue: 0,0:02:27.46,0:02:27.50,Sign,,0,0,0,,{\an7\pos(0.46,-0.54)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Dialogue: 0,0:02:27.50,0:02:27.54,Sign,,0,0,0,,{\an7\pos(0.68,-0.35)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
-Dialogue: 0,0:02:27.54,0:02:27.62,Sign,,0,0,0,,{\an7\pos(0.8,-0.75)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
+Dialogue: 0,0:02:27.54,0:02:27.62,Sign,,0,0,0,,{=21}{\an7\pos(0.8,-0.75)\p1\c&H08080A&}m 269 118 l 269 190 463 238 460 174{\p0}
 Comment: 1,0:02:25.63,0:02:27.63,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354,204)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
-Dialogue: 1,0:02:25.62,0:02:25.70,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354,204)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
+Dialogue: 1,0:02:25.62,0:02:25.70,Sign,,0,0,0,,{=22}{\fax0.3\fs44\frz-14\pos(354,204)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Dialogue: 1,0:02:25.70,0:02:25.75,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.16,203.22)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Dialogue: 1,0:02:25.75,0:02:25.79,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.41,203.62)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Dialogue: 1,0:02:25.79,0:02:25.83,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.68,203.57)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
@@ -1704,9 +1704,9 @@ Dialogue: 1,0:02:27.37,0:02:27.41,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.65,2
 Dialogue: 1,0:02:27.41,0:02:27.46,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.46,203.44)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Dialogue: 1,0:02:27.46,0:02:27.50,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.46,203.46)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Dialogue: 1,0:02:27.50,0:02:27.54,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.68,203.65)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
-Dialogue: 1,0:02:27.54,0:02:27.62,Sign,,0,0,0,,{\fax0.3\fs44\frz-14\pos(354.8,203.25)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
+Dialogue: 1,0:02:27.54,0:02:27.62,Sign,,0,0,0,,{=23}{\fax0.3\fs44\frz-14\pos(354.8,203.25)\fnKozuka Mincho Pro H\blur0.6\c&HC7BBC9&}M{*\fs43.75}a{*\fs43.5}i{*\fs43.25}n {*\fs42.75}H{*\fs42.5}a{*\fs42.25}l{\fs42}l
 Comment: 0,0:02:27.62,0:02:30.17,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176,522)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
-Dialogue: 0,0:02:27.62,0:02:27.66,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176,522)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
+Dialogue: 0,0:02:27.62,0:02:27.66,Sign,,0,0,0,,{=24}{\frx1-\frz-12\fs44\c&H282531&\pos(176,522)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Dialogue: 0,0:02:27.66,0:02:27.71,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.41,514.37)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Dialogue: 0,0:02:27.71,0:02:27.75,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.14,508.16)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Dialogue: 0,0:02:27.75,0:02:27.79,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.85,502.43)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
@@ -1766,9 +1766,9 @@ Dialogue: 0,0:02:29.96,0:02:30.00,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\po
 Dialogue: 0,0:02:30.00,0:02:30.04,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.41,127.21)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Dialogue: 0,0:02:30.04,0:02:30.08,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.77,120.08)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Dialogue: 0,0:02:30.08,0:02:30.12,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.79,112.89)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
-Dialogue: 0,0:02:30.12,0:02:30.17,Sign,,0,0,0,,{\frx1-\frz-12\fs44\c&H282531&\pos(176.86,105.93)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
+Dialogue: 0,0:02:30.12,0:02:30.17,Sign,,0,0,0,,{=25}{\frx1-\frz-12\fs44\c&H282531&\pos(176.86,105.93)\fnAmarante\blur0.6}Lotus\N Sutra\N Grand\N Lecture
 Comment: 0,0:04:13.19,0:04:15.19,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330,210)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
-Dialogue: 0,0:04:13.19,0:04:13.27,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330,210)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
+Dialogue: 0,0:04:13.19,0:04:13.27,Sign,,0,0,0,,{=26}{\fax1.2\fscy80\frz12\pos(330,210)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Dialogue: 0,0:04:13.27,0:04:13.31,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.16,209.61)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Dialogue: 0,0:04:13.31,0:04:13.35,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.66,209.98)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Dialogue: 0,0:04:13.35,0:04:13.39,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.73,210.33)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
@@ -1813,9 +1813,9 @@ Dialogue: 0,0:04:14.94,0:04:14.98,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.44,
 Dialogue: 0,0:04:14.98,0:04:15.02,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.63,209.92)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Dialogue: 0,0:04:15.02,0:04:15.06,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.36,210.16)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Dialogue: 0,0:04:15.06,0:04:15.10,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.12,210.13)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
-Dialogue: 0,0:04:15.10,0:04:15.19,Sign,,0,0,0,,{\fax1.2\fscy80\frz12\pos(330.12,210.08)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
+Dialogue: 0,0:04:15.10,0:04:15.19,Sign,,0,0,0,,{=27}{\fax1.2\fscy80\frz12\pos(330.12,210.08)\fnEddieBecker-Heavy\b0\c&H36B4DF&\blur0.6}Nichiren{\alpha&HFF&}.................{\alpha&H0&}\NDaishonin's{\alpha&HFF&}........{\alpha&H0&}\N Scriptures
 Comment: 0,0:04:44.01,0:04:46.02,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346,232)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
-Dialogue: 0,0:04:44.01,0:04:44.09,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346,232)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
+Dialogue: 0,0:04:44.01,0:04:44.09,Sign,,0,0,0,,{=28}{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346,232)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:04:44.09,0:04:44.13,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.2,231.5)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:04:44.13,0:04:44.18,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.25,232.33)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:04:44.18,0:04:44.22,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.65,232.59)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
@@ -1860,13 +1860,13 @@ Dialogue: 0,0:04:45.76,0:04:45.80,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H1
 Dialogue: 0,0:04:45.80,0:04:45.84,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.59,232.39)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:04:45.84,0:04:45.89,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.7,232.4)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:04:45.89,0:04:45.93,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.64,232.48)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
-Dialogue: 0,0:04:45.93,0:04:46.01,Sign,,0,0,0,,{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.57,232.4)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
+Dialogue: 0,0:04:45.93,0:04:46.01,Sign,,0,0,0,,{=29}{\frx3\frz-90\blur1.2\fax0.3\c&H151319&\3c&H151319&\bord0.1\fnAlberta\pos(346.57,232.4)}{*\fax0.297\c&H071E3A&}N{*\fax0.293}I{*\fax0.29}H{*\fax0.287}O{*\fax0.283}N {*\fax0.277}S{*\fax0.273}H{*\fax0.27}O{*\fax0.267}G{*\fax0.263}A{*\fax0.26}K{*\fax0.257}K{*\fax0.253}A{\fax0.25}N
 Dialogue: 0,0:06:26.32,0:06:28.83,Note,,0,0,0,,Sign: Rationing Center {食料支給人}
 Dialogue: 0,0:06:28.83,0:06:32.78,Note,,0,0,0,,Sign: Protest Against Layoffs! {馘首絶\N対反対}
 Dialogue: 0,0:06:32.78,0:06:34.79,Note,,0,0,0,,Headline: Strikes at Toshiba {東芝罷業決行}
 Dialogue: 0,0:06:36.81,0:06:39.79,Note,,0,0,0,,Headline: Control of National Media {放送の國家管理}
 Comment: 0,0:06:39.79,0:06:42.84,Sign,,0,0,0,,{\pos(319,464)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
-Dialogue: 0,0:06:39.79,0:06:39.83,Sign,,0,0,0,,{\pos(319,464)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
+Dialogue: 0,0:06:39.79,0:06:39.83,Sign,,0,0,0,,{=30}{\pos(319,464)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Dialogue: 0,0:06:39.83,0:06:39.87,Sign,,0,0,0,,{\pos(319.01,463.99)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Dialogue: 0,0:06:39.87,0:06:39.92,Sign,,0,0,0,,{\pos(319.09,463.86)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Dialogue: 0,0:06:39.92,0:06:39.96,Sign,,0,0,0,,{\pos(319.19,463.59)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
@@ -1935,9 +1935,9 @@ Dialogue: 0,0:06:42.54,0:06:42.59,Sign,,0,0,0,,{\pos(319.28,463.19)\fnKozuka Min
 Dialogue: 0,0:06:42.59,0:06:42.63,Sign,,0,0,0,,{\pos(319.25,463.15)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Dialogue: 0,0:06:42.63,0:06:42.67,Sign,,0,0,0,,{\pos(319.27,463.11)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Dialogue: 0,0:06:42.67,0:06:42.71,Sign,,0,0,0,,{\pos(319.45,462.86)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
-Dialogue: 0,0:06:42.71,0:06:42.84,Sign,,0,0,0,,{\pos(319.24,462.65)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
+Dialogue: 0,0:06:42.71,0:06:42.84,Sign,,0,0,0,,{=31}{\pos(319.24,462.65)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1}November 17, 1946 \NKanda Education Hall
 Comment: 0,0:06:42.83,0:06:45.76,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348,135)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
-Dialogue: 0,0:06:42.84,0:06:42.88,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348,135)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
+Dialogue: 0,0:06:42.84,0:06:42.88,Sign,,0,0,0,,{=32}{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348,135)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Dialogue: 0,0:06:42.88,0:06:42.92,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348.17,134.13)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Dialogue: 0,0:06:42.92,0:06:42.96,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(349,135.27)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Dialogue: 0,0:06:42.96,0:06:43.00,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348.55,135.56)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
@@ -2006,9 +2006,9 @@ Dialogue: 0,0:06:45.55,0:06:45.59,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0
 Dialogue: 0,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(348.61,135.24)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Dialogue: 0,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(349.06,135.2)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Dialogue: 0,0:06:45.67,0:06:45.71,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(349.1,134.83)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
-Dialogue: 0,0:06:45.71,0:06:45.76,Sign,,0,0,0,,{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(349.11,134.83)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
+Dialogue: 0,0:06:45.71,0:06:45.76,Sign,,0,0,0,,{=33}{\fnAd Hoc\fry11\fs38\frz-23\fax0.5\pos(349.11,134.83)\c&H2D3834&\4c&H121515&\blur1\yshad1\xshad-3}ED UCATION H ALL
 Comment: 0,0:07:11.85,0:07:22.55,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(516,86)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
-Dialogue: 0,0:07:11.86,0:07:11.91,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(516,86)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
+Dialogue: 0,0:07:11.86,0:07:11.91,Sign,,0,0,0,,{=34}{\fnKozuka Mincho Pro H\an3\pos(516,86)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Dialogue: 0,0:07:11.91,0:07:11.95,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.42,86.01)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Dialogue: 0,0:07:11.95,0:07:11.99,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(516.1,86.06)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Dialogue: 0,0:07:11.99,0:07:12.03,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.5,86.01)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
@@ -2261,9 +2261,9 @@ Dialogue: 0,0:07:22.29,0:07:22.33,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(5
 Dialogue: 0,0:07:22.33,0:07:22.38,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.34,85.7)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Dialogue: 0,0:07:22.38,0:07:22.42,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.39,85.63)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Dialogue: 0,0:07:22.42,0:07:22.50,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.4,85.45)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
-Dialogue: 0,0:07:22.50,0:07:22.54,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an3\pos(515.25,84.97)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
+Dialogue: 0,0:07:22.50,0:07:22.54,Sign,,0,0,0,,{=35}{\fnKozuka Mincho Pro H\an3\pos(515.25,84.97)\3c&HFFFFFF&\bord0.1\blur1\c&HFFFFFF&\shad2}In all the planes of Buddhist existence,\N the bond between mentor and disciple is eternal {在在諸仏土 常与師俱生}
 Comment: 0,0:07:56.49,0:08:02.59,Sign,,0,0,0,,{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,250,1,\alpha&H00&)}First Soka Gakkai General Meeting
-Dialogue: 0,0:07:56.49,0:07:56.53,Sign,,0,0,0,,{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,250,\alpha&H00&)}First Soka Gakkai General Meeting
+Dialogue: 0,0:07:56.49,0:07:56.53,Sign,,0,0,0,,{=36}{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,250,\alpha&H00&)}First Soka Gakkai General Meeting
 Dialogue: 0,0:07:56.53,0:07:56.58,Sign,,0,0,0,,{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(-42,208,\alpha&H00&)}First Soka Gakkai General Meeting
 Dialogue: 0,0:07:56.58,0:07:56.62,Sign,,0,0,0,,{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(-83,167,\alpha&H00&)}First Soka Gakkai General Meeting
 Dialogue: 0,0:07:56.62,0:07:56.66,Sign,,0,0,0,,{\pos(326,440)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(-125,125,\alpha&H00&)}First Soka Gakkai General Meeting
@@ -2408,14 +2408,14 @@ Dialogue: 0,0:08:02.37,0:08:02.42,Sign,,0,0,0,,{\pos(324.86,439.79)\fnKozuka Min
 Dialogue: 0,0:08:02.42,0:08:02.46,Sign,,0,0,0,,{\pos(325.25,440.19)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}First Soka Gakkai General Meeting
 Dialogue: 0,0:08:02.46,0:08:02.50,Sign,,0,0,0,,{\pos(325.04,439.91)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}First Soka Gakkai General Meeting
 Dialogue: 0,0:08:02.50,0:08:02.54,Sign,,0,0,0,,{\pos(325.46,439.57)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}First Soka Gakkai General Meeting
-Dialogue: 0,0:08:02.54,0:08:02.58,Sign,,0,0,0,,{\pos(325.46,439.57)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}First Soka Gakkai General Meeting
+Dialogue: 0,0:08:02.54,0:08:02.58,Sign,,0,0,0,,{=37}{\pos(325.46,439.57)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}First Soka Gakkai General Meeting
 Dialogue: 0,0:13:17.25,0:13:19.74,Note,,0,0,0,,Signs: Strikes! Everyone, Go On Strike! {etc}\NToshiba Union Strikes {東芝労組ストテ中}
 Dialogue: 0,0:13:19.74,0:13:21.32,Note,,0,0,0,,Headline: Joint Struggle to Begin Next Month\N{Establish a Unification Committee} {來月から共闘へ\N統一委員會を設く - no idea what this is about, probably establishment of trade unions?}
 Dialogue: 0,0:13:21.32,0:13:22.91,Note,,0,0,0,,Headline: {Government and Public Sector }Unions Declare Joint Struggle \NUltimatum Expires on 7th {全官公晓労組が\N共同闘争を宣言\N七日までに回答要}
 Dialogue: 0,0:13:22.90,0:13:26.04,Note,,0,0,0,,Sign: Yoshida-san, Stop It! {吉田サンヤメテヨ!!}{https://en.wikipedia.org/wiki/Shigeru_Yoshida}
 Dialogue: 0,0:15:42.37,0:15:44.30,Note,,0,0,0,,{\fad(400,0)}Headline: New Secondary School System {Starts on 17th}\NDesignated Schools are Now Co-educational{\NPrivate Schools and Prestigious Schools too}{新制中學十七日發足\N指定校は男女共學\N私立有名校は映}{context: https://en.wikipedia.org/wiki/Educational_reform_in_occupied_Japan}
 Comment: 0,0:15:44.30,0:15:50.10,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573,460)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
-Dialogue: 0,0:15:44.29,0:15:44.33,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573,460)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
+Dialogue: 0,0:15:44.29,0:15:44.33,Sign,,0,0,0,,{=38}{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573,460)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Dialogue: 0,0:15:44.33,0:15:44.38,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(572.04,459.03)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Dialogue: 0,0:15:44.38,0:15:44.42,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(572.97,460.23)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Dialogue: 0,0:15:44.42,0:15:44.46,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(572.59,462.22)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
@@ -2553,9 +2553,9 @@ Dialogue: 0,0:15:49.88,0:15:49.92,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFF
 Dialogue: 0,0:15:49.92,0:15:49.97,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573.12,461.9)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Dialogue: 0,0:15:49.97,0:15:50.01,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573.22,461.79)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Dialogue: 0,0:15:50.01,0:15:50.05,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573.9,461.29)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
-Dialogue: 0,0:15:50.05,0:15:50.09,Sign,,0,0,0,,{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573.23,461.78)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
+Dialogue: 0,0:15:50.05,0:15:50.09,Sign,,0,0,0,,{=39}{\an3\fnKozuka Mincho Pro H\c&HFFF6FC&\3c&HFDF4FB&\bord0.1\blur1\pos(573.23,461.78)}April 1st: The 6-3 system is implemented. New junior\N high school system begins as compulsory education
 Comment: 0,0:15:50.10,0:15:54.66,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(332,470)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
-Dialogue: 0,0:15:50.09,0:15:50.13,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(332,470)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
+Dialogue: 0,0:15:50.09,0:15:50.13,Sign,,0,0,0,,{=40}{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(332,470)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Dialogue: 0,0:15:50.13,0:15:50.17,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(332.98,468.3)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Dialogue: 0,0:15:50.17,0:15:50.22,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(332.96,468.29)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Dialogue: 0,0:15:50.22,0:15:50.26,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(333.19,468.67)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
@@ -2663,9 +2663,9 @@ Dialogue: 0,0:15:54.43,0:15:54.47,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF
 Dialogue: 0,0:15:54.47,0:15:54.51,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(333.62,468.54)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Dialogue: 0,0:15:54.51,0:15:54.55,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(333.72,468.58)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Dialogue: 0,0:15:54.55,0:15:54.60,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(334.14,468.48)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
-Dialogue: 0,0:15:54.60,0:15:54.64,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(333.72,468.58)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
+Dialogue: 0,0:15:54.60,0:15:54.64,Sign,,0,0,0,,{=41}{\fnKozuka Mincho Pro H\c&HFFFDFF&\3c&HFFFDFF&\bord0.1\blur1\pos(333.72,468.58)}May 3rd: The Constitution of Japan comes into force, ushering in a new era for Japan
 Comment: 0,0:16:51.60,0:16:53.55,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(249,144)\c&H252525&\blur1\fnAd Hoc}Yamamoto
-Dialogue: 0,0:16:51.61,0:16:51.69,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(249,144)\c&H252525&\blur1\fnAd Hoc}Yamamoto
+Dialogue: 0,0:16:51.61,0:16:51.69,Sign,,0,0,0,,{=42}{\frx20\frz-26\fax0.4\fs22\pos(249,144)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:16:51.69,0:16:51.74,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(249.07,143.82)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:16:51.74,0:16:51.78,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(249.91,144.95)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:16:51.78,0:16:51.82,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(249.88,144.75)\c&H252525&\blur1\fnAd Hoc}Yamamoto
@@ -2709,10 +2709,10 @@ Dialogue: 0,0:16:53.32,0:16:53.36,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(25
 Dialogue: 0,0:16:53.36,0:16:53.40,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(250.19,144.92)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:16:53.40,0:16:53.45,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(250.35,144.77)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:16:53.45,0:16:53.49,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(251.31,144.62)\c&H252525&\blur1\fnAd Hoc}Yamamoto
-Dialogue: 0,0:16:53.49,0:16:53.53,Sign,,0,0,0,,{\frx20\frz-26\fax0.4\fs22\pos(251.32,144.61)\c&H252525&\blur1\fnAd Hoc}Yamamoto
+Dialogue: 0,0:16:53.49,0:16:53.53,Sign,,0,0,0,,{=43}{\frx20\frz-26\fax0.4\fs22\pos(251.32,144.61)\c&H252525&\blur1\fnAd Hoc}Yamamoto
 Dialogue: 0,0:19:42.80,0:19:44.75,Sign,,0,0,0,,{\frz13\fax-0.2\fnAd Hoc\pos(419,222)\c&H010101&\blur1}Mikawa {三川}{this is unreadable and could be skipped}
 Comment: 0,0:28:02.78,0:28:05.83,Sign,,0,0,0,,{\pos(322,430)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,100,1,\alpha&H00&)}Yubari, Mayachi
-Dialogue: 0,0:28:02.78,0:28:02.82,Sign,,0,0,0,,{\pos(322,430)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,100,\alpha&H00&)}Yubari, Mayachi
+Dialogue: 0,0:28:02.78,0:28:02.82,Sign,,0,0,0,,{=44}{\pos(322,430)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(0,100,\alpha&H00&)}Yubari, Mayachi
 Dialogue: 0,0:28:02.82,0:28:02.86,Sign,,0,0,0,,{\pos(322,430)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(-42,58,\alpha&H00&)}Yubari, Mayachi
 Dialogue: 0,0:28:02.86,0:28:02.91,Sign,,0,0,0,,{\pos(322,430)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&HFF&\t(-84,16,\alpha&H00&)}Yubari, Mayachi
 Dialogue: 0,0:28:02.91,0:28:02.95,Sign,,0,0,0,,{\pos(321.79,429.98)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
@@ -2784,10 +2784,58 @@ Dialogue: 0,0:28:05.62,0:28:05.66,Sign,,0,0,0,,{\pos(322.63,429.41)\fnKozuka Min
 Dialogue: 0,0:28:05.66,0:28:05.70,Sign,,0,0,0,,{\pos(322.64,429.5)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
 Dialogue: 0,0:28:05.70,0:28:05.74,Sign,,0,0,0,,{\pos(322.65,429.17)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
 Dialogue: 0,0:28:05.74,0:28:05.78,Sign,,0,0,0,,{\pos(323.35,428.82)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
-Dialogue: 0,0:28:05.78,0:28:05.83,Sign,,0,0,0,,{\pos(324.14,428.89)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
+Dialogue: 0,0:28:05.78,0:28:05.83,Sign,,0,0,0,,{=45}{\pos(324.14,428.89)\fnKozuka Mincho Pro H\c&HFDFAFF&\3c&HFDFAFF&\bord0.1\blur1\alpha&H00&}Yubari, Mayachi
 Dialogue: 0,0:28:05.83,0:28:09.92,Note,,0,0,0,,{\fade(0,1600)}Sign: Mayachi Elementary School {真谷地尋常小學校}
 Dialogue: 0,0:29:19.65,0:29:24.61,Sign,,0,0,0,,{\fad(200,120)\blur0.6\shad2\an6\pos(220,370)\c&HFFF1FE&} Raw provider\N\N\N \N Encoding & QC \N Translation \N Editing \N Typesetting\NQC
 Dialogue: 1,0:29:19.65,0:29:24.61,Sign,,0,0,0,,{\fad(200,120)\blur0.6\shad2\an4\pos(252,370)\c&HFFF1FE&} WOWmd\N\N\N \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \N Collectr \N Muzussawa, True Noobow Gamer
 Dialogue: 0,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HE0&\t(30,1000,.5,\alpha&H0&)\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFCF5FE&\3c&HFFFFFF&\bord0.5\blur1\pos(312,80)}The Human Revolution
 Dialogue: 1,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HE0&\t(30,1000,.5,\alpha&H0&)\fs30\pos(312,274)\fnKozuka Mincho Pro H\c&HFDF7FF&}Episode 2
 Dialogue: 2,0:29:25.16,0:29:32.42,Sign,,0,0,0,,{\alpha&HF0&\t(30,1000,.5,\alpha&H0&)\fs50\pos(312,414)\fnKozuka Mincho Pro H\c&HFCEFFD&}The End
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 4,_aegi_folddata,e0;1;3
+Data: 5,_aegi_folddata,e1;1;3
+Data: 6,_aegi_folddata,e0;1;4
+Data: 7,_aegi_folddata,e1;1;4
+Data: 8,_aegi_folddata,e0;1;5
+Data: 9,_aegi_folddata,e1;1;5
+Data: 10,_aegi_folddata,e0;1;6
+Data: 11,_aegi_folddata,e1;1;6
+Data: 12,_aegi_folddata,e0;1;7
+Data: 13,_aegi_folddata,e1;1;7
+Data: 14,_aegi_folddata,e0;1;8
+Data: 15,_aegi_folddata,e1;1;8
+Data: 16,_aegi_folddata,e0;1;9
+Data: 17,_aegi_folddata,e1;1;9
+Data: 18,_aegi_folddata,e0;1;10
+Data: 19,_aegi_folddata,e1;1;10
+Data: 20,_aegi_folddata,e0;1;11
+Data: 21,_aegi_folddata,e1;1;11
+Data: 22,_aegi_folddata,e0;1;12
+Data: 23,_aegi_folddata,e1;1;12
+Data: 24,_aegi_folddata,e0;1;13
+Data: 25,_aegi_folddata,e1;1;13
+Data: 26,_aegi_folddata,e0;1;14
+Data: 27,_aegi_folddata,e1;1;14
+Data: 28,_aegi_folddata,e0;1;15
+Data: 29,_aegi_folddata,e1;1;15
+Data: 30,_aegi_folddata,e0;1;16
+Data: 31,_aegi_folddata,e1;1;16
+Data: 32,_aegi_folddata,e0;1;17
+Data: 33,_aegi_folddata,e1;1;17
+Data: 34,_aegi_folddata,e0;1;18
+Data: 35,_aegi_folddata,e1;1;18
+Data: 36,_aegi_folddata,e0;1;19
+Data: 37,_aegi_folddata,e1;1;19
+Data: 38,_aegi_folddata,e0;1;20
+Data: 39,_aegi_folddata,e1;1;20
+Data: 40,_aegi_folddata,e0;1;21
+Data: 41,_aegi_folddata,e1;1;21
+Data: 42,_aegi_folddata,e0;1;22
+Data: 43,_aegi_folddata,e1;1;22
+Data: 44,_aegi_folddata,e0;1;23
+Data: 45,_aegi_folddata,e1;1;23
