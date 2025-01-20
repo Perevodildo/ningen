@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 03 [DVD] [69B098C3].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.375000
-Scroll Position: 462
-Active Line: 1374
-Video Position: 8432
+Scroll Position: 440
+Active Line: 465
+Video Position: 43001
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,7 +55,7 @@ Dialogue: 10,0:01:30.92,0:01:34.86,NarrTop,,0,0,0,,at the new Soka Gakkai headqu
 Dialogue: 10,0:01:40.72,0:01:42.93,Default,,0,0,0,,Happy New Year.
 Dialogue: 10,0:01:42.93,0:01:44.43,Default,,0,0,0,,Happy New Year!
 Dialogue: 10,0:01:44.93,0:01:48.96,Default,,0,0,0,,Happy New Year, Sensei. I hope we'll keep doing what we're doing this year as well. {aikawarazu = as always, without change}
-Dialogue: 10,0:01:48.96,0:01:50.97,Default,,0,0,0,,Hello. Congratulations.
+Dialogue: 10,0:01:48.96,0:01:50.97,Default,,0,0,0,,Yes. Congratulations.
 Dialogue: 10,0:01:52.01,0:01:55.96,Default,,0,0,0,,However, we'll be in trouble if we just keep doing our usual thing this year. Isn't that right?
 Dialogue: 10,0:01:56.71,0:02:01.49,Default,,0,0,0,,By sticking to the same work as last year, \Nwe'll just stifle the Common Path. {/lead ... to stagnation}
 Dialogue: 10,0:02:01.49,0:02:04.94,Default,,0,0,0,,Do you mean to say you'll keep fidgeting during lectures this year, Harayama-kun? {lit: moving restlessly - no clue what he means, assuming harayama is inattentive or something}
@@ -73,7 +73,7 @@ Dialogue: 10,0:02:43.95,0:02:47.15,Default,,0,0,0,,For me, it was giving lecture
 Dialogue: 10,0:02:47.15,0:02:50.87,Default,,0,0,0,,But outside that, little to no educational work was undertaken.
 Dialogue: 10,0:02:52.44,0:02:57.57,Default,,0,0,0,,When an organization becomes more orderly, complacency among executives is inevitable.
 Dialogue: 10,0:02:57.57,0:03:02.37,Default,,0,0,0,,But we can't notice it ourselves. We just think that we're still doing a good job, like before. {like last year/as always}
-Dialogue: 10,0:03:02.37,0:03:05.28,Default,,0,0,0,,We settle for this "business as usual" as "good enough."
+Dialogue: 10,0:03:02.37,0:03:05.28,Default,,0,0,0,,We settle for this "business as usual" \Nmindset as "good enough."
 Dialogue: 10,0:03:05.28,0:03:07.77,Default,,0,0,0,,That's the root of stagnation.
 Dialogue: 10,0:03:08.29,0:03:12.10,Default,,0,0,0,,Please forgive my slip-up earlier, Sensei.
 Dialogue: 10,0:03:12.10,0:03:17.29,Default,,0,0,0,,I look forward to evolving with you this year, \Nand welcome any change.
@@ -150,7 +150,7 @@ Dialogue: 10,0:07:18.81,0:07:23.88,Thought,,0,0,0,,I have no choice but to leave
 Dialogue: 10,0:07:25.94,0:07:32.35,Narrator,,0,0,0,,Thus, young Toda resigned his position as an elementary school teacher and set out for Tokyo.
 Dialogue: 10,0:07:35.61,0:07:38.24,NarrTop,,0,0,0,,His first order of business was to earn a living,
 Dialogue: 10,0:07:38.24,0:07:42.61,NarrTop,,0,0,0,,so young Toda made the rounds through several job agencies, looking for work.
-Dialogue: 10,0:07:42.61,0:07:45.24,NarrTop,,0,0,0,,But with the slumping economy \Nand a recession raging,
+Dialogue: 10,0:07:42.61,0:07:45.24,NarrTop,,0,0,0,,But with the slumping economy \Nand a raging recession,
 Dialogue: 10,0:07:45.24,0:07:47.86,NarrTop,,0,0,0,,he wasn't able to land a job anywhere.
 Dialogue: 10,0:07:47.86,0:07:50.87,NarrTop,,0,0,0,,And so, when his hope was already waning...
 Dialogue: 10,0:07:51.42,0:07:55.70,Default,,0,0,0,,While working at Mayachi Elementary School, \NI wrote a petition to the Minister of Education
@@ -210,14 +210,14 @@ Dialogue: 10,0:11:16.20,0:11:20.09,Narrator,,0,0,0,,and wished sincerely for the
 Dialogue: 10,0:11:20.09,0:11:22.51,Narrator,,0,0,0,,were labeled as national dissenters.
 Dialogue: 10,0:11:23.31,0:11:27.72,Narrator,,0,0,0,,It was a truly deranged time, \Nfilled with irrationality and contradiction.
 Dialogue: 10,0:11:28.35,0:11:31.96,Thought,,0,0,0,,Toda-kun and the other executives \Nare probably going to be arrested too.
-Dialogue: 10,0:11:32.85,0:11:34.75,Default,,0,0,0,,The time has come.
+Dialogue: 10,0:11:32.85,0:11:34.75,Thought,,0,0,0,,The time has come.
 Dialogue: 10,0:11:35.45,0:11:38.97,Thought,,0,0,0,,The time has come to fight for our lives!
 Dialogue: 10,0:11:39.72,0:11:42.98,Thought,,0,0,0,,This battle, which has forced a direct confrontation
 Dialogue: 10,0:11:42.98,0:11:47.67,Thought,,0,0,0,,with state power, will probably be remembered as my last remaining example
 Dialogue: 10,0:11:47.67,0:11:50.79,Thought,,0,0,0,,of admonition to the state. {unsure: 国家権力と真正面から衝突せざるを得ないこの戦いこそ牧口常三郎に最後に残された国家諫暁の実践だといえよう}
 Dialogue: 10,0:11:50.79,0:11:53.41,Thought,,0,0,0,,The time for it has come.
 Dialogue: 10,0:11:57.75,0:12:01.59,Thought,,0,0,0,,And then, Makiguchi-sensei passed away in prison.
-Dialogue: 10,0:12:01.59,0:12:04.78,Thought,,0,0,0,,Kowtowing is just another word \Nfor "death of the human soul."
+Dialogue: 10,0:12:01.59,0:12:04.78,Thought,,0,0,0,,Kneeling is just another word \Nfor "death of the human soul." {/Kowtowing}
 Dialogue: 10,0:12:04.78,0:12:09.68,Thought,,0,0,0,,In that sense, Sensei had won the ultimate fight for his religious freedom.
 Dialogue: 10,0:12:09.68,0:12:12.21,Thought,,0,0,0,,He spoke about the theory of goodness \Nat his pretrial hearing, {/axiology}
 Dialogue: 10,0:12:12.21,0:12:14.09,Thought,,0,0,0,,he preached Buddha Dharma to the guards.
@@ -265,7 +265,7 @@ Dialogue: 10,0:14:16.82,0:14:21.58,Narrator,,0,0,0,,Thus was born the boys' maga
 Dialogue: 10,0:14:21.58,0:14:24.59,Narrator,,0,0,0,,"Adventure Boy" quickly became a hit among children
 Dialogue: 10,0:14:24.59,0:14:28.20,Narrator,,0,0,0,,for its imaginative science stories \Nand adventures in the uncharted lands {/unknown territories/terra incognita}
 Dialogue: 10,0:14:28.20,0:14:31.36,Narrator,,0,0,0,,that connected to children's dreams. {/that children could relate to}
-Dialogue: 10,0:14:32.33,0:14:36.62,Narrator,,0,0,0,,Toda devoted himself to the management of the Nihon Shogakkan,
+Dialogue: 10,0:14:32.33,0:14:36.62,Narrator,,0,0,0,,Toda devoted himself to the management of Nihon Shogakkan,
 Dialogue: 10,0:14:36.62,0:14:39.02,Narrator,,0,0,0,,while at the same time training and fostering
 Dialogue: 10,0:14:39.02,0:14:42.24,Narrator,,0,0,0,,new leaders who would handle the missionary work in various regions.
 Dialogue: 10,0:14:43.04,0:14:46.07,NarrTop,,0,0,0,,New young talents emerged one after another,
@@ -456,7 +456,7 @@ Dialogue: 10,0:26:17.06,0:26:18.99,Default,,0,0,0,,I brought Yamamoto-kun.
 Dialogue: 10,0:26:21.80,0:26:25.08,Default,,0,0,0,,I'm Yamamoto Shinichi. \NMy resume. {actually "nice to meet you" but they met before}
 Dialogue: 10,0:26:25.08,0:26:26.54,Default,,0,0,0,,Sit there.
 Dialogue: 10,0:26:26.54,0:26:27.52,Default,,0,0,0,,Okay.
-Dialogue: 10,0:26:39.62,0:26:41.63,Default,,0,0,0,,So, wanna do some good? {unsure}
+Dialogue: 10,0:26:39.62,0:26:41.63,Default,,0,0,0,,So, are you ready to do some work? 
 Dialogue: 10,0:26:41.63,0:26:43.62,Default,,0,0,0,,Yes! You can count on me.
 Dialogue: 10,0:26:47.09,0:26:50.05,Thought,,0,0,0,,I've finally crossed the Rubicon.
 Dialogue: 10,0:26:50.69,0:26:51.27,Thought,,0,0,0,,However,
