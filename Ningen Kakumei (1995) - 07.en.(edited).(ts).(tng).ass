@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 07 [DVD] [5FD9B9E6].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.875000
-Scroll Position: 7
-Active Line: 458
-Video Position: 44678
+Scroll Position: 389
+Active Line: 1319
+Video Position: 10050
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -947,7 +947,7 @@ Dialogue: 4,0:31:11.77,0:31:17.65,Sign,,0,0,0,,{\fad(1101,0)\fs50\blur0.8\fnKozu
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{oped border}
 Dialogue: 10,0:00:46.00,0:00:49.45,Thought,,0,0,0,,Maybe it's time to put Shin on the front line?
 Dialogue: 10,0:00:52.10,0:00:56.45,NarrTop,,0,0,0,,The year is 1952. January.
-Dialogue: 10,0:00:57.01,0:01:02.68,Narrator,,0,0,0,,Soka Gakkai members enthusiastically got to work early in the new year
+Dialogue: 10,0:00:57.01,0:01:02.68,Narrator,,0,0,0,,Soka Gakkai members enthusiastically got to work early in the new year.
 Dialogue: 10,0:01:02.68,0:01:07.52,Narrator,,0,0,0,,At the Kamata branch, Yamamoto Shinichi, the newly appointed branch secretary,
 Dialogue: 10,0:01:07.52,0:01:10.19,Narrator,,0,0,0,,was about to take charge \Nof the effort
 Dialogue: 10,0:01:10.19,0:01:15.76,Narrator,,0,0,0,,to spread Buddhism to 750,000 households. A foremost objective of the Common Path.
@@ -1008,7 +1008,7 @@ Dialogue: 10,0:05:05.66,0:05:10.08,Default,,0,0,0,,I sacrificed my life to the c
 Dialogue: 10,0:05:10.08,0:05:15.87,Default,,0,0,0,,So, even if my body ends up washed up on the shores of Shinagawa or elsewhere,
 Dialogue: 10,0:05:15.87,0:05:19.19,Default,,0,0,0,,as long as we support the third president,
 Dialogue: 10,0:05:19.19,0:05:22.78,Default,,0,0,0,,I’m confident that the Common Path \Nis within our grasp.
-Dialogue: 10,0:05:22.78,0:05:27.33,Narrator,,0,0,0,,Toda's words that day can genuinely be considered his testament. {/last will}
+Dialogue: 10,0:05:22.78,0:05:27.33,Narrator,,0,0,0,,Toda's words that day could genuinely be considered his testament. {/last will}
 Dialogue: 10,0:05:27.33,0:05:29.41,Narrator,,0,0,0,,At that moment, Toda's heart
 Dialogue: 10,0:05:29.41,0:05:33.35,Narrator,,0,0,0,,was clearly filled with various thoughts \Naimed at the third president,
 Dialogue: 10,0:05:33.35,0:05:35.58,Narrator,,0,0,0,,to whom he was entrusting his legacy. {lit: entrusting with what happens after his death}
@@ -1341,7 +1341,7 @@ Dialogue: 10,0:29:59.44,0:30:03.74,Narrator,,0,0,0,,From 1952 to 1953, \Nan unpr
 Dialogue: 10,0:30:03.74,0:30:06.84,Narrator,,0,0,0,,of forging the Common Path \Nwas ushered in
 Dialogue: 10,0:30:06.84,0:30:11.10,Narrator,,0,0,0,,through the deep bond of joint struggle \Nbetween teacher and disciple.
 Comment: 0,0:30:11.10,0:30:13.10,Narrator,,0,0,0,,{signs}
-Dialogue: 0,0:06:48.01,0:06:57.52,Note,,0,0,0,,Headline: February Executive Meeting \NKamata and Adachi make great strides {二月幹部會\N蒲田・足立が飛躍}
+Dialogue: 0,0:06:48.01,0:06:57.52,Note,,0,0,0,,Headline: February Executive Meeting; \NKamata and Adachi make great strides. {二月幹部會\N蒲田・足立が飛躍}
 Comment: 0,0:08:06.76,0:08:16.23,Sign,,0,0,0,,The Complete Collection of Nichiren Daishonin's Writings {untypesettable, would overlap with the rising smoke}
 Comment: 0,0:09:11.91,0:09:14.74,Sign,,0,0,0,,{=26}{\fs70\q2\fnFOT Manyo Sosho Std Stripped EB\blur0.7\b0\c&H0C0F0C&\fscx202.98\fscy193.81\frz50.0173\frx21.6735\fry7.2318\org(899.72,718.27)\pos(1564.23,-671.83)}The Complete \NCollection \Nof Nichiren \NDaishonin's \NWritings
 Comment: 0,0:25:05.40,0:25:06.53,Sign,,0,0,0,,{\fs30\c&H1D2A3B&\blur0.8\fnMercurius CT Std Medium\b0\frz290.6\pos(233.85,185.69)}Suikoden Volume 1 {The new edition }
@@ -1354,7 +1354,7 @@ Comment: 0,0:02:40.68,0:02:43.68,Sign,,0,0,0,,{\fnSubway Novella\blur0.5\fs35\c&
 Comment: 0,0:03:40.37,0:03:43.37,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\pos(318.95,433.27)\frz0.8143}Osaka Station
 Comment: 0,0:04:04.64,0:04:08.60,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\frz0\pos(320.63,430.73)}February 17: {Youth Division's }1st Research & Presentation Conference
 Comment: 0,0:05:59.68,0:06:02.68,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\frz0\an7\pos(131.04,407.58)}February 29th{\fs21}    February Leaders' Meeting {2月29日 2月度幹部会}
-Dialogue: 0,0:06:57.52,0:07:07.53,Note,,0,0,0,,Headline: March {Leaders Meeting: }conversion goal met! \N{Kamata, Tsurumi, Adachi, and Mukojima} Multiple branches receive commendations \N\N{三月の幹部會入信家族數目標に達す蒲田、鶴見、足立、向島四支部功を立つ}
+Dialogue: 0,0:06:57.52,0:07:07.53,Note,,0,0,0,,Headline: March {Leaders Meeting: }conversion goal met! \N{Kamata, Tsurumi, Adachi, and Mukojima} Multiple branches receive commendations. \N\N{三月の幹部會入信家族數目標に達す蒲田、鶴見、足立、向島四支部功を立つ}
 Comment: 0,0:07:21.96,0:07:25.97,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\frz0.2482\pos(314.31,435.78)}Meiwa Printing Co., Ltd. Proofreading Office {明和印刷・出張校正室}
 Comment: 0,0:07:59.25,0:08:03.25,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\frz0\c&HFFFFFF&\1a&H35&\pos(312.2,441.27)}April 24th, Soka Gakkai Headquarters {4月24日 学会本部}
 Comment: 0,0:09:22.68,0:09:28.69,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\blur0.5\fs25\frz0\pos(330.74,444.21)}May 1st: The first May Day after gaining independence {5月1日 独立後の初のメーデー}
