@@ -16,9 +16,10 @@ Video File: Ningen Kakumei - 12 [FOR TRANSLATION ONLY] [3CEB528C].mkv
 Keyframes File: keyframes/Ningen12_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.625000
-Active Line: 14
-Video Position: 45544
+Video Zoom Percent: 2.375000
+Scroll Position: 434
+Active Line: 447
+Video Position: 44158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +44,7 @@ Dialogue: 1,0:00:13.33,0:00:16.41,Default,,0,70,0,,{\fade(0,600)\an3\clip(0,0,16
 Dialogue: 2,0:00:17.91,0:00:27.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H1C21BD&\4c&H000000&\blur1\bord0\xshad0\yshad\fnDejaVu Serif Condensed\3c&HE6EFFF&}The Human Revolution {人間革命}
 Dialogue: 1,0:00:17.91,0:00:27.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H53536A&\4c&H000000&\blur0.7\bord0\xshad1.4\yshad1\fnDejaVu Serif Condensed\3c&HE6EFFF&}The Human Revolution {人間革命}
 Dialogue: 0,0:00:17.91,0:00:27.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H262DCC&\4c&H000000&\blur0.5\bord4\xshad1\yshad\fnDejaVu Serif Condensed\3c&HE6EFFF&}The Human Revolution {人間革命}
-Dialogue: 0,0:00:19.46,0:00:27.01,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an7\fs30\c&HFFFFFF&\4c&H0A0F16&\bord0.7\shad2.7\blur0.4\pos(152.9,394.4)} Episode 12      {\fs38}Expansion 
+Dialogue: 0,0:00:19.46,0:00:27.01,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an7\fs30\c&HFFFFFF&\4c&H0A0F16&\bord0.7\shad2.7\blur0.4\pos(152.9,394.4)} Episode 12      {\fs38}Expansion
 Dialogue: 0,0:00:29.47,0:00:33.39,Sign,,0,0,0,,{\fade(370,370)\fs30\fnGentium Book Basic\b0\an9\c&HFFFFFE&\bord3\blur0.8\4c&H0D1817&\pos(225.74,338.4)}Original Work
 Dialogue: 0,0:00:29.47,0:00:33.39,Sign,,0,0,0,,{\fade(370,370)\fs40\fnGentium Book Basic\b0\an7\c&HFFFFFE&\bord3\blur0.8\4c&H0D1817&\pos(278.57,329.6)}Daisaku Ikeda
 Dialogue: 0,0:30:48.83,0:30:54.79,Sign,,0,0,0,,{\blur0.6\shad0\bord3\an9\fs25\fad(0,1300)\c&HFFFFFF&\pos(220.94,304)\3c&H000000&} Raw provider \N Encoding & QC \N Translation \N Editing \NQC
@@ -475,7 +476,7 @@ Dialogue: 0,0:25:05.44,0:25:12.07,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord2.5\f
 Dialogue: 0,0:25:16.24,0:25:21.25,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord4\fade(450,450)\blur0.4\fs33\3c&H000000&\pos(325.53,473.52)}Suikokai Meeting {「水滸会」の会合}
 Dialogue: 0,0:25:23.85,0:25:26.33,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord2\fade(0,0)\blur0.4\fs15\3c&HF7FAF8&\an7\c&H595959&\frz0.413\pos(271.69,77.53)}Chairman Konishi and others running for office {小西理事長等、立候補}
 Dialogue: 0,0:26:36.32,0:26:46.29,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord0\fade(0,0)\blur0.4\fs23\3c&H000000&\c&H595B58&\frz0.3045\pos(250.44,334.48)}Prefectural assembly elections announced today {都道府県議選挙・きょう告示}
-Dialogue: 0,0:26:46.29,0:26:51.26,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(430,450)\blur0.4\fs33\3c&H000000&\pos(318.2,332)}Kamata, Ota Ward {大田区蒲田}
+Dialogue: 0,0:26:46.29,0:26:51.26,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(430,450)\blur0.4\fs33\3c&H000000&\pos(315.58,471.58)}Kamata, Ota Ward {大田区蒲田}
 Dialogue: 0,0:27:01.89,0:27:05.27,Sign,,0,0,0,,{\fnAd Hoc\bord\shad2\fade(0,0)\blur0.7\fs25\3c&H000000&\frx8\fry12\b1\c&H837061&\frz359.7\pos(412.59,250.36)\4c&H000000&\4a&H35&}H{\c&H7E6A5B&}a{\c&H786555&}r{\c&H735F50&}u{\c&H6D5A4A&}k{\c&H685444&}i
 Dialogue: 0,0:27:42.59,0:27:49.56,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(850,1250)\blur0.8\fs43\3c&HBF1B21&\pos(317.44,336.19)\3a&H05&}Unity of spirit {異体同心の団結}
 Dialogue: 0,0:28:20.93,0:28:24.91,Sign,,0,0,0,,{\fnCAC Moose\bord\fade(0,0)\blur1\fs45\3c&H000000&\frz63.2\c&H494544&\pos(325.53,372.57)}A{\c&H4A4644&}p{\c&H4C4845&}r{\c&H4D4945&}i{\c&H4F4A45&}l{\c&H504C46&} {\c&H514D46&}2{\c&H534E46&}3{\c&H544F46&}r{\c&H565147&}d{\c&H575247&}—{\c&H575247&}v{\c&H565147&}o{\c&H544F46&}t{\c&H534E46&}i{\c&H514D46&}n{\c&H504C46&}g{\c&H4F4A45&} {\c&H4D4945&}d{\c&H4C4845&}a{\c&H4A4644&}y{\c&H494544&} {四月二十三日は投票日}
