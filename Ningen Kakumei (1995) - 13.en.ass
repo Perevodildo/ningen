@@ -17,9 +17,9 @@ Keyframes File: keyframes/Ningen13_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.250000
-Scroll Position: 470
-Active Line: 490
-Video Position: 44147
+Scroll Position: 397
+Active Line: 424
+Video Position: 1394
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -459,8 +459,8 @@ Dialogue: 3,0:31:25.86,0:31:31.83,Sign,,0,0,0,,{\fad(800,1440)\blur0.5\bord3.5\f
 Dialogue: 4,0:31:25.86,0:31:31.83,Sign,,0,0,0,,{\fad(800,1440)\fs50\blur0.7\bord4\fnKozuka Mincho Pro H\c&HFFFFFF&\3c&H000000&\pos(319.31,462.96)}The End
 Dialogue: 0,0:00:32.01,0:00:36.81,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.2\fade(450,0)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}May 1955—Ichigaya Building {1955年(昭和30年)5月 市ヶ谷ビル}
 Dialogue: 0,0:00:36.81,0:00:38.69,Sign,,0,0,0,,{\fnAller Display\bord0\shad2\fade(0,0)\blur0.4\fs33\3c&H000000&\frx8\fry340\frz17.83\pos(585.84,366.58)\c&H4A8FAD&\b0}D{\c&H4A8CAB&}a{\c&H4B88A9&}i{\c&H4B85A8&}t{\c&H4B81A6&}o{\c&H4C7EA4&} \N{\c&H4C7AA2&}T{\c&H4D77A0&}r{\c&H4D739E&}a{\c&H4D709D&}d{\c&H4E6C9B&}i{\c&H4E6999&}n{\c&H4E6999&}g{\c&H4E6C9B&} \N{\c&H4D709D&}C{\c&H4D739E&}o{\c&H4D77A0&}.{\c&H4C7AA2&},{\c&H4C7EA4&} {\c&H4B81A6&}L{\c&H4B85A8&}t{\c&H4B88A9&}d{\c&H4A8CAB&}.{\c&H4A8FAD&} {大東商工株式會社}
-Dialogue: 0,0:00:54.99,0:00:58.18,Sign,,0,0,0,,{\fnGentium Book Basic\bord0\fade(0,0)\blur0.4\fs27\3c&H000000&\c&H2F3033&\pos(460.1,206.12)\frz14.24}I{\c&H2F3033&}n{\c&H303134&}t{\c&H303134&}r{\c&H303235&}o{\c&H313235&}d{\c&H313336&}u{\c&H313336&}c{\c&H323336&}t{\c&H323437&}i{\c&H323437&}o{\c&H333538&}n{\c&H333538&} {\c&H333538&}t{\c&H333538&}o{\c&H323437&} {\c&H323437&}E{\c&H323336&}c{\c&H313336&}o{\c&H313336&}n{\c&H313235&}o{\c&H303235&}m{\c&H303134&}i{\c&H303134&}c{\c&H2F3033&}s{\c&H2F3033&} {經濟學入門}{for some reason in chinese characters}
-Dialogue: 0,0:00:55.37,0:00:58.18,Sign,,0,0,0,,{\fnGentium Book Basic\bord0.8\fade(0,0)\blur0.5\fs22\3c&H000000&\c&HA3C4D2&\frz19.61\pos(197.79,375.53)}Selected Bibliography \Nof Japanese History {資料日本史}
+Dialogue: 0,0:00:54.99,0:00:58.18,Sign,,0,0,0,,{\fnGentium Book Basic\bord0\fade(0,0)\blur0.4\fs27\3c&H000000&\c&H161518&\pos(460.1,206.12)\frz14.24}Introduction to Economics
+Dialogue: 0,0:00:55.37,0:00:58.18,Sign,,0,0,0,,{\fnThanksgiving\bord0.8\fade(0,0)\blur0.5\fs22\3c&H000000&\c&HA3C4D2&\frz19.61\pos(197.79,375.53)\b0}Selected Bibliography \Nof Japanese History {資料日本史}
 Dialogue: 0,0:01:45.38,0:01:48.33,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}Shinanomachi Soka Gakkai Headquarters {信濃町・学会本部}
 Dialogue: 0,0:02:01.81,0:02:03.77,Sign,,0,0,0,,{\fax0.8\fnAller Display\bord\fade(0,0)\blur0.4\fs31\3c&H000000&\frz321.4\u0\frx16\fry26\c&H292728&\pos(344.25,331.75)}S{\c&H292728&\fax0.78}e{\c&H2A2828&\fax0.77}c{\c&H2A2829&\fax0.75}o{\c&H2B2829&\fax0.74}n{\c&H2B2929&\fax0.72}d{\c&H2C2929&\fax0.7} {\c&H2C2A29&\fax0.69}P{\c&H2D2A2A&\fax0.67}r{\c&H2D2A2A&\fax0.66}e{\c&H2D2B2A&\fax0.64}s{\c&H2E2B2A&\fax0.62}i{\c&H2E2B2A&\fax0.61}d{\c&H2F2C2B&\fax0.59}e{\c&H2F2C2B&\fax0.58}n{\c&H302C2B&\fax0.56}t{\c&H302D2B&\fax0.54}'{\c&H302D2B&\fax0.53}s{\c&H312D2C&\fax0.51} {\c&H312E2C&\fax0.5}O{\c&H322E2C&\fax0.48}f{\c&H322F2C&\fax0.46}f{\c&H332F2C&\fax0.45}i{\c&H332F2D&\fax0.43}c{\c&H34302D&\fax0.42}e{\c&H34302D&\fax0.4} {第二会長室}
 Dialogue: 0,0:02:16.55,0:02:18.92,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}One month ago {1ヵ月前}
@@ -480,7 +480,7 @@ Dialogue: 0,0:11:40.18,0:11:43.18,Sign,,0,0,0,,{\fnEdo SZ\bord\fade(0,0)\blur0.4
 Dialogue: 0,0:11:53.32,0:11:57.24,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,0)\blur0.4\fs33\3c&H000000&\pos(318.62,471.62)}Sapporo City {札幌市}
 Dialogue: 0,0:11:57.24,0:12:01.24,Sign,,0,0,0,,{\fnEighty Percent Caps\fax-0.0\bord\fade(0,0)\blur0.4\fs17\3c&H000000&\frx14\fry344\frz2.056\c&H4E4C4C&\pos(79.11,415.07)}M{\fax0\c&H4F4D4E&}a{\fax-0.01\c&H504F51&}r{\fax-0.01\c&H515053&}u{\fax-0.02\c&H525255&}s{\fax-0.02\c&H535357&}h{\fax-0.03\c&H55555A&}i{\fax-0.04\c&H56565C&}n{\fax-0.04\c&H57575E&} {\fax-0.04\c&H585960&}I{\fax-0.05\c&H595A63&}n{\fax-0.05\c&H5A5C65&}n{\fax-0.06\c&H5B5D67&} {丸新旅館}
 Dialogue: 0,0:12:33.71,0:12:39.31,Sign,,0,0,0,,{\fnFOT Manyo Sosho Std Stripped EB\bord\fade(0,0)\blur0.4\fs18\3c&H000000&\b0\pos(341.43,33.41)\c&H000000&\1a&H59&\clip(179.85,1.99,213.66,40.75)\t(0,450,\clip(179.85,-2.28,494.28,40.75))}Sapporo Summer Regional Conversion Results {札幌夏季地方折伏成果}
-Dialogue: 0,0:12:33.57,0:12:39.31,Sign,,0,0,0,,{\an1\fnFOT Manyo Sosho Std Stripped EB\bord\fade(0,0)\blur0.4\fs18\3c&H000000&\b0\c&H000000&\1a&H59&\clip(26.38,359.53,133,415.53)\t(20,550,\clip(25,370.35,481.3,415.53))\pos(130.44,393.89)}Districts          {\bord1\3c&HDECC2C&}1           2            3           4            5 
+Dialogue: 0,0:12:33.57,0:12:39.31,Sign,,0,0,0,,{\an1\fnFOT Manyo Sosho Std Stripped EB\bord\fade(0,0)\blur0.4\fs18\3c&H000000&\b0\c&H000000&\1a&H59&\clip(26.38,359.53,133,415.53)\t(20,550,\clip(25,370.35,481.3,415.53))\pos(130.44,393.89)}Districts          {\bord1\3c&HDECC2C&}1           2            3           4            5
 Dialogue: 0,0:13:08.68,0:13:11.65,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&HF9FAF8&\c&H1213C9&\pos(318.35,450.82)\frz0.09549}388 households converted to Lotus Dharma
 Dialogue: 0,0:17:45.67,0:17:51.17,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,0)\blur0.4\fs30\3c&H000000&\pos(320.24,468.23)}House in Kobayashicho{, Ota Ward}, where {Yamamoto }Shinichi moved in June {6月に転居した大田区小林町の山本伸一の家}
 Dialogue: 0,0:17:49.13,0:17:51.17,Sign,,0,0,0,,{\fnEighty Percent Caps\bord\fade(0,0)\blur0.5\fs16\3c&H000000&\frx6\fry338\c&H2B2B2C&\pos(334.36,319.06)\frz7.32}Yamamoto
@@ -514,8 +514,8 @@ Dialogue: 0,0:23:15.42,0:23:18.38,Sign,,0,0,0,,{\fnBiko\bord\shad2\fade(0,0)\blu
 Dialogue: 0,0:23:26.38,0:23:38.86,Sign,,0,0,0,,{\fnCabin\bord25\fade(0,0)\blur0.4\fsp-0.3\fs18\3c&HFBFCFC&\c&H3D403F&\pos(150.17,138.35)\clip(m 12.7 85.85 l 288.62 85.6 288.62 123.42 274.93 154.03 27.39 154.03 12.95 119.94)}Will the Chairman use his authority to push \Nthe Subversive Activities Act through? {議長権限で本会議破防法強行上程か}
 Dialogue: 0,0:23:19.42,0:23:24.39,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,450)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}November Headquarters Executive Meeting {(Toshima Town Hall)}{11月度本部幹部会 (豊島公会堂)}
 Dialogue: 0,0:23:39.97,0:23:44.28,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}1952 Bloody May Day {血のメーデー事件}
-Dialogue: 0,0:24:00.29,0:24:01.54,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&}Religious partisans 
-Dialogue: 0,0:24:01.54,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&\clip(m 223.69 26.86 l 461.33 -49.53 132.26 -69.42 122.49 30)}Religious partisans 
+Dialogue: 0,0:24:00.29,0:24:01.54,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&}Religious partisans
+Dialogue: 0,0:24:01.54,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&\clip(m 223.69 26.86 l 461.33 -49.53 132.26 -69.42 122.49 30)}Religious partisans
 Dialogue: 0,0:24:01.42,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs26\3c&H000000&\c&H000000&\frz18.63\pos(267.55,69.89)} A new religion flying military flag {same newspapers as before}
 Dialogue: 0,0:24:25.36,0:24:28.32,Sign,,0,0,0,,{\fnEdo SZ\bord\fade(0,0)\blur0.5\fs10\3c&H000000&\c&H393538&\frx356\fry338\frz357.1\pos(95.64,430.31)}Soka \NGakkai
 Dialogue: 0,0:25:12.53,0:25:16.37,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,450)\blur0.4\fs33\3c&H000000&\pos(384.25,426.11)}Newspaper office {誤報記事を報道した新聞社}{more specifically "office of the newspaper that published the forged article"}
