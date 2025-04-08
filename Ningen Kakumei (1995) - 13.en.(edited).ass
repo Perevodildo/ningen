@@ -13,13 +13,12 @@ PlayResY: 480
 Last Style Storage: ningen kakumei
 Audio File: Ningen Kakumei - 13 [FOR TRANSLATION ONLY] [44426417].mkv
 Video File: Ningen Kakumei - 13 [FOR TRANSLATION ONLY] [44426417].mkv
-Keyframes File: keyframes/Ningen13_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.250000
-Scroll Position: 397
-Active Line: 424
-Video Position: 1394
+Video Zoom Percent: 1.375000
+Scroll Position: 351
+Active Line: 393
+Video Position: 42185
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,32 +78,33 @@ Dialogue: 10,0:03:02.22,0:03:07.66,Default,,0,0,0,,But if I use my experience as
 Dialogue: 10,0:03:08.15,0:03:11.63,Default,,0,0,0,,I believe I can at least feed my family.
 Dialogue: 10,0:03:11.63,0:03:15.38,Default,,0,0,0,,I can assure you it won't interfere \Nwith my work for Soka Gakkai.
 Dialogue: 10,0:03:15.38,0:03:21.45,Default,,0,0,0,,The area that I am now in charge of \Nis centered around Niigata,
-Dialogue: 10,0:03:21.45,0:03:26.37,Default,,0,0,0,,so I'm sure it'll also be instrumental \Nin spreading Common Path there.
+Dialogue: 10,0:03:21.45,0:03:26.37,Default,,0,0,0,,so I'm sure it'll also be instrumental \Nin spreading the Common Path there.
 Dialogue: 10,0:03:27.67,0:03:34.72,Default,,0,0,0,,So, do you plan to stay in Niigata for good, \Nor are you just going there to test the waters?
-Dialogue: 10,0:03:35.22,0:03:38.20,Default,,0,0,0,,I won't know until I went there...
+Dialogue: 10,0:03:35.22,0:03:38.20,Default,,0,0,0,,I won't know until I go there...
 Dialogue: 10,0:03:38.89,0:03:39.70,Default,,0,0,0,,Osabe-kun,
-Dialogue: 10,0:03:41.56,0:03:47.17,Default,,0,0,0,,you're at freedom to go wherever you want \Nand do whatever you want for a living.
+Dialogue: 10,0:03:41.56,0:03:47.17,Default,,0,0,0,,you're at liberty to go wherever you want \Nand do whatever you want for a living.
 Dialogue: 10,0:03:47.17,0:03:53.92,Default,,0,0,0,,But when you say, "Since I'm going to keep helping the cause of the Common Path in Niigata,
 Dialogue: 10,0:03:53.92,0:04:01.27,Default,,0,0,0,,the Buddha will naturally look after me," \Ndoesn’t that sound selfish and irresponsible?
 Dialogue: 10,0:04:01.27,0:04:02.98,Default,,0,0,0,,At least, that’s how it seems to me.
 Dialogue: 10,0:04:02.98,0:04:04.54,Default,,0,0,0,,
-Dialogue: 10,0:04:05.52,0:04:10.83,Default,,0,0,0,,Believing you’ll get by just because you have faith \Nis a distortion of what faith truly means.
-Dialogue: 10,0:04:10.83,0:04:14.55,Default,,0,0,0,,Only racking your brain \Nand working through sweat and tears
-Dialogue: 10,0:04:14.55,0:04:16.28,Default,,0,0,0,,will make the impossible possible.
-Dialogue: 10,0:04:16.94,0:04:22.77,Default,,0,0,0,,Only then the Buddha's grace will manifest itself \Nin one form or another without fail.
+Dialogue: 10,0:04:05.52,0:04:10.83,Default,,0,0,0,,Believing you’ll get by just because you have faith is a distortion of what faith truly means.
+Dialogue: 10,0:04:10.83,0:04:14.55,Default,,0,0,0,,Only by racking your brain \Nand working through sweat and tears
+Dialogue: 10,0:04:14.55,0:04:16.28,Default,,0,0,0,,will you make the impossible possible.
+Dialogue: 10,0:04:16.94,0:04:22.77,Default,,0,0,0,,Only then will the Buddha's grace manifest itself \Nin one form or another without fail.
 Dialogue: 10,0:04:22.77,0:04:23.93,Default,,0,0,0,,
 Dialogue: 10,0:04:24.38,0:04:29.58,Default,,0,0,0,,If you go to Niigata with the mindset that things will work out somehow, you should give up on it.
 Dialogue: 10,0:04:30.27,0:04:34.04,Default,,0,0,0,,If you go, you have to be ready \Nto lay down your life.
 Dialogue: 10,0:04:34.04,0:04:38.05,Default,,0,0,0,,Without that resolve, \Nwhat can you possibly accomplish?
 Dialogue: 10,0:04:38.61,0:04:40.01,Default,,0,0,0,,Don't you agree, Osabe-kun?
-Dialogue: 10,0:04:41.81,0:04:47.10,Thought,,0,0,0,,All right, I'll lay down my life in Niigata, if needed. \NOnly then will that yield any results! {よし 新潟に骨をうずめよう! そしてどれだけお役に立てるか}
+Dialogue: 10,0:04:41.81,0:04:44.67,Thought,,0,0,0,,All right, I'll lay down my life in Niigata, if needed.
+Dialogue: 10,0:04:44.67,0:04:47.10,Thought,,0,0,0,,Only then will that yield any results! {よし 新潟に骨をうずめよう! そしてどれだけお役に立てるか}
 Dialogue: 10,0:04:47.63,0:04:50.19,Thought,,0,0,0,,It's the choice of a lifetime for me! {これから生涯をかけてやってみよう!}
 Dialogue: 10,0:04:51.12,0:04:52.61,Default,,0,0,0,,Are you resolved now?
 Dialogue: 10,0:04:53.25,0:04:54.18,Default,,0,0,0,,Yes!
 Dialogue: 10,0:04:55.00,0:04:59.61,Default,,0,0,0,,Good. But let's not be hasty. \NYou need to get your feet wet first. {よし!だが焦るんじゃないよまず腰を据えることだ}
 Dialogue: 10,0:04:59.61,0:05:04.72,Default,,0,0,0,,And if you're still unable to make it work after that, then come see me again. {そして もしも どうにもこうにもならなくなったら そのときは私のところに来なさい}
 Dialogue: 10,0:05:05.14,0:05:09.18,Default,,0,0,0,,We'll try to think of a better solution together. \NI'll be watching over you. {骨は拾ってあげよう 私はじっと君を見ているからね}
-Dialogue: 10,0:05:14.11,0:05:18.19,Thought,,0,0,0,,Sensei is even ready to watch over me, \Nthe spineless weakling.
+Dialogue: 10,0:05:14.11,0:05:18.19,Thought,,0,0,0,,Even Sensei is ready to watch over me, \Na spineless weakling.
 Dialogue: 10,0:05:18.19,0:05:21.81,Thought,,0,0,0,,I feel guilty. I have to give it my all, \Nno matter what...
 Dialogue: 10,0:05:22.49,0:05:24.10,Default,,0,0,0,,
 Dialogue: 10,0:05:27.58,0:05:32.30,Default,,0,0,0,,So I bought the place \Nand decided to run a diner there.
@@ -130,8 +130,8 @@ Dialogue: 10,0:06:43.70,0:06:48.31,Narrator,,0,0,0,,Here in Niigata, thanks to T
 Dialogue: 10,0:06:48.31,0:06:52.72,Narrator,,0,0,0,,one member was able \Nto transform his life in a remarkable way. {I kinda get what muzu complains about here ngl}
 Dialogue: 10,0:06:58.11,0:07:02.09,Default,,0,0,0,,That said, these next few weeks \Nlook really busy for you, Shin-chan.
 Dialogue: 10,0:07:02.09,0:07:07.45,Default,,0,0,0,,The 2nd Hongo Branch general meeting \Nat the Chuo University Auditorium on the 22nd.
-Dialogue: 10,0:07:07.45,0:07:11.70,Default,,0,0,0,,May Headquarters Executive Meeting \Nat Toshima Public Hall on the 31st.
-Dialogue: 10,0:07:12.22,0:07:16.90,Default,,0,0,0,,June Women's Executive Meeting \Nat Shibuya Public Hall on June 3rd.
+Dialogue: 10,0:07:07.45,0:07:11.70,Default,,0,0,0,,May 31st-Headquarters Executive Meeting \Nat Toshima Public Hall.
+Dialogue: 10,0:07:12.22,0:07:16.90,Default,,0,0,0,,June 3rd-Women's Executive Meeting \Nat Shibuya Public Hall.
 Dialogue: 10,0:07:16.90,0:07:21.17,Default,,0,0,0,,The 4th General Meeting of the Adachi Branch\Non the 5th, among other things.
 Dialogue: 10,0:07:21.17,0:07:24.41,Default,,0,0,0,,And then a Men's Division executive meeting on the 7th, right?
 Dialogue: 10,0:07:24.41,0:07:25.12,Default,,0,0,0,,Yes.
@@ -140,15 +140,15 @@ Dialogue: 10,0:07:31.12,0:07:32.60,Default,,0,0,0,,Can you handle it, Shin-chan?
 Dialogue: 10,0:07:33.04,0:07:34.14,Default,,0,0,0,,I'll do it!
 Dialogue: 10,0:07:39.48,0:07:42.76,Narrator,,0,0,0,,This intense effort from Toda and Shinichi
 Dialogue: 10,0:07:42.76,0:07:46.80,Narrator,,0,0,0,,sparked an unprecedented surge \Nin the popularity of the Common Path. {episode title}
-Dialogue: 10,0:07:52.34,0:07:57.56,Top,,0,0,0,,About that—you must all view yourselves \Nas outstanding citizens, not just pious believers. {ところで諸君は国士であって いわゆる宗教家ではない - lit: by the way, you are distinguished citizen; patriot, not religious leader; person of religion; religious figure; religionist - think he means "display your value to secular society before your piety"}
-Dialogue: 10,0:07:57.56,0:08:02.50,Top,,0,0,0,,Any country can be saved with 100,000 \Noutstanding citizens gaining influence in it.
-Dialogue: 10,0:08:03.07,0:08:05.51,Thought,,0,0,0,,100,000 Outstanding Citizens?
-Dialogue: 10,0:08:06.02,0:08:12.49,Default,,0,0,0,,Sensei, when you say outstanding citizens, \Nare you saying we should all become politicians?
+Dialogue: 10,0:07:52.34,0:07:57.56,Top,,0,0,0,,About that—you must all view yourselves \Nas upstanding citizens, not just pious believers. {ところで諸君は国士であって いわゆる宗教家ではない - lit: by the way, you are distinguished citizen; patriot, not religious leader; person of religion; religious figure; religionist - think he means "display your value to secular society before your piety"}
+Dialogue: 10,0:07:57.56,0:08:02.50,Top,,0,0,0,,Any country can be saved with 100,000 \Nupstanding citizens gaining influence in it.
+Dialogue: 10,0:08:03.07,0:08:05.51,Thought,,0,0,0,,100,000 upstanding citizens?
+Dialogue: 10,0:08:06.02,0:08:12.49,Default,,0,0,0,,Sensei, when you say upstanding citizens, \Nare you saying we should all become politicians?
 Dialogue: 10,0:08:12.96,0:08:14.83,Default,,0,0,0,,That's not what I mean.
 Dialogue: 10,0:08:14.83,0:08:17.79,Default,,0,0,0,,Of course, some of you \Nwill find success as politicians.
 Dialogue: 10,0:08:17.79,0:08:22.08,Default,,0,0,0,,But we can all be outstanding persons \Nin our own unique way,
 Dialogue: 10,0:08:22.08,0:08:26.53,Default,,0,0,0,,whether as economists, \Neducators, scientists or artists.
-Dialogue: 10,0:08:26.53,0:08:31.20,Default,,0,0,0,,The outstanding citizens I’m referring to \Nare revolutionaries guided by the Mystic Law—
+Dialogue: 10,0:08:26.53,0:08:31.20,Default,,0,0,0,,The upstanding citizens I’m referring to \Nare revolutionaries guided by the Mystic Law—
 Dialogue: 10,0:08:31.20,0:08:36.37,Default,,0,0,0,,individuals who, despite their different paths, \Nare attuned to the state of the nation
 Dialogue: 10,0:08:36.37,0:08:40.52,Default,,0,0,0,,and the people’s suffering, \Nacting with sincere concern and selflessness.
 Dialogue: 10,0:08:42.73,0:08:47.47,NarrTop,,0,0,0,,On June 11th, the second \NSuikokai outdoor training was held
@@ -174,9 +174,9 @@ Dialogue: 10,0:10:16.33,0:10:19.98,Default,,0,0,0,,That is the fundamental quest
 Dialogue: 10,0:10:21.14,0:10:24.10,Default,,0,0,0,,Does anyone here know what this glory is?
 Dialogue: 10,0:10:24.56,0:10:26.03,Default,,0,0,0,,
 Dialogue: 10,0:10:27.40,0:10:31.38,Default,,0,0,0,,Becoming the top executive of a leading company or a government minister
-Dialogue: 10,0:10:31.38,0:10:34.74,Default,,0,0,0,,may seem glorious to the society,
+Dialogue: 10,0:10:31.38,0:10:34.74,Default,,0,0,0,,may seem glorious to society,
 Dialogue: 10,0:10:34.74,0:10:38.37,Default,,0,0,0,,but that kind of glory \Nis fleeting—it comes and goes.
-Dialogue: 10,0:10:39.18,0:10:44.46,Default,,0,0,0,,Like Fujikawa's parents must be very happy \Nthat he became a ward assemblyman.
+Dialogue: 10,0:10:39.18,0:10:44.46,Default,,0,0,0,,Fujikawa's parents must be very happy \Nthat he became a ward assemblyman.
 Dialogue: 10,0:10:45.13,0:10:51.30,Default,,0,0,0,,People back home may be amazed and say, \N"Wow, you’ve brought glory to our hometown!"
 Dialogue: 10,0:10:51.30,0:10:54.65,Default,,0,0,0,,but that isn’t true glory.
 Dialogue: 10,0:10:54.65,0:10:58.12,Default,,0,0,0,,Even Fujikawa's glory is not in that.
@@ -184,7 +184,7 @@ Dialogue: 10,0:10:58.12,0:10:58.89,Default,,0,0,0,,
 Dialogue: 10,0:10:58.89,0:11:00.18,Default,,0,0,0,,Fujikawa,
 Dialogue: 10,0:11:00.18,0:11:06.06,Default,,0,0,0,,you're a ward assemblyman, but above all, \Nyou're an honorable Soka Gakkai executive!
 Dialogue: 10,0:11:06.06,0:11:09.36,Default,,0,0,0,,If that is not glory, then what is?!
-Dialogue: 10,0:11:11.28,0:11:15.13,Default,,0,0,0,,As my disciple, and the Common Path devotee, \Nyou'll set foot in your hometown
+Dialogue: 10,0:11:11.28,0:11:15.13,Default,,0,0,0,,As my disciple, and a Common Path devotee, \Nyou'll set foot in your hometown
 Dialogue: 10,0:11:15.13,0:11:21.30,Default,,0,0,0,,with the radiance of the highest and most enduring honor—that of a Soka Gakkai leader!
 Dialogue: 10,0:11:21.30,0:11:25.25,Default,,0,0,0,,It's the ultimate glory \Nthat never fades or diminishes!
 Dialogue: 10,0:11:25.82,0:11:26.94,Default,,0,0,0,,
@@ -220,13 +220,13 @@ Dialogue: 10,0:13:33.58,0:13:37.80,Narrator,,0,0,0,,setting an immortal mileston
 Dialogue: 10,0:13:41.45,0:13:43.75,Thought,,0,0,0,,Hm, Kansai...
 Dialogue: 10,0:13:44.37,0:13:46.81,Thought,,0,0,0,,What do we do about Kansai?
 Dialogue: 10,0:13:52.44,0:13:56.07,Thought,,0,0,0,,This summer, the Osaka Branch \Nconverted 4,200 households.
-Dialogue: 10,0:13:56.07,0:14:00.70,Thought,,0,0,0,,Sakai Group in particular spread \Nthe Common Path to 436 households.
+Dialogue: 10,0:13:56.07,0:14:00.70,Thought,,0,0,0,,The Sakai Group in particular spread \Nthe Common Path to 436 households.
 Dialogue: 10,0:14:02.38,0:14:08.34,Thought,,0,0,0,,Osaka is growing so fast that it is likely to overtake the oldest branch, Kamata.
 Dialogue: 10,0:14:08.34,0:14:11.52,Thought,,0,0,0,,To make Kansai a major base,
-Dialogue: 10,0:14:11.52,0:14:16.64,Thought,,0,0,0,,we must establish an assembly hall to serve \Nas the headquarters for Kansai Branch in Osaka.
+Dialogue: 10,0:14:11.52,0:14:16.64,Thought,,0,0,0,,we must establish an assembly hall to serve as the headquarters for the Kansai Branch in Osaka.
 Dialogue: 10,0:14:16.64,0:14:18.88,Thought,,0,0,0,,Then there's only one thing to do...
 Dialogue: 10,0:14:19.47,0:14:24.17,Thought,,0,0,0,,Should we take the plunge and run our own candidate in the Osaka district elections?
-Dialogue: 10,0:14:24.17,0:14:31.41,Thought,,0,0,0,,But the only way to win a hopeless battle \Nis with a surprise attack.
+Dialogue: 10,0:14:24.17,0:14:31.41,Thought,,0,0,0,,If it's a hopeless battle, the only way to win is with a surprise attack.
 Dialogue: 10,0:14:31.41,0:14:37.40,Thought,,0,0,0,,The key is selecting the right leader \Nto carry out the surprise attack.
 Dialogue: 10,0:14:38.04,0:14:42.77,Thought,,0,0,0,,If anyone can be trusted \Nwith this surprise attack,
 Dialogue: 10,0:14:42.77,0:14:47.45,Thought,,0,0,0,,it’s Shinichi, who will lead us to victory \Nin line with my vision.
@@ -246,7 +246,7 @@ Dialogue: 10,0:15:30.51,0:15:32.83,Default,,0,0,0,,Youth Division Chief Seki His
 Dialogue: 10,0:15:33.62,0:15:34.58,Default,,0,0,0,,Yessir!
 Dialogue: 10,0:15:35.30,0:15:36.88,Default,,0,0,0,,
 Dialogue: 10,0:15:37.67,0:15:40.63,Default,,0,0,0,,Cultural Affairs Advisor Jujo Shunzo,
-Dialogue: 10,0:15:40.63,0:15:45.39,Default,,0,0,0,,as well as the head of Osaka Branch, \NHaruki Seiichiro—five people in total.
+Dialogue: 10,0:15:40.63,0:15:45.39,Default,,0,0,0,,as well as the head of the Osaka Branch, \NHaruki Seiichiro—five people in total.
 Dialogue: 10,0:15:45.39,0:15:47.45,Default,,0,0,0,,Huh? In Osaka too?
 Dialogue: 10,0:15:47.45,0:15:49.38,Default,,0,0,0,,Aren't we getting ahead of ourselves?
 Dialogue: 10,0:15:49.38,0:15:55.31,Default,,0,0,0,,Yes, I know you’re all thinking it’s a risky venture. \NIn fact, I’m not sure myself if it’s even achievable.
@@ -267,7 +267,7 @@ Dialogue: 10,0:16:38.73,0:16:44.35,Default,,0,0,0,,Now then, the officer-in-chie
 Dialogue: 10,0:16:44.35,0:16:46.92,Default,,0,0,0,,Yamamoto-kun, it's you!
 Dialogue: 10,0:16:46.92,0:16:49.09,Default,,0,0,0,,Yes. Affirmative.
 Dialogue: 10,0:16:49.09,0:16:53.03,Default,,0,0,0,,They put him in charge \Nknowing damn sure they can't win...
-Dialogue: 10,0:16:53.76,0:16:57.04,Default,,0,0,0,,Surely, the Branch Chief \Nwill reason more soberly, right? {室長は厳しい実態を知っているのだろうか･･･?}
+Dialogue: 10,0:16:53.76,0:16:57.04,Default,,0,0,0,,I hope, the Branch Chief \Nunderstands the challenge here. {室長は厳しい実態を知っているのだろうか･･･?}
 Dialogue: 10,0:16:57.60,0:17:01.73,Thought,,0,0,0,,Sensei trusts me to make \Nthe impossible possible.
 Dialogue: 10,0:17:01.73,0:17:06.02,Thought,,0,0,0,,I should be grateful and fight hard \Nto live up to his expectations.
 Dialogue: 10,0:17:06.02,0:17:08.51,Default,,0,0,0,,Let me tell you something.
@@ -285,25 +285,25 @@ Dialogue: 10,0:17:59.54,0:18:03.31,Thought,,0,0,0,,But how can we win this?
 Dialogue: 10,0:18:03.31,0:18:08.82,Thought,,0,0,0,,In the fog of the impossible, there must be a path somewhere that leads to victory...
 Dialogue: 10,0:18:14.72,0:18:17.68,Default,,0,0,0,,Clang-clang... {any onomatopoeia for the sound of a bell}
 Dialogue: 10,0:18:18.35,0:18:21.62,Default,,0,0,0,,All right, it's done. \NLet's have a dinner now.
-Dialogue: 10,0:18:21.62,0:18:25.63,Default,,0,0,0,,Dear, the dinner is ready!
+Dialogue: 10,0:18:21.62,0:18:25.63,Default,,0,0,0,,Dear, dinner is ready!
 Dialogue: 10,0:18:42.89,0:18:44.04,Thought,,0,0,0,,Yes.
 Dialogue: 10,0:18:51.13,0:18:52.63,Thought,,0,0,0,,That's right!
 Dialogue: 10,0:18:52.63,0:18:56.41,Thought,,0,0,0,,You cannot win a battle if you, \Nthe one in command, are scared!
 Dialogue: 10,0:19:02.06,0:19:06.88,Thought,,0,0,0,,It's not a strategy or a method, \Nit's faith and a prayer to the Lotus Sutra!
 Dialogue: 10,0:19:20.91,0:19:23.85,Top,,0,0,0,,Yes... This is it!
 Dialogue: 10,0:19:25.68,0:19:30.92,Thought,,0,0,0,,The key to making the impossible possible \Nis beautifully taught right here in the scriptures!
-Dialogue: 10,0:19:30.92,0:19:34.68,Thought,,0,0,0,,Just like in the battle in Sapporo, \Nif we keep studying the scriptures together,
-Dialogue: 10,0:19:34.68,0:19:39.66,Thought,,0,0,0,,chanting the Sutra, and encouraging each other, \Nwe can make in Osaka too!
+Dialogue: 10,0:19:30.92,0:19:34.68,Thought,,0,0,0,,Just like the battle in Sapporo, \Nif we keep studying the scriptures together,
+Dialogue: 10,0:19:34.68,0:19:39.66,Thought,,0,0,0,,chanting the Sutra, and encouraging each other, \Nwe can make it in Osaka too!
 Dialogue: 10,0:19:40.30,0:19:44.67,Thought,,0,0,0,,I only have the Lotus Sutra \Nand the scriptures to rely upon right now!
 Dialogue: 10,0:19:46.31,0:19:50.48,Narrator,,0,0,0,,During this time, Shinichi was responsible for lecturing in the Kansai region
 Dialogue: 10,0:19:50.48,0:19:53.51,Narrator,,0,0,0,,and made several trips to Osaka each month.
 Dialogue: 10,0:19:53.51,0:19:55.11,NarrTop,,0,0,0,,He began his preparatory work
-Dialogue: 10,0:19:55.11,0:19:59.97,NarrTop,,0,0,0,,by encouraging his fellow believers in the Kansai to study the scriptures.
+Dialogue: 10,0:19:55.11,0:19:59.97,NarrTop,,0,0,0,,by encouraging his fellow believers in Kansai to study the scriptures.
 Dialogue: 10,0:20:00.62,0:20:03.84,Top,,0,0,0,,Some of you may find \Nthe sacred scriptures hard to grasp,
 Dialogue: 10,0:20:03.85,0:20:07.77,Top,,0,0,0,,but they are meant to be read repeatedly and reflected upon.
 Dialogue: 10,0:20:08.83,0:20:14.07,Default,,0,0,0,,Without that, you can never learn anything. \NYou have to put in effort.
 Dialogue: 10,0:20:14.92,0:20:23.99,Narrator,,0,0,0,,The year 1955 marked a major turning point \Nin Japan's postwar politics.
-Dialogue: 10,0:20:24.47,0:20:30.15,Narrator,,0,0,0,,In October, the previously divided Socialist Party of Japan, split into left and right wings, is unified.
+Dialogue: 10,0:20:24.47,0:20:30.15,Narrator,,0,0,0,,In October, the divided Socialist Party of Japan, once split into left and right wings, unified.
 Dialogue: 10,0:20:30.15,0:20:34.33,Narrator,,0,0,0,,In response, the Liberal Party and the Democratic Party
 Dialogue: 10,0:20:34.33,0:20:37.63,Narrator,,0,0,0,,merged to form \Nthe Liberal Democratic Party in November.
 Dialogue: 10,0:20:37.63,0:20:41.59,Narrator,,0,0,0,,This marked the establishment of the so-called "55 System,"
@@ -318,10 +318,10 @@ Dialogue: 10,0:21:09.49,0:21:11.77,Narrator,,0,0,0,,All this negative press
 Dialogue: 10,0:21:11.77,0:21:17.52,Narrator,,0,0,0,,has created a false impression \Nof Soka Gakkai in the minds of the people.
 Dialogue: 10,0:21:17.52,0:21:20.45,Narrator,,0,0,0,,Culminating in a singular incident...
 Dialogue: 10,0:21:23.24,0:21:24.18,Default,,0,0,0,,What?
-Dialogue: 10,0:21:24.18,0:21:29.51,Default,,0,0,0,,"The {Director-General of the }Public Security{ Intelligence} Agency will monitor \NSoka Gakkai under the Subversive Activities {Prevention }Act"? {「学会を破防法で取り締まる」と公安調査庁長官が語っただって?}{https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency}{to enforce; to regulate; to supervise; to oversee; to command}
+Dialogue: 10,0:21:24.18,0:21:29.51,Default,,0,0,0,,"The {Director-General of the }Public Security{ Intelligence} Agency will monitor Soka Gakkai under the Subversive Activities {Prevention }Act"? {「学会を破防法で取り締まる」と公安調査庁長官が語っただって?}{https://en.wikipedia.org/wiki/Public_Security_Intelligence_Agency}{to enforce; to regulate; to supervise; to oversee; to command}
 Dialogue: 10,0:21:29.51,0:21:34.46,Thought,,0,0,0,,It's inconceivable that Soka Gakkai's proselytizing {and propagation of religion }would violate the Subversive Activities {Prevention }Act.
-Dialogue: 10,0:21:34.46,0:21:36.90,Thought,,0,0,0,,How come a movement to bring people happiness
-Dialogue: 10,0:21:36.90,0:21:41.88,Thought,,0,0,0,,falls into the same legal category \Nas the revolutionary organizations? {lit: why does it have to be cracked down on like the movements that try to overthrow the state}
+Dialogue: 10,0:21:34.46,0:21:36.90,Thought,,0,0,0,,How could a movement to bring people happiness
+Dialogue: 10,0:21:36.90,0:21:41.88,Thought,,0,0,0,,fall into the same legal category \Nas a revolutionary organization? {lit: why does it have to be cracked down on like the movements that try to overthrow the state}
 Dialogue: 10,0:21:41.88,0:21:43.66,Thought,,0,0,0,,This is just unnatural...
 Dialogue: 10,0:21:44.32,0:21:48.62,Thought,,0,0,0,,This is a statement that we in Soka Gakkai\N absolutely cannot let slide.
 Dialogue: 10,0:21:51.94,0:21:53.84,Default,,0,0,0,,Yes. Yamamoto speaking.
@@ -382,7 +382,7 @@ Dialogue: 10,0:25:49.13,0:25:51.93,Default,,0,0,0,,The Director-General assured 
 Dialogue: 10,0:25:51.93,0:25:56.65,Default,,0,0,0,,So why does your article clearly state that Soka Gakkai "violates the Subversive Activities Law"?
 Dialogue: 10,0:25:56.65,0:25:58.64,Default,,0,0,0,,Isn't this a blatant fabrication?
 Dialogue: 10,0:25:58.64,0:26:01.87,Default,,0,0,0,,Yes, if that's all true, you're quite right.
-Dialogue: 10,0:26:02.77,0:26:06.55,Default,,0,0,0,,Are you sure you heard Director-General say it?
+Dialogue: 10,0:26:02.77,0:26:06.55,Default,,0,0,0,,Are you sure you heard the Director-General say it?
 Dialogue: 10,0:26:07.23,0:26:10.34,Default,,0,0,0,,If you stay silent, we'll never \Nget to the truth! Speak up!
 Dialogue: 10,0:26:10.86,0:26:12.80,Default,,0,0,0,,Is it really all as he says—
 Dialogue: 10,0:26:12.80,0:26:15.10,Default,,0,0,0,,you made it all up?!
@@ -390,11 +390,11 @@ Dialogue: 10,0:26:19.50,0:26:23.21,Default,,0,0,0,,It seems everything is as you
 Dialogue: 10,0:26:23.21,0:26:27.28,Default,,0,0,0,,Then publish a correction in the next issue, \Nstating that the article was unfounded.
 Dialogue: 10,0:26:27.28,0:26:29.23,Default,,0,0,0,,W-Well, we...
 Dialogue: 10,0:26:29.92,0:26:32.01,Default,,0,0,0,,Why are you backing down now?
-Dialogue: 10,0:26:32.01,0:26:37.05,Default,,0,0,0,,You caused a lot of trouble to Soka Gakkai by publishing a material that is contrary to the truth.
+Dialogue: 10,0:26:32.01,0:26:37.05,Default,,0,0,0,,You caused a lot of trouble to Soka Gakkai by publishing material that is contrary to the truth.
 Dialogue: 10,0:26:37.05,0:26:40.26,Default,,0,0,0,,Isn't this the natural \Ncourse of action for a newspaper?
 Dialogue: 10,0:26:40.93,0:26:45.98,Default,,0,0,0,,Well, that is a company decision, \Nso it's not up to me...
 Dialogue: 10,0:26:45.98,0:26:49.13,Default,,0,0,0,,Then consult with your higher-ups right now, please.
-Dialogue: 10,0:26:51.94,0:26:56.74,NarrTop,,0,0,0,,While Shinichi was engaged in the heated negotiations as the head of public relations,
+Dialogue: 10,0:26:51.94,0:26:56.74,NarrTop,,0,0,0,,While Shinichi was engaged in heated negotiations as the head of public relations,
 Dialogue: 10,0:26:56.74,0:27:01.15,NarrTop,,0,0,0,,Toda was in Osaka, attending the induction ceremony for the Kansai Headquarters.
 Dialogue: 10,0:27:01.79,0:27:04.92,Narrator,,0,0,0,,The headquarters building was a three-story structure,
 Dialogue: 10,0:27:04.92,0:27:09.48,Narrator,,0,0,0,,purchased from the Osaka Music School, renovated, and refurbished.
@@ -424,11 +424,11 @@ Dialogue: 10,0:28:34.48,0:28:38.88,Default,,0,0,0,,The nationwide target of 300,
 Dialogue: 10,0:28:38.88,0:28:43.51,Default,,0,0,0,,This provides a solid foundation \Nfor our next goal of 750,000 households. {これで75万世帯への基盤がしっかりと固まりました}
 Dialogue: 10,0:28:43.51,0:28:49.42,Default,,0,0,0,,We aim to reach 500,000 next year \Nand hope you will make it your goal as well.
 Dialogue: 10,0:28:49.42,0:28:51.82,Default,,0,0,0,,Can you do it, friends?
-Dialogue: 10,0:29:01.55,0:29:05.35,Thought,,0,0,0,,How should we proceed \Nwith the next year's Battle for Osaka?
+Dialogue: 10,0:29:01.55,0:29:05.35,Thought,,0,0,0,,How should we proceed \Nwith next year's Battle for Osaka?
 Dialogue: 10,0:29:05.35,0:29:10.23,Thought,,0,0,0,,The combined Osaka and Sakai branch currently boasts 54,000 households,
 Dialogue: 10,0:29:10.23,0:29:12.99,Thought,,0,0,0,,making it the largest \Nregional branch of Soka Gakkai.
 Dialogue: 10,0:29:12.99,0:29:17.32,Thought,,0,0,0,,However, within Osaka Prefecture alone, \Nonly 31,000 households have been converted.
-Dialogue: 10,0:29:17.32,0:29:20.80,Thought,,0,0,0,,The current battle array \Nis not in our favor.
+Dialogue: 10,0:29:17.32,0:29:20.80,Thought,,0,0,0,,As arrayed, the current battle \Nis not in our favor.
 Dialogue: 10,0:29:20.80,0:29:23.41,Thought,,0,0,0,,We need at least twice \Nthat number of households,
 Dialogue: 10,0:29:23.41,0:29:26.89,Thought,,0,0,0,,and then we also need to gather \N50,000 motivated followers somewhere... {lit: at least 50000 first-class fighters (for); champions (of);}
 Dialogue: 10,0:29:26.89,0:29:31.30,Thought,,0,0,0,,It's the basic condition for winning. \NAnd for that...
@@ -438,7 +438,7 @@ Dialogue: 10,0:29:37.03,0:29:39.31,Default,,0,0,0,,Don't mind me. \NIt's nothing
 Dialogue: 10,0:29:39.74,0:29:42.71,Default,,0,0,0,,But you look really worn out...
 Dialogue: 10,0:29:42.71,0:29:46.33,Default,,0,0,0,,Don't worry, I'm not the type \Nto go down so easily.
 Dialogue: 10,0:29:46.33,0:29:48.31,Default,,0,0,0,,
-Dialogue: 10,0:29:52.67,0:29:55.98,Default,,0,0,0,,Shinichi, the life is full of worry.
+Dialogue: 10,0:29:52.67,0:29:55.98,Default,,0,0,0,,Shinichi, life is full of worry.
 Dialogue: 10,0:29:58.23,0:30:00.90,Default,,0,0,0,,You only understand faith \Nwhen you start worrying. {悩んで初めて信心も分かるんだよ}
 Dialogue: 10,0:30:03.20,0:30:07.41,Default,,0,0,0,,But that's how you pave your way \Nto greatness, Shinichi.
 Dialogue: 10,0:30:07.41,0:30:08.29,Default,,0,0,0,,Okay.
@@ -471,7 +471,7 @@ Dialogue: 0,0:06:24.36,0:06:29.12,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\f
 Dialogue: 0,0:06:52.72,0:06:54.94,Sign,,0,0,0,,{\fnAller Display\bord\fade(0,0)\blur0.4\fs20\3c&H000000&\c&H564643&\fax0\frx28\fry308\pos(168.12,70.11)\frz27.02}S{\fax-0.02\c&H544442&}o{\fax-0.04\c&H524240&}k{\fax-0.06\c&H50413F&}a{\fax-0.08\c&H4E3F3D&} {\fax-0.1\c&H4C3D3C&}G{\fax-0.12\c&H4A3B3A&}a{\fax-0.14\c&H483939&}k{\fax-0.16\c&H463837&}k{\fax-0.18\c&H443636&}a{\fax-0.2\c&H423434&}i
 Dialogue: 0,0:06:56.72,0:06:58.11,Sign,,0,0,0,,{\fnAller Display\bord\fax0.2\fade(0,0)\blur0.4\fs15\3c&H000000&\frx6\fry4\frz352.7\pos(352.73,184.95)\c&H46433D&}S{\fax0.2\c&H47443E&}e{\fax0.19\c&H48453F&}c{\fax0.19\c&H494640&}o{\fax0.18\c&H494740&}n{\fax0.18\c&H4A4841&}d{\fax0.18\c&H4B4942&} {\fax0.17\c&H4C4A43&}P{\fax0.17\c&H4D4B44&}r{\fax0.16\c&H4E4C45&}e{\fax0.16\c&H4E4D45&}s{\fax0.16\c&H4F4E46&}i{\fax0.15\c&H504F47&}d{\fax0.15\c&H515148&}e{\fax0.14\c&H525249&}n{\fax0.14\c&H53534A&}t{\fax0.14\c&H53544A&}'{\fax0.13\c&H54554B&}s{\fax0.13\c&H55564C&} {\fax0.12\c&H56574D&}O{\fax0.12\c&H57584E&}f{\fax0.12\c&H58594F&}f{\fax0.11\c&H585A4F&}i{\fax0.11\c&H595B50&}c{\fax0.1\c&H5A5C51&}e{\fax0.1\c&H5B5D52&} {第二会長室}
 Dialogue: 0,0:07:52.34,0:07:55.03,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H010101&\pos(314.85,471.62)\c&HF9F9F9&}Suikokai Meeting {水滸会の会合}
-Dialogue: 0,0:07:58.12,0:08:02.50,Sign,,0,0,0,,{\fnFOT Rodin Pro EB\bord3.5\fade(450,0)\blur0.4\fs28\3c&H000000&\b0\pos(316.93,368.48)}100,000 Distinguished Citizens {国士 10万}
+Dialogue: 0,0:07:58.12,0:08:02.50,Sign,,0,0,0,,{\fnFOT Rodin Pro EB\bord3.5\fade(450,0)\blur0.4\fs28\3c&H000000&\b0\pos(316.93,368.48)}100,000 Upstanding Citizens {国士 10万}
 Dialogue: 0,0:08:47.47,0:08:51.40,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H000000&\pos(317.2,471.62)}Lake Kawaguchi {河口湖}
 Dialogue: 0,0:08:52.25,0:08:56.99,Sign,,0,0,0,,{\fnAller Display\bord\blur0.4\fs10\3c&H000000&\pos(551.36,347.32)\c&H38393E&}L{\c&H3A3B3F&}a{\c&H3D3E41&}k{\c&H3F4042&}e{\c&H414343&} {\c&H444545&}V{\c&H464746&}i{\c&H484A47&}e{\c&H4B4C49&}w{\c&H4D4F4A&} \N{\c&H4F514B&}H{\c&H52534D&}o{\c&H54564E&}t{\c&H56584F&}e{\c&H595B51&}l{\c&H5B5D52&} {ビューレーク - actually "view lake" but idk}
 Dialogue: 0,0:09:07.90,0:09:09.95,Sign,,0,0,0,,{\fnAller Display\bord\blur0.4\fs20\fax0.06\3c&H000000&\c&H665F6B&\frx2\fry14\frz355.2\pos(575.01,288.48)}L{\c&H655F6B&}a{\c&H645F6A&}k{\c&H645F6A&}e{\c&H635E6A&} {\c&H625E6A&}V{\c&H615E69&}i{\c&H615E69&}e{\c&H605E69&}w{\c&H5F5E68&} {\c&H5E5E68&}H{\c&H5D5D68&}o{\c&H5D5D68&}t{\c&H5C5D67&}e{\c&H5B5D67&}l
@@ -487,7 +487,7 @@ Dialogue: 0,0:17:49.13,0:17:51.17,Sign,,0,0,0,,{\fnEighty Percent Caps\bord\fade
 Dialogue: 0,0:18:32.26,0:18:35.67,Sign,,0,0,0,,{\fnGapstown AH\bord\fade(0,0)\blur0.4\fs11\3c&H000000&\c&H131A1F&\clip(m 229.24 366.98 l 235.97 374.44 237.33 375.18 242.17 380.43 250.26 385.47 259.51 389.25 264.24 390.62 268.55 394.29 276.33 404.38 304.08 398.91 282.63 334.63 217.47 360.05)\frz10.84\fscx101\fscy95\pos(258.83,391.55)}Household \Naccount \Nbook {家計簿}
 Dialogue: 0,0:18:44.10,0:18:51.07,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs30\3c&H000000&\pos(629.64,411.76)}A great general is the soul of his army {軍には大将軍を魂とす}
 Dialogue: 0,0:18:47.40,0:18:51.07,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs30\3c&H000000&\pos(630.58,444.23)}If the general shows fear, the infantry will falter {大将軍臆しぬれば歩兵臆病なり}
-Dialogue: 0,0:18:56.41,0:19:02.04,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs31\3c&H000000&\pos(627.28,398.59)}More importantly than any military strategy,
+Dialogue: 0,0:18:56.41,0:19:02.04,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs31\3c&H000000&\pos(627.28,398.59)}More important than any military strategy,
 Dialogue: 0,0:18:58.57,0:19:02.04,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs31\3c&H000000&\pos(626.82,435.76)}you should follow the strategy of the Lotus Sutra {なにの兵法よりも法華経の兵法をもちひ給うべし}
 Dialogue: 0,0:19:09.32,0:19:16.13,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an9\bord3.5\fade(450,450)\blur0.4\fs28\3c&H000000&\pos(629.64,373.18)}Just as you can make fire from wet wood
 Dialogue: 0,0:19:11.73,0:19:16.13,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,450)\blur0.4\fs28\an9\3c&H000000&\pos(626.81,408)}or water from dry earth,
@@ -516,7 +516,7 @@ Dialogue: 0,0:23:19.42,0:23:24.39,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\f
 Dialogue: 0,0:23:39.97,0:23:44.28,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(0,0)\blur0.4\fs33\3c&H000000&\pos(314.85,471.62)}1952 Bloody May Day {血のメーデー事件}
 Dialogue: 0,0:24:00.29,0:24:01.54,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&}Religious partisans
 Dialogue: 0,0:24:01.54,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs33\3c&H000000&\frz350.5\pos(348.86,34.53)\c&H000000&\clip(m 223.69 26.86 l 461.33 -49.53 132.26 -69.42 122.49 30)}Religious partisans
-Dialogue: 0,0:24:01.42,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs26\3c&H000000&\c&H000000&\frz18.63\pos(267.55,69.89)} A new religion flying military flag {same newspapers as before}
+Dialogue: 0,0:24:01.42,0:24:04.30,Sign,,0,0,0,,{\fnCabin\bord\fade(0,0)\blur0.4\fs26\3c&H000000&\c&H000000&\frz18.63\pos(267.55,69.89)} A new religion flying military flags {same newspapers as before}
 Dialogue: 0,0:24:25.36,0:24:28.32,Sign,,0,0,0,,{\fnEdo SZ\bord\fade(0,0)\blur0.5\fs10\3c&H000000&\c&H393538&\frx356\fry338\frz357.1\pos(95.64,430.31)}Soka \NGakkai
 Dialogue: 0,0:25:12.53,0:25:16.37,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\bord3.5\fade(450,450)\blur0.4\fs33\3c&H000000&\pos(384.25,426.11)}Newspaper office {誤報記事を報道した新聞社}{more specifically "office of the newspaper that published the forged article"}
 Comment: 0,0:25:26.84,0:25:27.51,Sign,,0,0,0,,{nothing important}
