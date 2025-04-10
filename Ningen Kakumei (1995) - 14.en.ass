@@ -16,10 +16,9 @@ Video File: Ningen Kakumei - 14 [FOR TRANSLATION ONLY] [498697AD].mkv
 Keyframes File: keyframes/Ningen14_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 2.750000
-Scroll Position: 432
-Active Line: 449
-Video Position: 41252
+Video Zoom Percent: 2.375000
+Active Line: 14
+Video Position: 45299
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,13 +43,13 @@ Dialogue: 1,0:00:13.62,0:00:16.91,Default,,0,70,0,,{\fade(0,600)\an3\clip(0,0,17
 Dialogue: 2,0:00:18.33,0:00:28.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H0307AE&\4c&H000000&\blur1\bord0\xshad0\yshad\fnDejaVu Serif Condensed\3c&HE6EFFF&}The Human Revolution {人間革命}
 Dialogue: 1,0:00:18.33,0:00:28.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H53536A&\4c&H000000&\blur0\bord0\xshad0.4\yshad0.5\fnDejaVu Serif Condensed\3c&HE6EFFF&}The Human Revolution {人間革命}
 Dialogue: 0,0:00:18.33,0:00:28.01,Sign,,0,0,0,,{\fax0\an5\frx85\fs50\t(0,1630,\frx0\fs50)\move(325,100,325,80,0,1200)\c&H262DCC&\4c&H000000&\blur0.5\bord4\xshad1\yshad\fnDejaVu Serif Condensed\3c&HFFFFFF&}The Human Revolution {人間革命}
-Dialogue: 0,0:00:20.00,0:00:28.01,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an7\fs28\c&HFFFFFF&\4c&H0A0F16&\bord1.5\shad\blur0.7\3c&H000000&\pos(172.51,359.2)} Episode 1          {\fs48}
+Dialogue: 0,0:00:20.00,0:00:28.01,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\an7\fs28\c&HFFFFFF&\4c&H0A0F16&\bord1.5\shad\blur0.7\3c&H000000&\pos(169.56,359.2)} Episode 14    {\fs41}Pulsation {脈動}
 Dialogue: 0,0:00:30.01,0:00:33.97,Sign,,0,0,0,,{\fade(370,0)\fs30\fnGentium Book Basic\b0\an9\c&HFFFFFE&\bord1.7\blur0.5\4c&H0D1817&\3c&H000000&\pos(253.36,301.2)}Original Work
 Dialogue: 0,0:00:30.01,0:00:33.97,Sign,,0,0,0,,{\fade(370,0)\fs40\fnGentium Book Basic\b0\an7\c&HFFFFFE&\bord1.7\blur0.7\4c&H0D1817&\3c&H000000&\pos(279.38,294.8)}Daisaku Ikeda
 Dialogue: 0,0:30:41.32,0:30:47.37,Sign,,0,0,0,,{\blur0.6\shad0\bord1.6\an9\fs25\fad(0,1300)\c&HFFFFFF&\pos(220.94,304)\3c&H000000&} Raw provider \N Encoding & QC \N Translation \N Editing \NQC
 Dialogue: 1,0:30:41.32,0:30:47.37,Sign,,0,0,0,,{\blur0.6\shad0\bord1.7\fad(0,1300)\an7\fs25\c&HFFFFFF&\pos(337,304)\3c&H000000&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr, Muzussawa, \NTrue Noobow Gamer
 Dialogue: 2,0:31:27.91,0:31:34.79,Sign,,0,0,0,,{\fad(800,3440)\fs40\fax\fnDejaVu Serif Condensed\\an5\c&HF9FFF9&\3c&H0616AE&\bord3\blur0.8\pos(319.4,113.6)}The Human Revolution
-Dialogue: 3,0:31:27.91,0:31:34.79,Sign,,0,0,0,,{\fad(800,3440)\blur0.5\bord3.5\fs30\fnKozuka Mincho Pro H\c&HF9FFF9&\3c&H0616AE&\pos(318.59,306)}Episode 1
+Dialogue: 3,0:31:27.91,0:31:34.79,Sign,,0,0,0,,{\fad(800,3440)\blur0.5\bord3.5\fs30\fnKozuka Mincho Pro H\c&HF9FFF9&\3c&H0616AE&\pos(318.59,306)}Episode 14
 Dialogue: 4,0:31:27.91,0:31:34.79,Sign,,0,0,0,,{\fad(800,3440)\fs50\blur0.7\bord4\fnKozuka Mincho Pro H\c&HF9FFF9&\3c&H0616AE&\pos(319.8,434)}The End
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{oped border}
 Dialogue: 0,0:00:32.00,0:00:35.85,NarrTop,,0,0,0,,The year is 1956. January 4th.
