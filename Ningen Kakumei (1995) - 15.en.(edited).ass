@@ -481,7 +481,7 @@ Dialogue: 10,0:27:50.82,0:27:54.77,NarrTop,,0,0,0,,and held a convention \Nat Na
 Dialogue: 10,0:27:54.77,0:27:59.29,NarrTop,,0,0,0,,rallying 3,000 branch members and friends.
 Dialogue: 10,0:27:59.29,0:28:02.10,Thought,,0,0,0,,This turnout is truly impressive. {/they did well gathering together so many members}
 Dialogue: 10,0:28:02.10,0:28:06.12,Thought,,0,0,0,,To think that a single district \Ncould fill this large public hall...
-Dialogue: 10,0:28:06.12,0:28:09.54,Thought,,0,0,0,,This will boost the spirits \Nof the neighboring districts.
+Dialogue: 10,0:28:06.12,0:28:09.54,Thought,,0,0,0,,This will boost the spirits \Nof all the districts to follow.
 Dialogue: 10,0:28:09.54,0:28:12.41,Default,,0,0,0,,The lion's awake at last!
 Dialogue: 10,0:28:12.41,0:28:13.29,Default,,0,0,0,,Yeah, that's right!
 Dialogue: 10,0:28:13.29,0:28:14.05,Default,,0,0,0,,Exactly!
@@ -502,7 +502,7 @@ Dialogue: 10,0:29:25.51,0:29:27.00,Thought,,0,0,0,,I know they will!
 Dialogue: 10,0:29:27.00,0:29:32.80,Thought,,0,0,0,,And I need to sound the alarm now so that \Nno one is caught by surprise when they do.
 Dialogue: 10,0:29:33.59,0:29:38.31,Thought,,0,0,0,,I will include that in my talk \Nat tomorrow's HQ meeting.
 Dialogue: 10,0:29:38.31,0:29:41.26,Narrator,,0,0,0,,The further Soka Gakkai advances the Common Path,
-Dialogue: 10,0:29:41.26,0:29:47.69,Narrator,,0,0,0,,the more likely power-hungry \Ndemons will surface to take advantage of them.
+Dialogue: 10,0:29:41.26,0:29:47.69,Narrator,,0,0,0,,the more likely it is that power-hungry \Ndemons will surface to take advantage of them.
 Dialogue: 10,0:29:48.83,0:29:54.87,Narrator,,0,0,0,,Back then, only Yamamoto Shinichi had an inkling that his prediction
 Dialogue: 10,0:29:54.87,0:29:59.26,Narrator,,0,0,0,,would come true all too precisely in May.
 Comment: 0,0:29:59.26,0:30:01.26,Narrator,,0,0,0,,{signs}
