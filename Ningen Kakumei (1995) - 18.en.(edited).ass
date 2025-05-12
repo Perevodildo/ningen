@@ -506,7 +506,7 @@ Dialogue: 10,0:30:58.90,0:31:06.22,Thought,,0,0,0,,Sadly, I too will soon follow
 Dialogue: 10,0:31:06.85,0:31:10.10,Thought,,0,0,0,,All right, I'll fight with determination!
 Dialogue: 10,0:31:11.95,0:31:14.35,Thought,,0,0,0,,Toda-sensei is a lion.
 Dialogue: 10,0:31:14.35,0:31:19.57,Thought,,0,0,0,,If so, as his faithful disciple, \NI also have to become a lion.
-Dialogue: 10,0:31:20.17,0:31:25.38,Thought,,0,0,0,,The day of reckoning has come—\Nand I will see if I have the lion in me.{what it takes to be a lion/to check if I truly am a lion}
+Dialogue: 10,0:31:20.17,0:31:25.38,Thought,,0,0,0,,The day of reckoning has come—\Nand it'll show if I have the lion in me.{what it takes to be a lion/to check if I truly am a lion}
 Comment: 0,0:31:25.38,0:31:27.38,Sign,,0,0,0,,{signs}
 Dialogue: 0,0:00:34.01,0:00:37.98,Sign,,0,0,0,,{\c&HFEFDFC&\fad(0,0)\q2\blur0.4\fs34\bord3\fnAlef\frz\3c&H000000&\b1\pos(315.8,469.27)}Tsutenkaku Tower, rebuilt last October {昨年１０月に再建された「通天閣」}
 Dialogue: 0,0:00:37.98,0:00:43.98,Sign,,0,0,0,,{\c&HFEFDFC&\fad(440,440)\q2\blur0.4\fs44\bord4\fnAlef\frz\3c&H000000&\b1\pos(313.27,360)}April 1957.
