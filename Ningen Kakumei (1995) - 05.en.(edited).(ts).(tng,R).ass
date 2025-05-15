@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 05 [DVD] [1528A55C].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.250000
-Scroll Position: 456
-Active Line: 2532
-Video Position: 40069
+Scroll Position: 416
+Active Line: 585
+Video Position: 45330
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,14 +52,14 @@ Dialogue: 10,0:01:50.59,0:01:53.19,Narrator,,0,0,0,,As the executive director of
 Dialogue: 10,0:01:53.19,0:01:56.89,Narrator,,0,0,0,,Toda, essentially in charge of all aspects of management,
 Dialogue: 10,0:01:56.89,0:02:01.74,Narrator,,0,0,0,,was burning with a strong determination to get the business back on track
 Dialogue: 10,0:02:01.74,0:02:04.15,Narrator,,0,0,0,,and make it a success this time around.
-Dialogue: 10,0:02:05.71,0:02:10.08,NarrTop,,0,0,0,,As a sales and negotiations employee at a credit union,
+Dialogue: 10,0:02:05.71,0:02:10.08,NarrTop,,0,0,0,,As a sales and negotiations employee \Nat the credit union,
 Dialogue: 10,0:02:10.08,0:02:15.21,NarrTop,,0,0,0,,Yamamoto Shinichi traveled around town trying to get people to make a deposit at Toko,
 Dialogue: 10,0:02:15.21,0:02:18.69,NarrTop,,0,0,0,,but finance was never really \NShinichi's forte,
 Dialogue: 10,0:02:18.69,0:02:22.37,NarrTop,,0,0,0,,and it was the one job \Nhe couldn't stomach.
 Dialogue: 10,0:02:23.47,0:02:24.33,Thought,,0,0,0,,Still...
 Dialogue: 10,0:02:24.81,0:02:28.88,Thought,,0,0,0,,if Toda-sensei thought it necessary and decided to proceed with it,
 Dialogue: 10,0:02:28.88,0:02:31.06,Thought,,0,0,0,,I also have to do whatever I can.
-Dialogue: 10,0:02:31.06,0:02:35.23,Thought,,0,0,0,,I'll fight tooth and nail for the rebirth of sensei's business.
+Dialogue: 10,0:02:31.06,0:02:35.23,Thought,,0,0,0,,I'll fight tooth and nail \Nfor the rebirth of Sensei's business.
 Dialogue: 10,0:02:36.34,0:02:39.35,NarrTop,,0,0,0,,Around this time, the effects of the government's enforced
 Dialogue: 10,0:02:39.35,0:02:44.05,NarrTop,,0,0,0,,implementation of the Nine Principles for Economic Stability were evident everywhere.
 Dialogue: 10,0:02:44.05,0:02:47.33,NarrTop,,0,0,0,,Not only did large companies have to cut back operations,
@@ -102,11 +102,11 @@ Dialogue: 10,0:04:58.99,0:05:01.07,Default,,0,0,0,,Yes. I understand.
 Dialogue: 10,0:05:01.07,0:05:05.61,Default,,0,0,0,,Please take immediate action. \NI'm counting on you.
 Dialogue: 10,0:05:06.64,0:05:10.12,Thought,,0,0,0,,But what can I do...?
 Dialogue: 10,0:05:10.71,0:05:14.13,Thought,,0,0,0,,I can't count on the credit union managers to handle it well. {/are completely unreliable - probably means "they can't stop the bank run" but maybe means "our backers won't support us"}
-Dialogue: 10,0:05:15.44,0:05:18.15,Thought,,0,0,0,,Is there any way I can help it...
+Dialogue: 10,0:05:15.44,0:05:18.15,Thought,,0,0,0,,Is there any way I can help?
 Dialogue: 10,0:05:27.78,0:05:29.03,Thought,,0,0,0,,Hold up...
 Dialogue: 10,0:05:29.03,0:05:30.24,Thought,,0,0,0,,A merger!
 Dialogue: 10,0:05:31.37,0:05:33.90,Thought,,0,0,0,,That's right! That is still an option.
-Dialogue: 10,0:05:34.79,0:05:38.50,Thought,,0,0,0,,We have no choice but to merge with some union that found itself in a better spot.
+Dialogue: 10,0:05:34.79,0:05:38.50,Thought,,0,0,0,,We have no choice but to merge with a union \Nthat has found itself in a better spot.
 Dialogue: 10,0:05:38.50,0:05:43.78,Thought,,0,0,0,,If we manage to do that, even if it means putting myself and the union at a disadvantage,
 Dialogue: 10,0:05:43.78,0:05:48.91,Thought,,0,0,0,,at the very least, it'll spare our depositors any extra worry. {/we'll be able to proceed without causing ... any trouble}
 Dialogue: 10,0:05:49.60,0:05:50.41,Default,,0,0,0,,Okumura-kun,
@@ -128,12 +128,12 @@ Dialogue: 10,0:06:56.95,0:06:58.73,Default,,0,0,0,,I'm also completely helpless.
 Dialogue: 10,0:06:58.73,0:07:02.54,Default,,0,0,0,,I guess... \Nwe'll have to resort to a merger, won't we?
 Dialogue: 10,0:07:02.54,0:07:05.75,Default,,0,0,0,,They wouldn't even listen to me. \NWe're being completely stonewalled.
 Dialogue: 10,0:07:05.75,0:07:07.74,Default,,0,0,0,,Hey, that's not good!
-Dialogue: 10,0:07:10.24,0:07:16.25,Thought,,0,0,0,,The company's position might just be \Neven more precarious than it seemed to me.
-Dialogue: 10,0:07:16.25,0:07:21.00,Thought,,0,0,0,,I've never seen Toda-sensei so distressed.
+Dialogue: 10,0:07:10.24,0:07:16.25,Thought,,0,0,0,,The company's position might just be \Neven more precarious than it seemed{ to me}.
+Dialogue: 10,0:07:16.25,0:07:21.00,Thought,,0,0,0,,This is the first time I've seen Toda-sensei so distressed.
 Dialogue: 10,0:07:29.77,0:07:32.10,Thought,,0,0,0,,Coming home after midnight again?
-Dialogue: 10,0:07:33.17,0:07:37.27,Thought,,0,0,0,,Really, I didn't even realize how much it hurt sensei...
+Dialogue: 10,0:07:33.17,0:07:37.27,Thought,,0,0,0,,Really, I didn't even realize how much it hurt Sensei...
 Dialogue: 10,0:07:37.91,0:07:41.06,Thought,,0,0,0,,I feel ashamed that it never even crossed my mind.
-Dialogue: 10,0:07:42.00,0:07:44.44,Thought,,0,0,0,,I must do whatever I can for sensei.
+Dialogue: 10,0:07:42.00,0:07:44.44,Thought,,0,0,0,,I must do whatever I can for Sensei.
 Dialogue: 10,0:07:45.00,0:07:46.88,Thought,,0,0,0,,I must stay strong for him...
 Dialogue: 10,0:07:47.30,0:07:51.78,Thought,,0,0,0,,When the going gets tough, \Nthe tough get going. {lit: I will face any hardship and any difficulty without hesitation!}
 Dialogue: 10,0:07:51.78,0:07:55.11,Narrator,,0,0,0,,Toda made every effort \Nto resolve the situation,
@@ -166,7 +166,7 @@ Dialogue: 10,0:09:34.09,0:09:37.41,Default,,0,0,0,,"I've got a hell of a scoop c
 Dialogue: 10,0:09:38.62,0:09:40.10,Default,,0,0,0,,I see.
 Dialogue: 10,0:09:42.62,0:09:45.61,Thought,,0,0,0,,What should I do? \NThe board meeting is about to begin.
 Dialogue: 10,0:09:45.61,0:09:51.52,Default,,0,0,0,,Sensei. Allow me to meet him \Non your behalf today.
-Dialogue: 10,0:09:51.52,0:09:54.62,Default,,0,0,0,,Yes, sounds good. \NI'm counting on you to handle it here.
+Dialogue: 10,0:09:51.52,0:09:54.62,Default,,0,0,0,,Yes, sounds good. \NI'm counting on you to handle it{ here}.
 Dialogue: 10,0:09:56.62,0:09:59.12,Default,,0,0,0,,By the way, how many \Ndepositors do you have?
 Dialogue: 10,0:09:59.12,0:10:03.12,Default,,0,0,0,,I know asking the total amount of damages is kinda out of left field...
 Dialogue: 10,0:10:03.12,0:10:04.85,Default,,0,0,0,,But how much in debt are you now?
@@ -183,8 +183,8 @@ Dialogue: 10,0:10:41.97,0:10:46.85,Default,,0,0,0,,That is my hope. \NI must say
 Dialogue: 10,0:10:46.85,0:10:49.98,Default,,0,0,0,,Other newspaper hadn't sent their journalists here as of yet.
 Dialogue: 10,0:10:49.98,0:10:52.98,Default,,0,0,0,,That's cause I have an excellent intuition. {the wolf knows what the ill beast thinks; it takes one to know one; it takes a thief to catch a thief​}
 Dialogue: 10,0:10:52.98,0:10:56.99,Narrator,,0,0,0,,Shinichi's delaying strategy worked.
-Dialogue: 10,0:10:56.99,0:11:01.05,Default,,0,0,0,,Eventually, the reporter ran out of time\Nto deliver the scoop he promised.
-Dialogue: 10,0:11:01.05,0:11:04.31,Default,,0,0,0,,It was moved to the next day.
+Dialogue: 10,0:10:56.99,0:11:01.05,Narrator,,0,0,0,,Eventually, the reporter ran out of time\Nto deliver the scoop he promised.
+Dialogue: 10,0:11:01.05,0:11:04.31,Narrator,,0,0,0,,It was moved to the next day.
 Dialogue: 10,0:11:05.48,0:11:10.25,Default,,0,0,0,,I guess I'll just come again tomorrow to ask your executive director for numbers, Yamamoto-san.
 Dialogue: 10,0:11:14.23,0:11:18.24,Default,,0,0,0,,Which means, if you collect all of these unpaid debts,
 Dialogue: 10,0:11:18.24,0:11:21.26,Default,,0,0,0,,you'd be able to cover all your obligations?
@@ -204,7 +204,7 @@ Dialogue: 10,0:12:11.77,0:12:14.55,Thought,,0,0,0,,Man, I'm in a pickle...
 Dialogue: 10,0:12:17.86,0:12:19.30,Default,,0,0,0,,Let me put it plainly:
 Dialogue: 10,0:12:19.30,0:12:26.66,Default,,0,0,0,,you now wield complete authority over the life or death of our credit union.
 Dialogue: 10,0:12:26.66,0:12:29.16,Default,,0,0,0,,The rest is up to you.
-Dialogue: 10,0:12:29.80,0:12:32.06,Thought,,0,0,0,,What strong words, sensei!
+Dialogue: 10,0:12:29.80,0:12:32.06,Thought,,0,0,0,,What strong words, Sensei!
 Dialogue: 10,0:12:32.75,0:12:35.81,Thought,,0,0,0,,A single sentence to drive a wedge so deep into one's soul...
 Dialogue: 10,0:12:35.81,0:12:37.57,Thought,,0,0,0,,What is Aoyama going to do?
 Dialogue: 10,0:12:53.64,0:12:57.84,Default,,0,0,0,,Ugh, fine, I understand! \NWe'll wait a while before publishing this.
@@ -213,7 +213,7 @@ Dialogue: 10,0:13:01.43,0:13:04.85,Thought,,0,0,0,,Today we got one journalist \
 Dialogue: 10,0:13:04.85,0:13:07.12,Thought,,0,0,0,,But we're not out of the woods just yet.
 Dialogue: 10,0:13:07.82,0:13:13.56,Thought,,0,0,0,,It is highly likely that another newspaper \Nwill also try to pursue this.
 Dialogue: 10,0:13:14.21,0:13:16.67,Thought,,0,0,0,,The crisis is averted for now.
-Dialogue: 10,0:13:16.67,0:13:21.09,Thought,,0,0,0,,But what should I do \Nto protect sensei from now on?
+Dialogue: 10,0:13:16.67,0:13:21.09,Thought,,0,0,0,,But what should I do \Nto protect Sensei from now on?
 Dialogue: 10,0:13:21.73,0:13:22.30,Default,,0,0,0,,Shin!
 Dialogue: 10,0:13:22.30,0:13:22.87,Default,,0,0,0,,Yes!
 Dialogue: 10,0:13:22.87,0:13:27.08,Default,,0,0,0,,The sway that newspapers hold over people's minds is amazing nowadays.
@@ -252,15 +252,15 @@ Dialogue: 10,0:15:28.07,0:15:30.08,Default,,0,0,0,,Huh? Seriously?
 Dialogue: 10,0:15:30.59,0:15:32.15,Default,,0,0,0,,What happened?
 Dialogue: 10,0:15:34.22,0:15:38.60,Default,,0,0,0,,It fell to me to clean up \Nthe mess that remained afterwards.
 Dialogue: 10,0:15:38.60,0:15:44.58,Default,,0,0,0,,Again, it has nothing to do with Soka Gakkai,\Nbut it puts me personally into a fix.
-Dialogue: 10,0:15:46.59,0:15:49.77,Default,,0,0,0,,After a short consideration,
+Dialogue: 10,0:15:46.59,0:15:49.77,Default,,0,0,0,,After much deliberation, 
 Dialogue: 10,0:15:50.36,0:15:53.97,Default,,0,0,0,,I've arrived at a conclusion.
 Dialogue: 10,0:15:54.57,0:15:59.10,Default,,0,0,0,,I have to resign from my position \Nas the president from today on.
 Dialogue: 10,0:15:59.10,0:16:00.15,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:16:00.73,0:16:02.40,Default,,0,0,0,,
 Dialogue: 10,0:16:02.40,0:16:05.69,Thought,,0,0,0,,Sensei's resigning? But why?
-Dialogue: 10,0:16:12.16,0:16:16.41,Default,,0,0,0,,I'm going to ask Mishima Yoshizo-kun \Nto take over as temporary president. {effectively it's someone who acts as the head of the organization, but not exactly as president, maybe "acting president"}
+Dialogue: 10,0:16:12.16,0:16:16.41,Default,,0,0,0,,I'm going to ask Mishima Yoshizo-kun \Nto take over as the interim president. {effectively it's someone who acts as the head of the organization, but not exactly as president, maybe "acting president"}
 Dialogue: 10,0:16:18.43,0:16:23.74,Default,,0,0,0,,It absolutely doesn't mean \NI've given up on my faith.
-Dialogue: 10,0:16:24.47,0:16:29.84,Default,,0,0,0,,My resolve to devote myself to the great cause of the Common Path is still unwavering.
+Dialogue: 10,0:16:24.47,0:16:29.84,Default,,0,0,0,,My resolve to devote myself to the great cause \Nof the Common Path is still unwavering.
 Dialogue: 10,0:16:29.84,0:16:37.60,Default,,0,0,0,,On the contrary, it's this very resolve \Nthat makes me meet those tribulations head-on!
 Dialogue: 10,0:16:38.08,0:16:40.75,Thought,,0,0,0,,I can't believe how short-sighted I've been.
 Dialogue: 10,0:16:40.75,0:16:44.57,Thought,,0,0,0,,I never realized how hard it was for Sensei, \Nwho's struggling with his business...
@@ -274,7 +274,7 @@ Dialogue: 10,0:17:16.35,0:17:18.95,Thought,,0,0,0,,Is he going to do something r
 Dialogue: 10,0:17:18.95,0:17:20.03,Default,,0,0,0,,Well then...
 Dialogue: 10,0:17:20.89,0:17:22.44,Thought,,0,0,0,,It's better this way.
 Dialogue: 10,0:17:23.77,0:17:25.41,Thought,,0,0,0,,Forgive me, everyone.
-Dialogue: 10,0:17:25.41,0:17:30.78,Thought,,0,0,0,,It's the only way to preserve \NSoka Gakkai intact.
+Dialogue: 10,0:17:25.41,0:17:30.78,Thought,,0,0,0,,It's the only way to preserve \NSoka Gakkai in its current form.
 Dialogue: 10,0:17:37.74,0:17:40.39,Thought,,0,0,0,,Sensei is Soka Gakkai itself.
 Dialogue: 10,0:17:40.39,0:17:45.96,Thought,,0,0,0,,Under no circumstances, can I imagine Soka Gakkai without Toda-sensei.
 Dialogue: 10,0:17:50.25,0:17:52.78,Default,,0,0,0,,Yamamoto here. May I?
@@ -301,19 +301,19 @@ Dialogue: 10,0:19:13.81,0:19:15.40,Thought,,0,0,0,,I'm counting on you, everyone
 Dialogue: 10,0:19:16.22,0:19:21.20,Narrator,,0,0,0,,From the next day on, Toda started working on liquidating the credit union.
 Dialogue: 10,0:19:21.20,0:19:24.83,Narrator,,0,0,0,,At this point, several more employees left the company
 Dialogue: 10,0:19:24.83,0:19:29.52,Narrator,,0,0,0,,and Toda had very few personnel remaining under his command.
-Dialogue: 10,0:19:30.89,0:19:37.07,Thought,,0,0,0,,It's 10 already... I've been to eight houses and only one agreed... {no clue what they agreed for, maybe pay their debt, maybe invest into union}
+Dialogue: 10,0:19:30.89,0:19:37.07,Thought,,0,0,0,,It's 10 p.m. already... I've been to eight houses and only one agreed... {no clue what they agreed for, maybe pay their debt, maybe invest into union}
 Dialogue: 10,0:19:40.30,0:19:41.83,Default,,0,0,0,,
 Dialogue: 10,0:19:45.14,0:19:47.58,Default,,0,0,0,,You're up so late, Sensei!
 Dialogue: 10,0:19:48.02,0:19:50.59,Default,,0,0,0,,Oh, there you are. \NI've been waiting.
 Dialogue: 10,0:19:51.16,0:19:56.59,Default,,0,0,0,,Let's go home together. \NIt's late, so you can stay at my house.
 Dialogue: 10,0:19:59.59,0:20:03.13,Default,,0,0,0,,Here, cider for Yamamoto-san.
 Dialogue: 10,0:20:03.13,0:20:04.79,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:20:08.19,0:20:10.65,Default,,0,0,0,,Say, Shin, how about a match of shogi?
+Dialogue: 10,0:20:08.19,0:20:10.65,Default,,0,0,0,,Say, Shin, how about a match of Shogi?
 Dialogue: 10,0:20:10.65,0:20:12.94,Default,,0,0,0,,It's so late, what are you thinking?
 Dialogue: 10,0:20:12.94,0:20:15.28,Default,,0,0,0,,Don't worry. You can go to sleep.
 Dialogue: 10,0:20:15.90,0:20:17.71,Default,,0,0,0,,Shin-chan, bring out the board.
 Dialogue: 10,0:20:17.71,0:20:19.08,Default,,0,0,0,,O-Okay...
-Dialogue: 10,0:20:29.54,0:20:32.06,Default,,0,0,0,,Okay, let's play just one for tonight.
+Dialogue: 10,0:20:29.54,0:20:32.06,Default,,0,0,0,,Okay, let's play just one for the night.
 Dialogue: 10,0:20:32.52,0:20:33.88,Default,,0,0,0,,With pleasure.
 Dialogue: 10,0:20:36.45,0:20:38.30,Default,,0,0,0,,
 Dialogue: 10,0:20:48.70,0:20:51.50,Default,,0,0,0,,Ugh! How about this move, then?
@@ -321,9 +321,9 @@ Dialogue: 10,0:20:52.31,0:20:54.19,Default,,0,0,0,,Looks good enough to me.
 Dialogue: 10,0:20:56.31,0:20:57.56,Default,,0,0,0,,Here.
 Dialogue: 10,0:20:58.32,0:20:59.74,Default,,0,0,0,,Here!
 Dialogue: 10,0:20:59.74,0:21:05.12,Thought,,0,0,0,,The credit union fell through, and he had to resign as the president of Soka Gakkai...
-Dialogue: 10,0:21:05.12,0:21:08.51,Thought,,0,0,0,,Yet here he is, completely engrossed by a game of shogi.
+Dialogue: 10,0:21:05.12,0:21:08.51,Thought,,0,0,0,,Yet here he is, completely engrossed in a game of Shogi.
 Dialogue: 10,0:21:09.04,0:21:15.50,Thought,,0,0,0,,When I see him like this, all our predicaments feel like jokes or distant dreams.
-Dialogue: 10,0:21:16.13,0:21:19.15,Thought,,0,0,0,,Our current distresses \Nare only temporary.
+Dialogue: 10,0:21:16.13,0:21:19.15,Thought,,0,0,0,,Our current distress is only temporary.
 Dialogue: 10,0:21:19.15,0:21:22.14,Thought,,0,0,0,,This might just be Sensei's true form.
 Dialogue: 10,0:21:22.80,0:21:27.16,Default,,0,0,0,,Shin-chan, thinking about unnecessary things does no favors to your concentration!
 Dialogue: 10,0:21:27.16,0:21:29.91,Default,,0,0,0,,When you're having fun, enjoy it wholly.
@@ -360,7 +360,7 @@ Dialogue: 10,0:22:58.86,0:23:01.11,Default,,0,0,0,,You're a lifesaver for that.
 Dialogue: 10,0:23:01.97,0:23:04.11,Default,,0,0,0,,I appreciate it, truly.
 Dialogue: 10,0:23:04.11,0:23:10.72,Narrator,,0,0,0,,Wages continued to be delayed, and now even the employees who fought hard so far
 Dialogue: 10,0:23:10.72,0:23:13.71,Narrator,,0,0,0,,were leaving the company one by one.
-Dialogue: 10,0:23:13.71,0:23:18.71,Thought,,0,0,0,,This means our sales department is just Sato-kun and Yamamoto-kun now.
+Dialogue: 10,0:23:13.71,0:23:18.71,Thought,,0,0,0,,This means our sales department only consists of Sato-kun and Yamamoto-kun now.
 Dialogue: 10,0:23:22.71,0:23:24.99,Thought,,0,0,0,,I don't feel too well,
 Dialogue: 10,0:23:25.51,0:23:27.72,Thought,,0,0,0,,I think I got a fever again. {not from a cold but something that keeps coming back due to his bad lungs}
 Dialogue: 10,0:23:28.56,0:23:30.74,Default,,0,0,0,,How was your political science exam?
@@ -408,14 +408,14 @@ Dialogue: 10,0:26:35.18,0:26:39.24,Thought,,0,0,0,,Yes. I understand. \NI really
 Dialogue: 10,0:26:41.55,0:26:44.84,Thought,,0,0,0,,Thank you, Shin!
 Dialogue: 10,0:26:47.25,0:26:50.90,Default,,0,0,0,,All right, I’ll write a poem too, \Na reply poem.
 Dialogue: 10,0:26:55.07,0:26:56.78,Default,,0,0,0,,Now then...
-Dialogue: 10,0:27:05.01,0:27:10.83,Default,,0,0,0,,"Whenever I stand on fields of war,
+Dialogue: 10,0:27:05.01,0:27:10.83,Default,,0,0,0,,"Whenever I stand on the fields of war,
 Dialogue: 10,0:27:11.69,0:27:16.91,Default,,0,0,0,,Unfailing at my side,\NYou are my sword.”
 Dialogue: 10,0:27:17.52,0:27:19.16,Default,,0,0,0,,I'll give you this.
 Dialogue: 10,0:27:19.16,0:27:20.76,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:27:20.76,0:27:21.87,Default,,0,0,0,,Wait a second,
 Dialogue: 10,0:27:22.45,0:27:24.37,Default,,0,0,0,,one more verse to go with that.
 Dialogue: 10,0:27:29.17,0:27:33.66,Default,,0,0,0,,"Fading, failing,
-Dialogue: 10,0:27:33.66,0:27:40.75,Default,,0,0,0,,At death, I the king leave to you\NMy crown."
+Dialogue: 10,0:27:33.66,0:27:40.75,Default,,0,0,0,,At death, I the king \Nleave to you my crown."
 Dialogue: 10,0:27:40.75,0:27:42.68,Default,,0,0,0,,There, that should be it.
 Dialogue: 10,0:28:12.67,0:28:20.22,Thought,,0,0,0,,Will I really be able to become his sword? \NWill I ever be worthy of Sensei's crown?
 Dialogue: 10,0:28:21.07,0:28:22.10,Default,,0,0,0,,{Yes.}
@@ -443,12 +443,12 @@ Dialogue: 10,0:29:55.79,0:30:02.75,Default,,0,0,0,,Shin-chan, I'll be tutoring y
 Dialogue: 10,0:30:02.75,0:30:06.47,Default,,0,0,0,,Come to my house. We must fulfill \Nyour academic aspirations.
 Dialogue: 10,0:30:06.47,0:30:06.99,Default,,0,0,0,,Okay!
 Dialogue: 10,0:30:06.99,0:30:12.97,Narrator,,0,0,0,,After this, Toda started his new company \Nand the liquidation work proceeded steadily.
-Dialogue: 10,0:30:12.97,0:30:17.10,Narrator,,0,0,0,,There was finally an end in sight to the problems that have been plaguing
+Dialogue: 10,0:30:12.97,0:30:17.10,Narrator,,0,0,0,,There was finally an end in sight \Nto the problems that had been plaguing
 Dialogue: 10,0:30:17.10,0:30:20.84,Narrator,,0,0,0,,the credit union for the past several months.
 Dialogue: 10,0:30:22.01,0:30:29.05,Narrator,,0,0,0,,It was this profound and firm master-disciple bond that Toda Josei and Yamamoto Shinichi
 Dialogue: 10,0:30:29.05,0:30:34.03,Narrator,,0,0,0,,formed through long, arduous, \Nand devoted struggles for their faith, {actually "persevered through single-minded difficult struggle" which is buddhism-specific term for "enduring immeasurable hardships with a single thought of faith - as if condensing the hardships of countless eras into a single moment, so as to cause the wisdom and vitality of the Buddha emerge"; don't think there's english translation or even equivalent for that}
 Dialogue: 10,0:30:34.03,0:30:37.51,Narrator,,0,0,0,,which became the catalyst for \NSoka Gakkai's rapid growth in our time
-Dialogue: 10,0:30:37.51,0:30:45.49,Narrator,,0,0,0,,and a source of inspiration for all who work hard for its sake, continuing to live on today.
+Dialogue: 10,0:30:37.51,0:30:45.49,Narrator,,0,0,0,,and a source of inspiration for all who work hard for its sake—this spirit lives on today.
 Comment: 0,0:30:45.49,0:30:47.49,Narrator,,0,0,0,,{signs}
 Dialogue: 0,0:00:17.91,0:00:27.01,Sign,,0,0,0,,{\fax0.3\an5\frx85\fs30\t(0,1530,\frx0\fs70)\move(310,400,310,80,0,1200)\c&H111EE7&\4c&HFCF8F6&\blur0.5\bord0\xshad3\yshad2\fnDeBorstel Brush Reduced}The Human Revolution {人間革命}
 Dialogue: 0,0:00:19.74,0:00:19.79,Sign,,0,0,0,,{=0=1}{\fscy100\fscx100\frz0\alpha&H00&\fnKozuka Mincho Pro H\an5\pos(319.52,375.18)\fs30\c&HFFFFFF&\4c&H0A0F16&\bord0\shad2\blur0.4} Episode 5     {\fs38}Sturm und Drang {疾風・怒涛}{https://en.wikipedia.org/wiki/Sturm_und_Drang - 疾風怒濤 is literally its japanese translation; maybe do it "storm and waves" to make it closer to the japanese translation}
@@ -716,102 +716,102 @@ Dialogue: 0,0:31:34.45,0:31:34.49,Sign,,0,0,0,,{=131}{\fscy100.03\fscx100.03\frz
 Dialogue: 0,0:31:34.49,0:31:34.53,Sign,,0,0,0,,{=131}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an6\fs25\c&HFFFFFF&\pos(235.73,335.51)} Raw provider \N Encoding & QC \N Translation & typesetting\N Editing \NTypesetting & QC\NQC
 Dialogue: 0,0:31:34.53,0:31:34.58,Sign,,0,0,0,,{=131}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an6\fs25\c&HFFFFFF&\pos(236.11,335.69)} Raw provider \N Encoding & QC \N Translation & typesetting\N Editing \NTypesetting & QC\NQC
 Dialogue: 0,0:31:34.58,0:31:34.62,Sign,,0,0,0,,{=131}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an6\fs25\c&HFFFFFF&\pos(236.21,335.71)} Raw provider \N Encoding & QC \N Translation & typesetting\N Editing \NTypesetting & QC\NQC
-Dialogue: 1,0:31:30.61,0:31:30.66,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,336)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.66,0:31:30.70,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.48,336.28)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.70,0:31:30.74,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.56,336.1)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.74,0:31:30.78,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.58,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.78,0:31:30.82,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.82,0:31:30.86,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.62,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.86,0:31:30.91,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,336.08)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.91,0:31:30.95,Sign,,0,0,0,,{=130}{\fscy99.97\fscx99.97\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.25,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.95,0:31:30.99,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:30.99,0:31:31.03,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.86)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.03,0:31:31.07,Sign,,0,0,0,,{=130}{\fscy99.98\fscx99.98\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.07,0:31:31.11,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,335.85)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.11,0:31:31.16,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.16,0:31:31.20,Sign,,0,0,0,,{=130}{\fscy99.97\fscx99.97\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.74,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.20,0:31:31.24,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.8,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.24,0:31:31.28,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.83,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.28,0:31:31.32,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.78,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.32,0:31:31.36,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.54,335.63)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.36,0:31:31.41,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.41,0:31:31.45,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.6,335.77)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.45,0:31:31.49,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.49,0:31:31.53,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.53,0:31:31.57,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.92)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.57,0:31:31.61,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.29,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.61,0:31:31.66,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.27,335.85)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.66,0:31:31.70,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.04,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.70,0:31:31.74,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.09,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.74,0:31:31.78,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.78,0:31:31.82,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.89)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.82,0:31:31.86,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.86,0:31:31.91,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.4,335.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.91,0:31:31.95,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.95,0:31:31.99,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.51,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:31.99,0:31:32.03,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.51,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.03,0:31:32.07,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.41,335.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.07,0:31:32.11,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.44,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.11,0:31:32.16,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.37,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.16,0:31:32.20,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.20,0:31:32.24,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.53,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.24,0:31:32.28,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.74,335.57)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.28,0:31:32.32,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.03\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.51)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.32,0:31:32.37,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.54,335.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.37,0:31:32.41,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.41,0:31:32.45,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.89,335.56)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.45,0:31:32.49,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.72,335.5)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.49,0:31:32.53,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.61,335.61)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.53,0:31:32.57,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.57,0:31:32.62,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.58)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.62,0:31:32.66,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.66,0:31:32.70,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.70,0:31:32.74,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.58,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.74,0:31:32.78,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.56,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.78,0:31:32.82,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.82,0:31:32.87,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.53,335.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.87,0:31:32.91,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.78,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.91,0:31:32.95,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.98,335.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.95,0:31:32.99,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.69,335.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:32.99,0:31:33.03,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.34,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.03,0:31:33.07,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.41,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.07,0:31:33.12,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,336.05)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.12,0:31:33.16,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,336.12)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.16,0:31:33.20,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.7,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.20,0:31:33.24,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.6,335.99)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.24,0:31:33.28,Sign,,0,0,0,,{=130}{\fscy100.07\fscx100.07\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.34,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.28,0:31:33.32,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.32,0:31:33.37,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.31,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.37,0:31:33.41,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.29,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.41,0:31:33.45,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.45,0:31:33.49,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.49,0:31:33.53,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.44,335.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.53,0:31:33.57,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.33,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.57,0:31:33.62,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.31,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.62,0:31:33.66,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.66,0:31:33.70,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.32,335.88)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.70,0:31:33.74,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.27,335.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.74,0:31:33.78,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.78,0:31:33.83,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.4,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.83,0:31:33.87,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.87,0:31:33.91,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.91,0:31:33.95,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.69,335.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.95,0:31:33.99,Sign,,0,0,0,,{=130}{\fscy100.07\fscx100.07\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.66,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:33.99,0:31:34.03,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.03,0:31:34.08,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.08,0:31:34.12,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.57,335.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.12,0:31:34.16,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.16,0:31:34.20,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.20,0:31:34.24,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.24,0:31:34.28,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.28,0:31:34.33,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.33,0:31:34.37,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.42,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.37,0:31:34.41,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.67,335.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.41,0:31:34.45,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.95,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.45,0:31:34.49,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.71,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.49,0:31:34.53,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.5)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.53,0:31:34.58,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(306.03,335.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:31:34.58,0:31:34.62,Sign,,0,0,0,,{=130=133}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(306.13,335.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N Muzussawa, True Noobow Gamer
+Dialogue: 1,0:31:30.61,0:31:30.66,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,336)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.66,0:31:30.70,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.48,336.28)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.70,0:31:30.74,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.56,336.1)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.74,0:31:30.78,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.58,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.78,0:31:30.82,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.82,0:31:30.86,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.62,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.86,0:31:30.91,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,336.08)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.91,0:31:30.95,Sign,,0,0,0,,{=130}{\fscy99.97\fscx99.97\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.25,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.95,0:31:30.99,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:30.99,0:31:31.03,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.86)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.03,0:31:31.07,Sign,,0,0,0,,{=130}{\fscy99.98\fscx99.98\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.07,0:31:31.11,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,335.85)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.11,0:31:31.16,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.16,0:31:31.20,Sign,,0,0,0,,{=130}{\fscy99.97\fscx99.97\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.74,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.20,0:31:31.24,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.8,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.24,0:31:31.28,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.83,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.28,0:31:31.32,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.78,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.32,0:31:31.36,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.54,335.63)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.36,0:31:31.41,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.41,0:31:31.45,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.6,335.77)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.45,0:31:31.49,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.49,0:31:31.53,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.53,0:31:31.57,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.92)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.57,0:31:31.61,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.29,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.61,0:31:31.66,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.27,335.85)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.66,0:31:31.70,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.04,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.70,0:31:31.74,Sign,,0,0,0,,{=130}{\fscy99.99\fscx99.99\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.09,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.74,0:31:31.78,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.78,0:31:31.82,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.89)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.82,0:31:31.86,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.45,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.86,0:31:31.91,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.4,335.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.91,0:31:31.95,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.95,0:31:31.99,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.51,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:31.99,0:31:32.03,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.51,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.03,0:31:32.07,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.41,335.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.07,0:31:32.11,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.44,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.11,0:31:32.16,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.37,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.16,0:31:32.20,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.20,0:31:32.24,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.53,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.24,0:31:32.28,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.74,335.57)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.28,0:31:32.32,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.03\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.51)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.32,0:31:32.37,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.54,335.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.37,0:31:32.41,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.41,0:31:32.45,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.89,335.56)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.45,0:31:32.49,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.72,335.5)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.49,0:31:32.53,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.61,335.61)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.53,0:31:32.57,Sign,,0,0,0,,{=130}{\fscy100\fscx100\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.57,0:31:32.62,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.46,335.58)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.62,0:31:32.66,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.66,0:31:32.70,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.70,0:31:32.74,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.58,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.74,0:31:32.78,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.56,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.78,0:31:32.82,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.82,0:31:32.87,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.53,335.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.87,0:31:32.91,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.78,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.91,0:31:32.95,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.98,335.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.95,0:31:32.99,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.69,335.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:32.99,0:31:33.03,Sign,,0,0,0,,{=130}{\fscy100.01\fscx100.01\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.34,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.03,0:31:33.07,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.41,335.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.07,0:31:33.12,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,336.05)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.12,0:31:33.16,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,336.12)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.16,0:31:33.20,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.7,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.20,0:31:33.24,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.6,335.99)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.24,0:31:33.28,Sign,,0,0,0,,{=130}{\fscy100.07\fscx100.07\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.34,335.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.28,0:31:33.32,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.3,335.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.32,0:31:33.37,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.31,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.37,0:31:33.41,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.29,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.41,0:31:33.45,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.5,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.45,0:31:33.49,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.43,335.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.49,0:31:33.53,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.44,335.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.53,0:31:33.57,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.33,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.57,0:31:33.62,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.31,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.62,0:31:33.66,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.66,0:31:33.70,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.32,335.88)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.70,0:31:33.74,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.27,335.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.74,0:31:33.78,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.36,335.9)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.78,0:31:33.83,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.4,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.83,0:31:33.87,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.87,0:31:33.91,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.52,335.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.91,0:31:33.95,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.69,335.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.95,0:31:33.99,Sign,,0,0,0,,{=130}{\fscy100.07\fscx100.07\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.66,335.87)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:33.99,0:31:34.03,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.03,0:31:34.08,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.08,0:31:34.12,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.57,335.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.12,0:31:34.16,Sign,,0,0,0,,{=130}{\fscy100.06\fscx100.06\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.59,335.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.16,0:31:34.20,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.64,335.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.20,0:31:34.24,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.24,0:31:34.28,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.68,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.28,0:31:34.33,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.02\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.63,335.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.33,0:31:34.37,Sign,,0,0,0,,{=130}{\fscy100.04\fscx100.04\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.42,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.37,0:31:34.41,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.67,335.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.41,0:31:34.45,Sign,,0,0,0,,{=130}{\fscy100.02\fscx100.02\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.95,335.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.45,0:31:34.49,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.71,335.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.49,0:31:34.53,Sign,,0,0,0,,{=130}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(305.65,335.5)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.53,0:31:34.58,Sign,,0,0,0,,{=130}{\fscy100.03\fscx100.03\frz0\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(306.03,335.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
+Dialogue: 1,0:31:34.58,0:31:34.62,Sign,,0,0,0,,{=130=133}{\fscy100.05\fscx100.05\frz0.01\alpha&H00&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(306.13,335.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini\N Collectr \N True Noobow Gamer
 Dialogue: 0,0:31:35.62,0:31:35.66,Sign,,0,0,0,,{=139=140}{\fscy100\fscx100\frz0\alpha&H00&\alpha&H0&\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&H0E1325&\bord0\shad2\blur0.6\pos(308,80)}The Human Revolution
 Dialogue: 0,0:31:35.66,0:31:35.70,Sign,,0,0,0,,{=139}{\fscy99.93\fscx99.93\frz-0.01\alpha&H00&\alpha&H0&\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&H0E1325&\bord0\shad2\blur0.6\pos(307.81,80.22)}The Human Revolution
 Dialogue: 0,0:31:35.70,0:31:35.74,Sign,,0,0,0,,{=139}{\fscy99.9\fscx99.9\frz0.01\alpha&H00&\alpha&H0&\fs60\fax0.4\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&H0E1325&\bord0\shad2\blur0.6\pos(307.9,80.22)}The Human Revolution
@@ -4259,3 +4259,5 @@ Data: 173,a-mo,e{"uuid"#3A"273ce3e1-54e9-44a5-9152-b48910c1a40a"#2C"originalText
 Data: 182,a-mo,e{"uuid"#3A"3ea7370b-c797-42ab-a017-ae5b24796674"#2C"originalText"#3A"{\\fscy100\\fscx100\\alpha&H00&\\fs41\\blur0.7\\bord\\fnAveria Serif\\c&HDEDCE1&\\3c&H39516D&\\1a&H28&\\fax-0.1\\frx356\\fry356\\frz2.08\\pos(425.62#2C375.93)}T{\\fax-0.09}o{\\fax-0.08}k{\\fax-0.07}o{\\fax-0.07} {\\fax-0.06}C{\\fax-0.05}r{\\fax-0.04}e{\\fax-0.03}d{\\fax-0.02}i{\\fax-0.01}t{\\fax0} {\\fax0}C{\\fax0.01}o{\\fax0.02}o{\\fax0.03}p{\\fax0.04}e{\\fax0.05}r{\\fax0.06}a{\\fax0.07}t{\\fax0.07}i{\\fax0.08}v{\\fax0.09}e{\\fax0.1} {#E6#9D#B1#E5#85#89#E5#BB#BA#E8#A8#AD#E4#BF#A1#E7#94#A8#E7#B5#84#E5#90#88}"}
 Data: 183,_aegi_folddata,e0;1;35
 Data: 184,_aegi_folddata,e1;1;35
+Data: 185,_aegi_folddata,e0;0;28
+Data: 186,_aegi_folddata,e1;0;28

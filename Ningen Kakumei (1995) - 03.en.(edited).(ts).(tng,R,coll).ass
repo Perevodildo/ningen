@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 03 [DVD] [69B098C3].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.500000
-Scroll Position: 411
-Active Line: 450
-Video Position: 41284
+Scroll Position: 531
+Active Line: 4677
+Video Position: 19026
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -140,7 +140,7 @@ Dialogue: 10,0:06:41.34,0:06:45.30,Top,,0,0,0,,When I had just graduated from At
 Dialogue: 10,0:06:45.30,0:06:47.32,Top,,0,0,0,,I dreamed of pursuing higher education.
 Dialogue: 10,0:06:47.32,0:06:50.82,Top,,0,0,0,,But my family was in a tight spot, \Nso I gave up on it and moved to Sapporo
 Dialogue: 10,0:06:50.82,0:06:54.41,Top,,0,0,0,,to work as an indentured servant \Nat a general merchandise store.
-Dialogue: 10,0:06:55.30,0:06:59.96,Default,,0,0,0,,During my time there, I studied independently \Nand successfully passed the teacher's exam, 
+Dialogue: 10,0:06:55.30,0:06:59.96,Default,,0,0,0,,During my time there, I studied independently \Nand successfully passed the teacher's exam,
 Dialogue: 10,0:06:59.96,0:07:04.24,Default,,0,0,0,,earning my license to work as a substitute teacher at this elementary school.
 Dialogue: 10,0:07:04.24,0:07:05.29,Default,,0,0,0,,And that's how...
 Dialogue: 10,0:07:05.29,0:07:08.28,Default,,0,0,0,,I've come to study with you guys.
@@ -4206,100 +4206,100 @@ Dialogue: 0,0:30:42.40,0:30:42.44,Sign,,0,0,0,,{=141}{\alpha&H00&\blur0.6\shad2\
 Dialogue: 0,0:30:42.44,0:30:42.48,Sign,,0,0,0,,{=141}{\alpha&H33&\blur0.6\shad2\an6\c&HFFFFFF&\pos(245.6,330.17)} Raw provider \N Encoding & QC \N Translation & TS \N Editing \NTypesetting & QC \NQC
 Dialogue: 0,0:30:42.48,0:30:42.52,Sign,,0,0,0,,{=141}{\alpha&H77&\blur0.6\shad2\an6\c&HFFFFFF&\pos(245.49,330.08)} Raw provider \N Encoding & QC \N Translation & TS \N Editing \NTypesetting & QC \NQC
 Dialogue: 0,0:30:42.52,0:30:42.57,Sign,,0,0,0,,{=141}{\alpha&HBB&\blur0.6\shad2\an6\c&HFFFFFF&\pos(245.53,329.95)} Raw provider \N Encoding & QC \N Translation & TS \N Editing \NTypesetting & QC \NQC
-Dialogue: 1,0:30:38.64,0:30:38.69,Sign,,0,0,0,,{=140}{\alpha&HFF&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,330.46)\1a&HBB&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.69,0:30:38.73,Sign,,0,0,0,,{=140}{\alpha&HA4&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.23,330.41)\1a&H7A&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.73,0:30:38.77,Sign,,0,0,0,,{=140}{\alpha&H5B&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.38,330.3)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.77,0:30:38.81,Sign,,0,0,0,,{=140}{\alpha&H12&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.56,330.07)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.81,0:30:38.85,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,330.21)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.85,0:30:38.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.2,330.19)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.90,0:30:38.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.94,0:30:38.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.12,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:38.98,0:30:39.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.15,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.02,0:30:39.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.65)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.06,0:30:39.10,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.10,0:30:39.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.66)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.15,0:30:39.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.03,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.19,0:30:39.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.34,329.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.23,0:30:39.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.27,0:30:39.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.43,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.31,0:30:39.35,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.58,329.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.35,0:30:39.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.08,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.40,0:30:39.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.78,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.44,0:30:39.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.48,0:30:39.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.95,329.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.52,0:30:39.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.99,329.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.56,0:30:39.60,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.89,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.60,0:30:39.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.94,329.72)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.65,0:30:39.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.09,329.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.69,0:30:39.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.81,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.73,0:30:39.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.93,329.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.77,0:30:39.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.81,0:30:39.85,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.92,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.85,0:30:39.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.61,329.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.90,0:30:39.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.77,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.94,0:30:39.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.59,329.65)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:39.98,0:30:40.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.67,329.54)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.02,0:30:40.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.74,329.59)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.06,0:30:40.10,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.84,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.10,0:30:40.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.89,329.64)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.15,0:30:40.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.83,329.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.19,0:30:40.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.23,0:30:40.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.27,0:30:40.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.31,0:30:40.35,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.09,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.35,0:30:40.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.40,0:30:40.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.44,0:30:40.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.22,329.44)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.48,0:30:40.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.06,329.46)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.52,0:30:40.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.2,329.37)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.56,0:30:40.61,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.35,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.61,0:30:40.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.45)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.65,0:30:40.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,329.12)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.69,0:30:40.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.23,329.05)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.73,0:30:40.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,329.42)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.77,0:30:40.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.34,329.39)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.81,0:30:40.86,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.33,329.21)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.86,0:30:40.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.43,329.29)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.90,0:30:40.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.5,329.4)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.94,0:30:40.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.47,329.35)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:40.98,0:30:41.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.41,329.58)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.02,0:30:41.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.21,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.06,0:30:41.11,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.44)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.11,0:30:41.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.42)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.15,0:30:41.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.93,329.43)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.19,0:30:41.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.87,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.23,0:30:41.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.8,329.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.27,0:30:41.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.8,329.59)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.31,0:30:41.36,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.83,329.61)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.36,0:30:41.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.56,329.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.40,0:30:41.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.44,0:30:41.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.91,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.48,0:30:41.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.95,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.52,0:30:41.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.56,0:30:41.61,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.86,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.61,0:30:41.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.65,0:30:41.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314,329.99)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.69,0:30:41.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.99,329.89)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.73,0:30:41.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.16,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.77,0:30:41.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.81,0:30:41.86,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.94,329.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.86,0:30:41.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.90,0:30:41.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.94,0:30:41.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.36,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:41.98,0:30:42.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.45,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.02,0:30:42.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.06,0:30:42.11,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,330)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.11,0:30:42.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.25,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.15,0:30:42.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.42,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.19,0:30:42.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.23,0:30:42.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.22,330.04)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.27,0:30:42.32,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,330.29)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.32,0:30:42.36,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.46,330.34)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.36,0:30:42.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.73,330.13)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.40,0:30:42.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.76,330.16)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.44,0:30:42.48,Sign,,0,0,0,,{=140}{\alpha&H33&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.77,330.17)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.48,0:30:42.52,Sign,,0,0,0,,{=140}{\alpha&H77&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.66,330.08)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
-Dialogue: 1,0:30:42.52,0:30:42.57,Sign,,0,0,0,,{=140=143}{\alpha&HBB&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.7,329.95)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
+Dialogue: 1,0:30:38.64,0:30:38.69,Sign,,0,0,0,,{=140}{\alpha&HFF&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,330.46)\1a&HBB&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.69,0:30:38.73,Sign,,0,0,0,,{=140}{\alpha&HA4&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.23,330.41)\1a&H7A&} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.73,0:30:38.77,Sign,,0,0,0,,{=140}{\alpha&H5B&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.38,330.3)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.77,0:30:38.81,Sign,,0,0,0,,{=140}{\alpha&H12&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.56,330.07)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.81,0:30:38.85,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,330.21)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.85,0:30:38.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.2,330.19)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.90,0:30:38.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.94,0:30:38.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.12,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:38.98,0:30:39.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.15,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.02,0:30:39.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.65)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.06,0:30:39.10,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.10,0:30:39.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.66)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.15,0:30:39.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.03,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.19,0:30:39.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.34,329.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.23,0:30:39.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.27,0:30:39.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.43,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.31,0:30:39.35,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.58,329.93)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.35,0:30:39.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.08,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.40,0:30:39.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.78,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.44,0:30:39.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.11,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.48,0:30:39.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.95,329.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.52,0:30:39.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.99,329.96)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.56,0:30:39.60,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.89,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.60,0:30:39.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.94,329.72)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.65,0:30:39.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.09,329.7)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.69,0:30:39.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.81,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.73,0:30:39.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.93,329.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.77,0:30:39.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.81,0:30:39.85,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.92,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.85,0:30:39.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.61,329.82)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.90,0:30:39.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.77,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.94,0:30:39.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.59,329.65)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:39.98,0:30:40.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.67,329.54)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.02,0:30:40.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.74,329.59)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.06,0:30:40.10,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.84,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.10,0:30:40.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.89,329.64)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.15,0:30:40.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.83,329.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.19,0:30:40.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.23,0:30:40.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.27,0:30:40.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.76)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.31,0:30:40.35,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.09,329.74)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.35,0:30:40.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.40,0:30:40.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.6)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.44,0:30:40.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.22,329.44)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.48,0:30:40.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.06,329.46)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.52,0:30:40.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.2,329.37)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.56,0:30:40.61,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.35,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.61,0:30:40.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.45)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.65,0:30:40.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,329.12)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.69,0:30:40.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.23,329.05)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.73,0:30:40.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,329.42)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.77,0:30:40.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.34,329.39)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.81,0:30:40.86,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.33,329.21)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.86,0:30:40.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.43,329.29)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.90,0:30:40.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.5,329.4)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.94,0:30:40.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.47,329.35)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:40.98,0:30:41.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.41,329.58)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.02,0:30:41.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.21,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.06,0:30:41.11,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.44)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.11,0:30:41.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.42)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.15,0:30:41.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.93,329.43)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.19,0:30:41.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.87,329.49)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.23,0:30:41.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.8,329.53)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.27,0:30:41.31,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.8,329.59)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.31,0:30:41.36,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.83,329.61)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.36,0:30:41.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.56,329.69)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.40,0:30:41.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.94)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.44,0:30:41.48,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.91,329.91)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.48,0:30:41.52,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.95,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.52,0:30:41.56,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.68)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.56,0:30:41.61,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.86,329.67)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.61,0:30:41.65,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.79,329.83)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.65,0:30:41.69,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314,329.99)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.69,0:30:41.73,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.99,329.89)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.73,0:30:41.77,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.16,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.77,0:30:41.81,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.01,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.81,0:30:41.86,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(313.94,329.8)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.86,0:30:41.90,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.79)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.90,0:30:41.94,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.28,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.94,0:30:41.98,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.36,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:41.98,0:30:42.02,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.45,329.73)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.02,0:30:42.06,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,329.81)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.06,0:30:42.11,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.18,330)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.11,0:30:42.15,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.25,329.75)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.15,0:30:42.19,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.42,329.78)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.19,0:30:42.23,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.26,329.84)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.23,0:30:42.27,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.22,330.04)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.27,0:30:42.32,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.27,330.29)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.32,0:30:42.36,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.46,330.34)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.36,0:30:42.40,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.73,330.13)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.40,0:30:42.44,Sign,,0,0,0,,{=140}{\alpha&H00&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.76,330.16)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.44,0:30:42.48,Sign,,0,0,0,,{=140}{\alpha&H33&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.77,330.17)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.48,0:30:42.52,Sign,,0,0,0,,{=140}{\alpha&H77&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.66,330.08)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
+Dialogue: 1,0:30:42.52,0:30:42.57,Sign,,0,0,0,,{=140=143}{\alpha&HBB&\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.7,329.95)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
 Dialogue: 0,0:30:43.65,0:30:43.69,Sign,,0,0,0,,{=146=147}{\alpha&HFF&\fs60\fax0.4\shad2\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0\blur0.6\pos(316,84.17)\1a&HC0&}The Human Revolution
 Dialogue: 1,0:30:43.65,0:30:43.69,Sign,,0,0,0,,{=145}{\alpha&HFF&\fs30\shad1.5\blur0.5\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(319,271.57)\1a&HC0&}Episode 3
 Dialogue: 2,0:30:43.65,0:30:43.69,Sign,,0,0,0,,{=144}{\alpha&HFF&\fs50\shad2.5\blur0.8\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(310.08,400.35)\1a&HC0&}The End
@@ -4704,7 +4704,7 @@ Comment: 0,0:24:54.32,0:24:56.70,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\b0\c&HF7FE
 Comment: 0,0:27:56.77,0:27:59.28,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\b0\c&HE0E8F4&\blur0.4\1a&H00&\pos(333.42,451.19)}New Year's Eve {大晦日ー}
 Comment: 0,0:28:26.98,0:28:30.81,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\b0\c&HFFFEFF&\blur0.4\1a&H00&\pos(325.4,468.88)}January 3rd, 1949    Suidobashi Station \N{1949年(昭和24年)1月3日水道橋駅}
 Comment: 0,0:30:38.65,0:30:42.57,Sign,,0,0,0,,{\blur0.6\shad2\fad(120,100)\an6\c&HFFFFFF&\pos(245,330.46)} Raw provider \N Encoding & QC \N Translation & TS \N Editing \NTypesetting & QC \NQC
-Comment: 1,0:30:38.65,0:30:42.57,Sign,,0,0,0,,{\fad(120,100)\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,330.46)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N Muzussawa, True Noobow Gamer
+Comment: 1,0:30:38.65,0:30:42.57,Sign,,0,0,0,,{\fad(120,100)\blur0.6\shad2\an4\c&HFFFFFF&\pos(314.17,330.46)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \NCollectr \N True Noobow Gamer
 Comment: 0,0:30:43.65,0:30:48.62,Sign,,0,0,0,,{\fad(120,0)\fs60\fax0.4\shad2\fnDeBorstel Brush Reduced\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0\blur0.6\pos(316,84.17)}The Human Revolution
 Comment: 1,0:30:43.65,0:30:48.62,Sign,,0,0,0,,{\fad(120,0)\fs30\shad1.5\blur0.5\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(319,271.57)}Episode 3
 Comment: 2,0:30:43.65,0:30:48.62,Sign,,0,0,0,,{\fad(120,0)\fs50\shad2.5\blur0.8\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(310.08,400.35)}The End
