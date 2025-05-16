@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 05 [DVD] [1528A55C].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.625000
-Scroll Position: 420
-Active Line: 2285
-Video Position: 2413
+Scroll Position: 399
+Active Line: 400
+Video Position: 42718
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -193,7 +193,7 @@ Dialogue: 10,0:11:30.25,0:11:34.99,Default,,0,0,0,,The world is unaware of the t
 Dialogue: 10,0:11:34.99,0:11:38.26,Default,,0,0,0,,I don't mean to curtail your newspaper's right to print anything they want.
 Dialogue: 10,0:11:38.26,0:11:39.57,Default,,0,0,0,,Huh?
 Dialogue: 10,0:11:40.26,0:11:46.16,Default,,0,0,0,,When word of the cease-and-desist order hits the newspapers, creditors may rush in all at once.
-Dialogue: 10,0:11:46.16,0:11:51.31,Default,,0,0,0,,Meanwhile, debtors will think, "Lucky me. I don't have to pay back my debt anymore."
+Dialogue: 10,0:11:46.16,0:11:51.31,Default,,0,0,0,,Meanwhile, debtors will think, "Lucky me. \NI don't have to pay back my debt anymore."
 Dialogue: 10,0:11:52.52,0:11:55.53,Default,,0,0,0,,When this happens, \Nthings tend to truly get out of hand.
 Dialogue: 10,0:11:55.53,0:11:59.53,Default,,0,0,0,,In the end, it's the ordinary depositors \Nwho will suffer the most from it.
 Dialogue: 10,0:11:59.53,0:12:01.30,Default,,0,0,0,,It's a regrettable situation,
@@ -233,8 +233,8 @@ Dialogue: 10,0:14:05.95,0:14:07.88,Thought,,0,0,0,,where Makiguchi-sensei and I
 Dialogue: 10,0:14:08.38,0:14:11.37,Thought,,0,0,0,,were once imprisoned for a crime we didn't commit.
 Dialogue: 10,0:14:12.97,0:14:18.38,Thought,,0,0,0,,Those in power will always abuse it\N for their own convenience.
 Dialogue: 10,0:14:19.41,0:14:23.84,Thought,,0,0,0,,Underestimating their power this time around \Nwould be a grave mistake.
-Dialogue: 10,0:14:24.38,0:14:29.74,Thought,,0,0,0,,No matter how much flak I personally receive for the collapse of the credit union,
-Dialogue: 10,0:14:29.74,0:14:33.39,Thought,,0,0,0,,no matter how much the authorities \Nor the law come after me, it won't stop me.
+Dialogue: 10,0:14:24.38,0:14:29.74,Thought,,0,0,0,,No matter how much flak I personally receive \Nfor the collapse of the credit union,
+Dialogue: 10,0:14:29.74,0:14:33.39,Thought,,0,0,0,,no matter how much the authorities or the law \Ncome after me, it won't stop me.
 Dialogue: 10,0:14:34.04,0:14:35.91,Thought,,0,0,0,,I'm prepared for anything.
 Dialogue: 10,0:14:35.91,0:14:40.82,Thought,,0,0,0,,However, I can't put Soka Gakkai in harm's way \Nwhile they're busy spreading the Common Path.
 Dialogue: 10,0:14:41.40,0:14:46.38,Thought,,0,0,0,,No matter what happens,\NI must protect the organization at any cost!
@@ -284,7 +284,7 @@ Dialogue: 10,0:18:12.61,0:18:13.99,Default,,0,0,0,,Sensei...
 Dialogue: 10,0:18:14.88,0:18:16.37,Default,,0,0,0,,What is it?
 Dialogue: 10,0:18:16.37,0:18:24.39,Default,,0,0,0,,Sensei... If Mishima-san becomes the next president, will that make {\i1}him{\i0} my mentor? {/master/teacher}
 Dialogue: 10,0:18:24.39,0:18:26.86,Default,,0,0,0,,No, by no means!
-Dialogue: 10,0:18:26.86,0:18:32.40,Default,,0,0,0,,I may not be the most accommodating mentor, \Nbut I am your mentor. {lit: although I'm a mentor who gives you nothing but trouble/hard work}
+Dialogue: 10,0:18:26.86,0:18:32.40,Default,,0,0,0,,I may not be the most accommodating mentor, \Nbut I am {\i1}your{\i0} mentor. {lit: although I'm a mentor who gives you nothing but trouble/hard work}
 Dialogue: 10,0:18:33.36,0:18:35.19,Thought,,0,0,0,,That's all I needed to hear.
 Dialogue: 10,0:18:36.32,0:18:40.41,Thought,,0,0,0,,Now I don't have to worry about anything else, \Nno matter what happens.
 Dialogue: 10,0:18:41.24,0:18:46.27,Thought,,0,0,0,,Shin is a very noble young man, \Nto care about even such a trifle.
@@ -310,7 +310,7 @@ Dialogue: 10,0:20:03.13,0:20:04.79,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:20:08.19,0:20:10.65,Default,,0,0,0,,Say, Shin, how about a match of Shogi?
 Dialogue: 10,0:20:10.65,0:20:12.94,Default,,0,0,0,,It's so late, what are you thinking?
 Dialogue: 10,0:20:12.94,0:20:15.28,Default,,0,0,0,,Don't worry. You can go to sleep.
-Dialogue: 10,0:20:15.90,0:20:17.71,Default,,0,0,0,,Shin-chan, bring out the board.
+Dialogue: 10,0:20:15.90,0:20:17.71,Default,,0,0,0,,Shin-chan, get the board.
 Dialogue: 10,0:20:17.71,0:20:19.08,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:20:29.54,0:20:32.06,Default,,0,0,0,,Okay, let's play just one for the night.
 Dialogue: 10,0:20:32.52,0:20:33.88,Default,,0,0,0,,With pleasure.
@@ -381,9 +381,9 @@ Dialogue: 10,0:24:20.58,0:24:22.86,Default,,0,0,0,,No, I'm fine.
 Dialogue: 10,0:24:26.78,0:24:30.70,Default,,0,0,0,,What's wrong, Shin? \NIs your inner strength waning? {actually seimeiryoku is "vitality/life force" but in this context I think he means "one's will to stay strong/determination to be in good health"}
 Dialogue: 10,0:24:30.70,0:24:34.54,Default,,0,0,0,,You can't win a battle \Nif your inner strength is in decline.
 Dialogue: 10,0:24:35.96,0:24:37.54,Default,,0,0,0,,Come.
-Dialogue: 10,0:24:37.54,0:24:43.13,Narrator,,0,0,0,,The emaciated and haggard Master\N offered an earnest prayer to Buddha
+Dialogue: 10,0:24:37.54,0:24:43.13,Narrator,,0,0,0,,The emaciated and haggard Master\N offered an earnest prayer at the altar
 Dialogue: 10,0:24:43.13,0:24:46.80,Narrator,,0,0,0,,for the sake of his haggard \Nand beloved disciple.
-Dialogue: 10,0:24:46.80,0:24:54.19,Default,,0,0,0,,Nam-Myoho-Renge-Kyo...
+Dialogue: 10,0:24:46.80,0:24:52.80,Default,,0,0,0,,Nam-Myoho-Renge-Kyo...
 Dialogue: 10,0:24:54.19,0:24:59.89,Thought,,0,0,0,,Although Sensei is so tired himself, \Nhe is praying for my strength.
 Dialogue: 10,0:25:00.81,0:25:04.07,Thought,,0,0,0,,Sensei... I'm sorry for being such a nuisance.
 Dialogue: 10,0:25:04.69,0:25:06.50,Thought,,0,0,0,,And I'm deeply grateful!
@@ -435,7 +435,7 @@ Dialogue: 10,0:29:18.63,0:29:23.98,Thought,,0,0,0,,on bolstering our economic st
 Dialogue: 10,0:29:23.98,0:29:29.83,Thought,,0,0,0,,and the fundamental issue of religious revolution on the back burner.
 Dialogue: 10,0:29:30.43,0:29:37.38,Thought,,0,0,0,,It is only natural that I should reap the wrath of Nichiren Daishonin.
 Dialogue: 10,0:29:38.29,0:29:40.15,Default,,0,0,0,,Shin-chan, I've made up my mind.
-Dialogue: 10,0:29:40.15,0:29:45.39,Default,,0,0,0,,I am now going to pray to the kind Buddha for repentance and atonement of my sins.
+Dialogue: 10,0:29:40.15,0:29:45.39,Default,,0,0,0,,I am now going to pray to the Lotus Sutra for repentance and atonement of my sins.
 Dialogue: 10,0:29:46.14,0:29:51.16,Default,,0,0,0,,What falls on the ground \Ncan only rise up from the ground. {probably his way of saying "when you're at the bottom, the only way is up" }
 Dialogue: 10,0:29:51.16,0:29:54.25,Default,,0,0,0,,And the way to do it is through faith.
 Dialogue: 10,0:29:55.79,0:30:02.75,Default,,0,0,0,,Shin-chan, I'll be tutoring you in all of your college studies, starting next Sunday.
@@ -4234,7 +4234,7 @@ Dialogue: 0,0:26:34.11,0:26:34.15,Sign,,0,0,0,,{=120}{\fscy100.02\fscx100.02\alp
 Dialogue: 0,0:26:34.15,0:26:34.19,Sign,,0,0,0,,{=120}{\fscy100.02\fscx100.02\alpha&H00&\bord1\q2\fs25\fnKozuka Mincho Pro M\b1\an1\c&HF0EFF0&\blur1\xshad\yshad\4c&H0D1817&\frz359.88\pos(261.81,91.85)\3c&H3B3B39&}Still serving an old and mystic fate,\NThough others change,\NI alter not.
 Dialogue: 0,0:26:34.19,0:26:34.23,Sign,,0,0,0,,{=120=122}{\fscy100.01\fscx100.01\alpha&H00&\bord1\q2\fs25\fnKozuka Mincho Pro M\b1\an1\c&HF0EFF0&\blur1\xshad\yshad\4c&H0D1817&\frz359.88\pos(261.96,91.8)\3c&H3B3B39&}Still serving an old and mystic fate,\NThough others change,\NI alter not.
 Dialogue: 0,0:27:51.19,0:28:12.13,Sign,,0,0,0,,{\alpha&H00&\bord0.5\fad(00,1640)\q2\fs20\fnKozuka Mincho Pro H\b1\an7\c&HFFFEF6&\blur2\xshad\yshad\4c&H0D1817&\frz359.9\3c&HBD904C&\1a&H09&\pos(197.09,58.6)\3a&H5E&}Whenever I stand on fields of war,\NUnfailing at my side,\NYou are my sword. {on the right}{this bitch wouldn't motion track for some reason}
-Dialogue: 0,0:27:51.21,0:28:12.14,Sign,,0,0,0,,{\alpha&H00&\bord0.5\fad(00,1640)\q2\fs20\fnKozuka Mincho Pro H\b1\an3\c&HFFFDFF&\blur5\xshad\yshad\4c&H0D1817&\frz359.9\3c&H7B6847&\1a&H09&\pos(467.18,442.67)\3a&H63&}Fading, failing,\NAt death, I, the king, leave to you\NMy crown. \N- Josei {left}
+Dialogue: 0,0:27:51.21,0:28:12.14,Sign,,0,0,0,,{\alpha&H00&\bord0.5\fad(00,1640)\q2\fs20\fnKozuka Mincho Pro H\b1\an3\c&HFFFDFF&\blur5\xshad\yshad\4c&H0D1817&\frz359.9\3c&H7B6847&\1a&H09&\pos(467.18,442.67)\3a&H63&}Fading, failing,\NAt death, I, the king, \NLeave to you my crown. \N- Josei {left}
 Comment: 0,0:30:47.49,0:30:49.49,Narrator,,0,0,0,,{signs}
 
 [Aegisub Extradata]
