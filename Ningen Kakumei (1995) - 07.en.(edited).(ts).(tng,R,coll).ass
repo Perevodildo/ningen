@@ -16,9 +16,9 @@ Video File: Ningen Kakumei (1995) - 07 [DVD] [5FD9B9E6].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.375000
-Scroll Position: 129
-Active Line: 1025
-Video Position: 13316
+Scroll Position: 94
+Active Line: 1006
+Video Position: 11701
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -988,7 +988,7 @@ Dialogue: 10,0:03:37.95,0:03:39.23,Default,,0,0,0,,Huh?
 Dialogue: 10,0:03:44.59,0:03:48.77,Thought,,0,0,0,,Head over there and jump-start everything from the ground up.
 Dialogue: 10,0:03:50.04,0:03:51.10,Default,,0,0,0,,
 Dialogue: 10,0:03:52.25,0:03:53.38,Default,,0,0,0,,
-Dialogue: 10,0:03:53.98,0:04:01.65,Narrator,,0,0,0,,This was the start of {the history of} the Osakan Common Path and "Invincible Kansai." {hopefully they'll explain it later in the show}
+Dialogue: 10,0:03:53.98,0:04:01.65,Narrator,,0,0,0,,This was the start of {the history of }the Osakan Common Path and "Invincible Kansai." {hopefully they'll explain it later in the show}
 Dialogue: 10,0:04:04.64,0:04:08.60,NarrTop,,0,0,0,,The Youth Division's First Research and Presentation Conference.
 Dialogue: 10,0:04:08.60,0:04:12.87,NarrTop,,0,0,0,,Representatives of both sexes discussed\N the great philosophy of the Buddha Dharma
 Dialogue: 10,0:04:12.87,0:04:15.60,NarrTop,,0,0,0,,in relation to life and society.
@@ -1041,7 +1041,7 @@ Dialogue: 10,0:07:45.21,0:07:46.24,Default,,0,0,0,,Okay.
 Dialogue: 10,0:07:46.87,0:07:48.69,Default,,0,0,0,,Start printing!
 Dialogue: 10,0:07:52.24,0:07:55.47,Default,,0,0,0,,
 Dialogue: 10,0:07:59.25,0:08:06.76,Top,,0,0,0,,{\i1}Nam-Myoho-Renge-Kyo...{\i0}
-Dialogue: 10,0:08:06.76,0:08:09.72,Narrator,,0,0,0,,{\i0}The Complete Collection of Nichiren Daishonin's Writings,{\i0}
+Dialogue: 10,0:08:06.76,0:08:09.72,Narrator,,0,0,0,,{\i1}The Complete Collection of Nichiren Daishonin's Writings,{\i0} {italicized bc it's a title}
 Dialogue: 10,0:08:09.72,0:08:11.80,Narrator,,0,0,0,,compiled for the commemorative project
 Dialogue: 10,0:08:11.80,0:08:16.23,Narrator,,0,0,0,,celebrating the 700th anniversary\N of the sect's founding, was finally complete.
 Dialogue: 10,0:08:16.23,0:08:20.25,Narrator,,0,0,0,,It is now being presented to newcomers \Nas an introduction to Soka Gakkai's core belief,
