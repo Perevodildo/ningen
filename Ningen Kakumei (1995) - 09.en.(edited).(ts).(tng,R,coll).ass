@@ -15,10 +15,9 @@ Audio File: Ningen Kakumei (1995) - 09 [DVD] [9A62134F].mkv
 Video File: Ningen Kakumei (1995) - 09 [DVD] [9A62134F].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.875000
-Scroll Position: 8
-Active Line: 587
-Video Position: 44426
+Video Zoom Percent: 2.375000
+Active Line: 807
+Video Position: 44643
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -840,9 +839,9 @@ Dialogue: 1,0:31:01.92,0:31:01.96,Sign,,0,0,0,,{=104}{\alpha&HE0&\blur0.6\shad2\
 Dialogue: 1,0:31:01.96,0:31:02.00,Sign,,0,0,0,,{=104}{\alpha&HE7&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(185.56,-16.39)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \N True Noobow Gamer, Collectr
 Dialogue: 1,0:31:02.00,0:31:02.04,Sign,,0,0,0,,{=104}{\alpha&HEF&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(185.63,-19.05)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \N True Noobow Gamer, Collectr
 Dialogue: 1,0:31:02.04,0:31:02.08,Sign,,0,0,0,,{=104=107}{\alpha&HF6&\blur0.6\shad2\an4\fs25\c&HFFFFFF&\pos(185.69,-21.71)} WOWmd \N Bananas in Pyjamas \N Perevodildo \N Paul Geromini \N True Noobow Gamer, Collectr
-Dialogue: 2,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\fad(1200,0)\fs40\fax0\fnDejaVu Serif Condensed\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0\blur0.5\pos(316.01,122.5)}The Human Revolution
-Dialogue: 3,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\fad(1200,0)\fs30\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(319,307.5)\blur0.4}Episode 9
-Dialogue: 4,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\blur0.5\fad(1200,0)\fs50\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(315,437)}The End
+Dialogue: 2,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\fad(700,0)\fs40\fax0\fnDejaVu Serif Condensed\\an5\c&HFFFFFF&\3c&HFFFFFF&\bord0\blur0.5\pos(316.01,122.5)}The Human Revolution
+Dialogue: 3,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\fad(700,0)\fs30\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(319,307.5)\blur0.4}Episode 9
+Dialogue: 4,0:31:00.67,0:31:06.55,Sign,,0,0,0,,{\blur0.5\fad(700,0)\fs50\fnKozuka Mincho Pro H\c&HFFFFFF&\pos(315,437)}The End
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{oped border}
 Dialogue: 10,0:00:41.75,0:00:43.87,Default,,0,0,0,,As it says here,
 Dialogue: 0,0:00:43.87,0:00:47.46,Default,,0,0,0,,there are two sides to the law.
@@ -850,13 +849,13 @@ Dialogue: 0,0:00:47.46,0:00:51.05,Default,,0,0,0,,What I mean is, it could eithe
 Dialogue: 0,0:00:51.05,0:00:54.12,Default,,0,0,0,,or something that keeps society functioning smoothly.
 Dialogue: 0,0:00:54.63,0:00:59.11,Default,,0,0,0,,Even if the provisions are the same, various interpretations lead to vastly different results.
 Dialogue: 0,0:00:59.64,0:01:02.13,Default,,0,0,0,,Therein lies the horror of the law.
-Dialogue: 0,0:01:03.24,0:01:08.75,Narrator,,0,0,0,,At Daito Trading, Toda would dedicate about an hour each morning before work
+Dialogue: 0,0:01:03.24,0:01:08.75,Narrator,,0,0,0,,At Daito Trading, Toda would dedicate\N about an hour each morning before work
 Dialogue: 0,0:01:08.75,0:01:15.34,Narrator,,0,0,0,,to teach the fundamentals of both general and specialized knowledge to the few employees. {in the sense that they have few employees overall}
 Dialogue: 0,0:01:15.34,0:01:19.91,Narrator,,0,0,0,,Naturally, his lectures were directed \Nat Yamamoto Shinichi before anyone else.
 Dialogue: 0,0:01:19.91,0:01:24.36,Narrator,,0,0,0,,That's because Toda considered \NShinichi's training his personal responsibility.
 Dialogue: 0,0:01:24.36,0:01:31.85,Default,,0,0,0,,During the Qin Dynasty in China, the people suffered under a maze of cumbersome laws.
 Dialogue: 0,0:01:31.85,0:01:34.87,Top,,0,0,0,,Understanding this, Liu Bang, the "High Ancestor of Han," {https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han}
-Dialogue: 0,0:01:34.87,0:01:40.70,Default,,0,0,0,,swiftly won the hearts and minds of the people when establishing his dynasty
+Dialogue: 0,0:01:34.87,0:01:40.70,Default,,0,0,0,,swiftly won the hearts and minds\N of the people when establishing his dynasty
 Dialogue: 0,0:01:40.70,0:01:43.43,Default,,0,0,0,,with his concise "Three Laws,"
 Dialogue: 0,0:01:43.43,0:01:49.90,Default,,0,0,0,,which declared: "Those who kill, injure, and steal will be punished."
 Dialogue: 0,0:01:49.90,0:01:55.00,Default,,0,0,0,,You could call this a perfect example of how to approach lawmaking.
@@ -877,11 +876,11 @@ Dialogue: 0,0:02:42.16,0:02:47.02,Default,,0,0,0,,I can drink just as much as th
 Dialogue: 0,0:02:47.02,0:02:52.03,Default,,0,0,0,,Japanese sake is made from rice, \Nso it's a good source of nutrients in its own right.
 Dialogue: 0,0:02:54.03,0:02:59.59,Default,,0,0,0,,In China, they drink a liquor called Liaojiu, \Nbut it isn't fermented from rice...
 Dialogue: 0,0:02:59.59,0:03:02.29,Narrator,,0,0,0,,A Suikokai meeting was proceeding as usual.
-Dialogue: 0,0:03:02.29,0:03:07.31,Narrator,,0,0,0,,While answering a question, Toda happened to steer the conversation to the topic of alcohol.
+Dialogue: 0,0:03:02.29,0:03:07.31,Narrator,,0,0,0,,While answering a question, Toda happened\N to steer the conversation to the topic of alcohol.
 Dialogue: 0,0:03:07.31,0:03:12.70,Narrator,,0,0,0,,Suddenly, one of the new Suikokai members abruptly stood up and began speaking.
 Dialogue: 0,0:03:12.70,0:03:13.46,Default,,0,0,0,,Sensei!
 Dialogue: 0,0:03:15.47,0:03:21.47,Default,,0,0,0,,In China, they also have the Kaoliang liquor, \Nand it's a lot different from Liaojiu!
-Dialogue: 0,0:03:22.07,0:03:24.48,Default,,0,0,0,,Yes, I suppose it is different.
+Dialogue: 0,0:03:22.07,0:03:24.48,Default,,0,0,0,,Yes, I suppose it {\i1}is{\i0} different.
 Dialogue: 0,0:03:24.48,0:03:26.56,Default,,0,0,0,,
 Dialogue: 0,0:03:26.56,0:03:30.58,Default,,0,0,0,,Kaoliang seems to be a very strong drink.
 Dialogue: 0,0:03:30.58,0:03:35.57,Default,,0,0,0,,I was raised in China, \Nso I’ve heard plenty about Chinese alcohol.
@@ -895,7 +894,7 @@ Dialogue: 0,0:03:52.69,0:03:54.17,Thought,,0,0,0,,Oh no!
 Dialogue: 0,0:03:54.17,0:03:55.26,Default,,0,0,0,,Did you...
 Dialogue: 0,0:03:55.26,0:03:56.01,Default,,0,0,0,,
 Dialogue: 0,0:03:56.01,0:03:59.02,Default,,0,0,0,,come here to discuss how to make alcohol?
-Dialogue: 0,0:04:01.01,0:04:04.52,Default,,0,0,0,,What do you think this meeting is all about?
+Dialogue: 0,0:04:01.01,0:04:04.52,Default,,0,0,0,,What do you think this meeting is all about?!
 Dialogue: 0,0:04:06.02,0:04:10.02,Thought,,0,0,0,,This is my fault. \NI prepared this meeting in haste. {申し訳ない 僕が十分な準備をしておかなかったからだ}
 Dialogue: 0,0:04:10.02,0:04:13.01,Default,,0,0,0,,I don't welcome it. \NYou should leave. {lit: im unhappy/displeased}
 Dialogue: 0,0:04:13.01,0:04:14.44,Default,,0,0,0,,
@@ -907,12 +906,12 @@ Dialogue: 0,0:04:31.72,0:04:34.84,Default,,0,0,0,,Who do you think let Suikokai 
 Dialogue: 0,0:04:34.84,0:04:36.84,Default,,0,0,0,,Aren't you all responsible for it? {/weren't it you yourselves}
 Dialogue: 0,0:04:36.84,0:04:39.88,Default,,0,0,0,,One of us is leaving on his own. \NWhat a shame.
 Dialogue: 0,0:04:39.88,0:04:43.85,Default,,0,0,0,,Whatever happened to your sense of camaraderie?! {lit: did you lose your love for your comrades}
-Dialogue: 0,0:04:48.37,0:04:51.37,Default,,0,0,0,,This is a disgrace! \NI'm leaving. {/too pathetic}
+Dialogue: 0,0:04:48.37,0:04:51.37,Default,,0,0,0,,This is a disgrace! I'm leaving. {/too pathetic}
 Dialogue: 0,0:04:53.87,0:04:55.71,Default,,0,0,0,,Sensei, please forgive us!
 Dialogue: 0,0:04:55.71,0:04:57.00,Default,,0,0,0,,Please forgive us!
 Dialogue: 0,0:04:57.00,0:04:59.24,Default,,0,0,0,,Please forgive us, if you can!
-Dialogue: 0,0:05:18.55,0:05:22.78,Thought,,0,0,0,,It wasn't on a whim that Toda-sensei reprimanded him.
-Dialogue: 0,0:05:23.42,0:05:27.56,Thought,,0,0,0,,He must have been frustrated that the students, entrusted with the future, {frustrated = sad to the point of anger}
+Dialogue: 0,0:05:18.55,0:05:22.78,Thought,,0,0,0,,Toda-sensei didn't reprimand him\N just on a whim.
+Dialogue: 0,0:05:23.42,0:05:27.56,Thought,,0,0,0,,He must have been frustrated that\N the students, entrusted with the future, {frustrated = sad to the point of anger}
 Dialogue: 0,0:05:27.56,0:05:31.19,Thought,,0,0,0,,let a complacent atmosphere develop in Suikokai, which led to someone
 Dialogue: 0,0:05:31.19,0:05:33.16,Thought,,0,0,0,,going on an escapade like that. {/allowed one to derail/deviate/digress like that}{しかも我々首脳の中に 徹底して同志を守るという一念が欠けていたことも―}
 Dialogue: 0,0:05:33.16,0:05:34.31,Thought,,0,0,0,,What's worse,
@@ -926,62 +925,64 @@ Dialogue: 0,0:05:54.89,0:06:00.30,Thought,,0,0,0,,we must now train those young 
 Dialogue: 0,0:06:01.42,0:06:03.98,Thought,,0,0,0,,That ordinary young man today
 Dialogue: 0,0:06:03.98,0:06:12.87,Thought,,0,0,0,,may grow into a peerless leader in 10, 20, or 30 years, ensuring the success of the Common Path.
 Dialogue: 0,0:06:12.87,0:06:18.61,Thought,,0,0,0,,I believe this, and I look forward \Nto every Suikokai meeting with all my heart.
-Dialogue: 0,0:06:18.61,0:06:24.07,Thought,,0,0,0,,But I certainly didn’t expect to see it become so corrupted in just six months...
-Dialogue: 0,0:06:24.07,0:06:27.07,Thought,,0,0,0,,What on earth are the executives thinking?
-Dialogue: 0,0:06:27.51,0:06:33.58,Thought,,0,0,0,,Sensei had high hopes for the Suikoden, saying, "We will raise the revolutionaries of the future."
+Dialogue: 0,0:06:18.61,0:06:24.07,Thought,,0,0,0,,But I certainly didn’t expect to see it become so corrupted in just six months.
+Dialogue: 0,0:06:24.07,0:06:27.07,Thought,,0,0,0,,What on Earth are the executives thinking?
+Dialogue: 0,0:06:27.51,0:06:33.58,Thought,,0,0,0,,Sensei had high hopes for the Suikoden, saying,\N "We will raise the revolutionaries of the future."
 Dialogue: 0,0:06:34.21,0:06:37.75,Thought,,0,0,0,,It should come as no surprise he was so disappointed by this.
 Dialogue: 0,0:06:38.27,0:06:41.86,Thought,,0,0,0,,Who do you think let Suikokai come to this?
 Dialogue: 0,0:06:41.86,0:06:45.80,Thought,,0,0,0,,I suppose no amount of apology could ever make it up to him.
 Dialogue: 0,0:06:46.48,0:06:48.22,Thought,,0,0,0,,What should I do?
-Dialogue: 0,0:06:49.07,0:06:53.06,Thought,,0,0,0,,I wonder if the others grasped why I was so harsh in scolding them.
+Dialogue: 0,0:06:49.07,0:06:53.06,Thought,,0,0,0,,I wonder if the others grasped\N why I scolded them so harshly.
 Dialogue: 0,0:06:53.58,0:06:59.28,Thought,,0,0,0,,Shinichi was there. If anyone can truly understand my heart, it's him.
 Dialogue: 0,0:07:02.28,0:07:06.00,Thought,,0,0,0,,Sensei's anger is entirely \Ndue to my incompetence.
 Dialogue: 0,0:07:06.00,0:07:10.26,Thought,,0,0,0,,Using my poor health as an excuse, \NI failed to take the necessary precautions.
 Dialogue: 0,0:07:12.72,0:07:17.47,Thought,,0,0,0,,That said, how should I go about embracing Sensei's loving discipline?
 Dialogue: 0,0:07:17.47,0:07:20.14,Thought,,0,0,0,,How can we reshape the heart of the Men's Division? {no idea what he means: どう男子部の骨髄にすべきか･･･}
-Dialogue: 0,0:07:20.14,0:07:22.51,Thought,,0,0,0,,Until we do that, everything is pointless...
+Dialogue: 0,0:07:20.14,0:07:22.51,Thought,,0,0,0,,Until we do that, everything is pointless.
 Dialogue: 0,0:07:22.51,0:07:26.51,Top,,0,0,0,,Nam-Myoho-Renge-Kyo...
-Dialogue: 0,0:07:30.45,0:07:35.52,Thought,,0,0,0,,What is it Suikokai is missing? \NI beg you to let us know!
+Dialogue: 0,0:07:30.45,0:07:35.52,Thought,,0,0,0,,What is Suikokai missing? \NI beg you to let us know!
 Dialogue: 0,0:07:35.52,0:07:42.66,Default,,0,0,0,,
 Dialogue: 0,0:07:53.70,0:07:54.55,Thought,,0,0,0,,Yes!
 Dialogue: 0,0:07:55.45,0:07:57.06,Thought,,0,0,0,,It's the starting point!
 Dialogue: 0,0:07:57.06,0:08:01.09,Thought,,0,0,0,,Suikokai never had a clear starting point to explain its raison d'etre! {/which would explain "what for was it created?"}
 Dialogue: 0,0:08:01.09,0:08:04.51,Thought,,0,0,0,,So at some point, we became complacent, \Nswept away by the feeling
-Dialogue: 0,0:08:04.51,0:08:08.05,Thought,,0,0,0,,that it was enough to just listen to Sensei's lectures and feel good.
+Dialogue: 0,0:08:04.51,0:08:08.05,Thought,,0,0,0,,that it was enough to just listen\N to Sensei's lectures and feel good.
 Dialogue: 0,0:08:08.05,0:08:12.14,Thought,,0,0,0,,From the very start, Sensei took a very thorough stance about our education.
 Dialogue: 0,0:08:12.57,0:08:15.24,Thought,,0,0,0,,However, the members attending the course
-Dialogue: 0,0:08:15.24,0:08:20.06,Thought,,0,0,0,,stayed unaware of or uncommitted \Nto the purpose and mission of the Suikokai.
+Dialogue: 0,0:08:15.24,0:08:20.06,Thought,,0,0,0,,were {stayed }unaware of or uncommitted \Nto the purpose and mission of the Suikokai.
 Dialogue: 0,0:08:20.06,0:08:22.56,Thought,,0,0,0,,It was only natural \Nthat there would be gaps.
 Dialogue: 0,0:08:23.04,0:08:29.09,Thought,,0,0,0,,Sensei's dedication was so strong that the gap in awareness became glaringly obvious. {idk what he means by consciousness, this is literal; ishiki could also be a buddhist term of "mano-vijnana (mental consciousness, cognizer of sensory information)​" but idk if it's any relevant; 先生の意気込みが本格的であっただけに 意識のずれが露骨なまでに現れてしまったのだ}
 Dialogue: 0,0:08:29.09,0:08:32.59,Thought,,0,0,0,,The cider question \Nwas never the main problem.
 Dialogue: 0,0:08:33.59,0:08:36.33,Thought,,0,0,0,,That atmosphere of complacency was!
 Dialogue: 0,0:08:36.33,0:08:38.58,Thought,,0,0,0,,The fact that such an atmosphere
 Dialogue: 0,0:08:38.58,0:08:43.58,Thought,,0,0,0,,had been so easily accepted in Suikokai \Nled to its downfall.
-Dialogue: 0,0:08:43.58,0:08:48.63,Thought,,0,0,0,,Leaving Suikokai as it is now would be an affront to Sensei.
-Dialogue: 0,0:08:48.63,0:08:54.72,Thought,,0,0,0,,We must hurry to reorganize and restart it on a completely new foundation as soon as possible.
+Dialogue: 0,0:08:43.58,0:08:48.63,Thought,,0,0,0,,Leaving Suikokai as it is now\N would be an affront to Sensei.
+Dialogue: 0,0:08:48.63,0:08:52.00,Thought,,0,0,0,,We must hurry to reorganize and restart it
+Dialogue: 0,0:08:52.01,0:08:54.72,Thought,,0,0,0,,on a completely new foundation as soon as possible.
 Dialogue: 0,0:08:59.45,0:09:01.60,Default,,0,0,0,,Nam-Myoho-Renge-Kyo...
 Dialogue: 0,0:09:04.61,0:09:09.17,Thought,,0,0,0,,But what could form the backbone \Nof that new foundation?
-Dialogue: 0,0:09:09.17,0:09:12.42,Thought,,0,0,0,,The Great Buddha, \Nplease show me the way!
+Dialogue: 0,0:09:09.17,0:09:12.42,Thought,,0,0,0,,{The }Great Buddha, \Nplease show me the way!
 Dialogue: 0,0:09:14.57,0:09:20.46,Narrator,,0,0,0,,During this time in Japan, Okinawa was rapidly being turned into a military base.
-Dialogue: 0,0:09:20.91,0:09:23.89,NarrTop,,0,0,0,,Even after the San Francisco Peace Treaty was signed,
-Dialogue: 0,0:09:23.89,0:09:27.90,NarrTop,,0,0,0,,the United States continued to occupy and govern Okinawa directly.
-Dialogue: 0,0:09:27.90,0:09:32.36,NarrTop,,0,0,0,,In April 1953, aiming to further expand and strengthen their military presence,
-Dialogue: 0,0:09:32.36,0:09:34.61,NarrTop,,0,0,0,,they issued the Land Acquisition Ordinance,
-Dialogue: 0,0:09:34.61,0:09:39.91,NarrTop,,0,0,0,,which allowed the US to seize farmland one after another to build bases across various locations.
+Dialogue: 0,0:09:20.91,0:09:23.89,Narrator,,0,0,0,,Even after the San Francisco Peace Treaty was signed,
+Dialogue: 0,0:09:23.89,0:09:27.90,Narrator,,0,0,0,,the United States continued to occupy and govern Okinawa directly.
+Dialogue: 0,0:09:27.90,0:09:32.36,Narrator,,0,0,0,,In April 1953, aiming to further expand and strengthen their military presence,
+Dialogue: 0,0:09:32.36,0:09:34.61,Narrator,,0,0,0,,they issued the Land Acquisition Ordinance,
+Dialogue: 0,0:09:34.61,0:09:39.91,Narrator,,0,0,0,,which allowed the US to seize farms one after another to build bases in various locations.
 Dialogue: 0,0:09:39.91,0:09:43.35,Narrator,,0,0,0,,Thus, Okinawa was being turned
 Dialogue: 0,0:09:43.35,0:09:47.91,Narrator,,0,0,0,,into one of its few massive, \Npermanent military bases in the world.
 Dialogue: 0,0:09:48.50,0:09:52.77,Narrator,,0,0,0,,In July, a ceasefire agreement was signed at Panmunjom
 Dialogue: 0,0:09:52.77,0:09:57.20,Narrator,,0,0,0,,on the 38th parallel by representatives of the UN and the Korean People's Army,
-Dialogue: 0,0:09:57.20,0:10:00.72,Narrator,,0,0,0,,bringing the Korean War—which had deeply shaken Japan—
+Dialogue: 0,0:09:57.20,0:10:00.72,Narrator,,0,0,0,,bringing the Korean War,\N which had shaken Japan deeply,
 Dialogue: 0,0:10:00.72,0:10:03.31,Narrator,,0,0,0,,to a conclusion after three years and one month.
-Dialogue: 0,0:10:03.31,0:10:07.08,Narrator,,0,0,0,,The Korean peninsula will remain divided between the North and South,
-Dialogue: 0,0:10:07.08,0:10:09.63,Narrator,,0,0,0,,and the conflict will continue to simmer.
-Dialogue: 0,0:10:14.10,0:10:19.24,Thought,,0,0,0,,The biggest challenge right now is improving the resolve and mentality of the Suikokai members. {actually not sure what to make of 質}
-Dialogue: 0,0:10:19.24,0:10:21.32,Thought,,0,0,0,,It all boils down to this.
-Dialogue: 0,0:10:22.18,0:10:24.78,Thought,,0,0,0,,What is needed to improve their mentality? {質}
+Dialogue: 0,0:10:03.31,0:10:07.08,Narrator,,0,0,0,,The Korean peninsula would remain divided between North and South,
+Dialogue: 0,0:10:07.08,0:10:09.63,Narrator,,0,0,0,,and the conflict would continue to simmer.
+Dialogue: 0,0:10:14.10,0:10:16.09,Thought,,0,0,0,,The biggest challenge right now
+Dialogue: 0,0:10:16.09,0:10:19.30,Thought,,0,0,0,,is improving the resolve and outlook {mentality }of the Suikokai members. {actually not sure what to make of 質}
+Dialogue: 0,0:10:19.30,0:10:21.32,Thought,,0,0,0,,It all boils down to this.
+Dialogue: 0,0:10:22.18,0:10:24.78,Thought,,0,0,0,,What is needed to improve their outlook{mentality}? {質}
 Dialogue: 0,0:10:25.58,0:10:29.83,Thought,,0,0,0,,What qualities are required \Nto be a Common Path revolutionary?
-Dialogue: 0,0:10:31.05,0:10:36.45,Thought,,0,0,0,,First and foremost, you need to be a man of strong faith. It's as clear as day.
-Dialogue: 0,0:10:38.30,0:10:39.44,Thought,,0,0,0,,Secondly,
+Dialogue: 0,0:10:31.05,0:10:36.45,Thought,,0,0,0,,First and foremost, you need to be a man of strong faith. That's as clear as day.
+Dialogue: 0,0:10:38.30,0:10:39.44,Thought,,0,0,0,,Second,
 Dialogue: 0,0:10:39.44,0:10:43.33,Thought,,0,0,0,,you must have a very clear idea of what it means to be Toda-sensei's disciple. {lit: his self-awareness as toda's disciple must excel - 次に戸田先生の弟子としての自覚が傑出していること}
 Dialogue: 0,0:10:47.10,0:10:48.14,Thought,,0,0,0,,Finally...
 Dialogue: 0,0:10:48.14,0:10:51.94,Thought,,0,0,0,,Whatever happened to your sense of camaraderie?!
@@ -993,7 +994,7 @@ Dialogue: 0,0:11:08.05,0:11:12.58,Thought,,0,0,0,,And then we'll take this oath 
 Dialogue: 0,0:11:18.83,0:11:21.16,Default,,0,0,0,,Sensei, I would like you to read this.
 Dialogue: 0,0:11:21.16,0:11:22.91,Default,,0,0,0,,What is it about?
 Dialogue: 0,0:11:23.39,0:11:24.96,Default,,0,0,0,,It's about the Suikokai.
-Dialogue: 0,0:11:30.92,0:11:33.97,Thought,,0,0,0,,Hmm... \NHe compiled it in the form of an oath.
+Dialogue: 0,0:11:30.92,0:11:33.97,Thought,,0,0,0,,Hm{m}... \NHe compiled it in the form of an oath.
 Dialogue: 0,0:11:37.48,0:11:39.42,Default,,0,0,0,,Okay, I'll forgive you just this once.
 Dialogue: 0,0:11:40.24,0:11:41.45,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:11:41.45,0:11:44.53,Default,,0,0,0,,However, I will never again \Ntolerate a gathering
@@ -1007,7 +1008,7 @@ Dialogue: 0,0:12:02.26,0:12:04.89,Default,,0,0,0,,I would ask you to wait for a 
 Dialogue: 0,0:12:04.89,0:12:09.51,Default,,0,0,0,,Sure, I'll wait if you want me to, \Nbut I expect them to be truly worthwhile. {うん 待てと言うなら待とうしかし 大した奴はいそうもないな! - actually says "I don't think there will be anyone worthwhile around" and I don't think he'd sound that pessimistic now}
 Dialogue: 0,0:12:15.02,0:12:19.23,NarrTop,,0,0,0,,Toda dedicated himself to promoting education to ensure that his lectures
 Dialogue: 0,0:12:19.23,0:12:22.64,NarrTop,,0,0,0,,reached and benefited as many Soka Gakkai members as possible. {増大する会員の教育・指導を図るために 戸田は教学の振興に力を注いでいたが }
-Dialogue: 0,0:12:22.64,0:12:28.62,NarrTop,,0,0,0,,One of their study forums was the general lectures, also known as "Friday Lectures"
+Dialogue: 0,0:12:22.64,0:12:28.62,NarrTop,,0,0,0,,One of their study forums was the general lectures, also known as "Friday Lectures,"
 Dialogue: 0,0:12:28.62,0:12:31.65,NarrTop,,0,0,0,,because they were held every Friday.
 Dialogue: 0,0:12:32.12,0:12:35.14,Narrator,,0,0,0,,President Toda explained passages from the Sacred Scriptures,
 Dialogue: 0,0:12:35.14,0:12:37.36,Narrator,,0,0,0,,welcoming anyone with genuine interest
@@ -1022,13 +1023,13 @@ Dialogue: 0,0:12:58.76,0:13:01.36,Narrator,,0,0,0,,In his lectures on the Sacred
 Dialogue: 0,0:13:01.36,0:13:06.45,Narrator,,0,0,0,,Toda endeavored to explain the complex doctrines of Buddhism in a simple way
 Dialogue: 0,0:13:06.45,0:13:10.32,Narrator,,0,0,0,,by connecting them to social phenomena and everyday life.
 Dialogue: 0,0:13:10.32,0:13:13.33,Narrator,,0,0,0,,At times, the lectures \Nturned into Q&A sessions.
-Dialogue: 0,0:13:13.33,0:13:18.32,Narrator,,0,0,0,,Toda had complete freedom to give his lectures in whatever form he wished.
+Dialogue: 0,0:13:13.33,0:13:18.32,Narrator,,0,0,0,,Toda had complete freedom to give\N his lectures in whatever form he wished.
 Dialogue: 0,0:13:18.32,0:13:22.80,Default,,0,0,0,,You asked me about the relationship between science and religion.
 Dialogue: 0,0:13:22.80,0:13:27.59,Default,,0,0,0,,Science and true religion \Nare never in conflict.
-Dialogue: 0,0:13:29.58,0:13:33.08,Default,,0,0,0,,Certainly, we can't downplay the scientific advances.
+Dialogue: 0,0:13:29.58,0:13:33.08,Default,,0,0,0,,Certainly, we can't downplay\N scientific advances.
 Dialogue: 0,0:13:33.08,0:13:35.18,Default,,0,0,0,,Take, for example, electricity.
 Dialogue: 0,0:13:35.18,0:13:36.59,Default,,0,0,0,,It powers my microphone,
-Dialogue: 0,0:13:36.59,0:13:38.58,Default,,0,0,0,,or the speakers you're hearing me through.
+Dialogue: 0,0:13:36.59,0:13:38.58,Default,,0,0,0,,and the speakers you're hearing me through.
 Dialogue: 0,0:13:38.58,0:13:41.09,Default,,0,0,0,,Washing machines \Nare also quite convenient.
 Dialogue: 0,0:13:41.09,0:13:45.10,Default,,0,0,0,,So are TVs. \NThey're actually near perfect.
 Dialogue: 0,0:13:45.10,0:13:51.60,Default,,0,0,0,,On the other hand, if we can't afford these modern conveniences, we feel unhappy.
@@ -1040,7 +1041,7 @@ Dialogue: 0,0:14:09.43,0:14:15.06,Default,,0,0,0,,it becomes clear that science 
 Dialogue: 0,0:14:15.06,0:14:18.50,Default,,0,0,0,,I am by no means a denier of science.
 Dialogue: 0,0:14:19.19,0:14:20.28,Default,,0,0,0,,It is undoubtedly good.
 Dialogue: 0,0:14:20.28,0:14:22.90,Default,,0,0,0,,But I do deny the notion
-Dialogue: 0,0:14:22.90,0:14:27.57,Default,,0,0,0,,that the advancement of science alone will instantly bring happiness to humanity.
+Dialogue: 0,0:14:22.90,0:14:27.57,Default,,0,0,0,,that the advancement of science alone\N will instantly bring happiness to humanity.
 Dialogue: 0,0:14:27.57,0:14:29.57,Thought,,0,0,0,,I see. That makes sense!
 Dialogue: 0,0:14:29.57,0:14:34.59,Default,,0,0,0,,I do believe that we can lead science and civilization in the right direction
 Dialogue: 0,0:14:34.59,0:14:37.43,Default,,0,0,0,,and develop a religion based on the philosophy of life,
@@ -1051,17 +1052,17 @@ Dialogue: 0,0:14:52.01,0:14:52.87,Default,,0,0,0,,
 Dialogue: 0,0:14:58.35,0:15:00.52,Default,,0,0,0,,Sensei, please look at this.
 Dialogue: 0,0:15:00.52,0:15:01.56,Default,,0,0,0,,Yes, what is it?
 Dialogue: 0,0:15:01.56,0:15:04.54,Default,,0,0,0,,Sir, I've completed selecting the Suikokai members.
-Dialogue: 0,0:15:05.44,0:15:07.32,Default,,0,0,0,,Oh, it's finally here?
+Dialogue: 0,0:15:05.44,0:15:07.30,Default,,0,0,0,,Oh, it's finally here?
 Dialogue: 0,0:15:07.78,0:15:08.46,Default,,0,0,0,,Yes.
 Dialogue: 0,0:15:12.31,0:15:13.89,Default,,0,0,0,,Let's see.
 Dialogue: 0,0:15:15.66,0:15:19.81,Default,,0,0,0,,It doesn't seem all that different from what we had before, but it'll do.
 Dialogue: 0,0:15:19.81,0:15:21.33,Default,,0,0,0,,So, when do we start?
-Dialogue: 0,0:15:21.33,0:15:23.88,Default,,0,0,0,,Yes. Whenever you find it convenient. {awkward but w/e}
-Dialogue: 0,0:15:23.88,0:15:27.51,Default,,0,0,0,,Hmm... I haven't got much free time.
+Dialogue: 0,0:15:21.33,0:15:23.88,Default,,0,0,0,,Right. Whenever you find it convenient. {awkward but w/e}
+Dialogue: 0,0:15:23.88,0:15:27.51,Default,,0,0,0,,Hm{m}... I haven't got much free time.
 Dialogue: 0,0:15:27.51,0:15:30.69,Default,,0,0,0,,If I had to choose, \Nit would be July 21st.
-Dialogue: 0,0:15:30.69,0:15:31.83,Default,,0,0,0,,Sounds good to you?
+Dialogue: 0,0:15:30.69,0:15:31.83,Default,,0,0,0,,{Does it }Sound good to you?
 Dialogue: 0,0:15:32.34,0:15:34.58,Default,,0,0,0,,Yes! Thank you.
-Dialogue: 0,0:15:47.53,0:15:51.59,Default,,0,0,0,,We shall now commence the reformation ceremony for the New Suikokai.
+Dialogue: 0,0:15:47.53,0:15:51.59,Default,,0,0,0,,We will now commence the reformation ceremony for the New Suikokai.
 Dialogue: 0,0:15:51.59,0:15:54.28,Default,,0,0,0,,First Manager Yamamoto takes the oath. {as in "1st director"}
 Dialogue: 0,0:15:54.28,0:15:55.28,Default,,0,0,0,,Okay!
 Dialogue: 0,0:15:57.94,0:15:59.23,Default,,0,0,0,,Oath!
@@ -1076,7 +1077,7 @@ Dialogue: 0,0:16:25.90,0:16:29.36,Default,,0,0,0,,have inherited the cause \Nof 
 Dialogue: 0,0:16:30.34,0:16:32.99,Default,,0,0,0,,which is the ultimate salvation of humanity.
 Dialogue: 0,0:16:33.53,0:16:39.48,Default,,0,0,0,,I solemnly vow to fight for the fulfillment of his vision until my last breath.
 Dialogue: 0,0:16:40.70,0:16:46.74,Default,,0,0,0,,Third: we, the Suikokai members, \Nare the trailblazers of Soka Gakkai. {pioneer; leader}
-Dialogue: 0,0:16:47.40,0:16:53.50,Default,,0,0,0,,We do realize that we are Toda-sensei's irreplaceable hands and emissaries. {hands = pawns/soldiers}
+Dialogue: 0,0:16:47.40,0:16:53.50,Default,,0,0,0,,We realize that we are Toda-sensei's irreplaceable hands and emissaries. {hands = pawns/soldiers}
 Dialogue: 0,0:16:53.50,0:16:59.58,Default,,0,0,0,,No matter what era we live in or what battlefield we fight on,
 Dialogue: 0,0:17:00.43,0:17:03.25,Default,,0,0,0,,we will never turn our backs on our comrades!
 Dialogue: 0,0:17:03.25,0:17:07.15,Default,,0,0,0,,I pledge to uphold all of the above and fulfill the mission of Suikokai! {it's actually one big sentence in japanese lol. I split it because it'd probably be a hell to time}
@@ -1086,57 +1087,57 @@ Dialogue: 0,0:17:19.99,0:17:21.69,Default,,0,0,0,,Please accept it.
 Dialogue: 0,0:17:22.53,0:17:27.04,Default,,0,0,0,,All right. I will accept your determination.
 Dialogue: 0,0:17:27.04,0:17:28.69,Default,,0,0,0,,Thank you!
 Dialogue: 0,0:17:29.38,0:17:33.67,Default,,0,0,0,,We'll be holding the New Suikokai meetings again from today on.
-Dialogue: 0,0:17:33.67,0:17:36.57,Default,,0,0,0,,As I said before, the purpose of Suikokai
-Dialogue: 0,0:17:36.57,0:17:41.71,Default,,0,0,0,,is to fulfill the great task that lies ahead for Soka Gakkai: dissemination of the Common Path.
-Dialogue: 0,0:17:41.71,0:17:46.92,Default,,0,0,0,,The Common Path \Nis an unprecedented undertaking,
+Dialogue: 0,0:17:33.67,0:17:36.57,Default,,0,0,0,,As I said before, the purpose of Suikokai is
+Dialogue: 0,0:17:36.57,0:17:41.71,Default,,0,0,0,,to fulfill the great task that lies ahead for Soka Gakkai: dissemination of the Common Path.
+Dialogue: 0,0:17:41.71,0:17:46.92,Default,,0,0,0,,The Common Path is\N an unprecedented undertaking,
 Dialogue: 0,0:17:46.92,0:17:51.22,Default,,0,0,0,,aimed at fundamentally saving humanity and bringing it lasting happiness.
 Dialogue: 0,0:17:51.22,0:17:54.73,Default,,0,0,0,,It's humanity's greatest wish and hope.
 Dialogue: 0,0:17:55.61,0:17:59.49,Default,,0,0,0,,It falls to you to be the trailblazers for the Common Path.
 Dialogue: 0,0:17:59.49,0:18:01.24,Default,,0,0,0,,If you're able to commit to this,
 Dialogue: 0,0:18:01.24,0:18:06.11,Default,,0,0,0,,then I can finally place all my hopes for the future on you!
-Dialogue: 0,0:18:06.66,0:18:10.35,Default,,0,0,0,,I'm counting on you to never forget that!
+Dialogue: 0,0:18:06.66,0:18:10.35,Default,,0,0,0,,I'm counting on you never to forget that!
 Dialogue: 0,0:18:10.35,0:18:11.24,Default,,0,0,0,,Okay!
 Dialogue: 0,0:18:11.24,0:18:15.67,Narrator,,0,0,0,,Thus, Suikokai, which had once run aground,
 Dialogue: 0,0:18:15.67,0:18:21.75,Narrator,,0,0,0,,had now been revitalized and reborn as a core force driving the Common Path forward.
-Dialogue: 0,0:18:31.61,0:18:33.76,Thought,,0,0,0,,They should start gathering soon.
+Dialogue: 0,0:18:31.59,0:18:33.76,Thought,,0,0,0,,They should start gathering soon.
 Dialogue: 0,0:18:37.03,0:18:37.95,Thought,,0,0,0,,Okay.
 Dialogue: 0,0:18:37.95,0:18:40.78,Default,,0,0,0,,I'll go next door for a consultation session now. {/to give everyone advice}
 Dialogue: 0,0:18:44.26,0:18:46.77,Default,,0,0,0,,Ah, Sensei! Good afternoon.
 Dialogue: 0,0:18:46.77,0:18:49.96,Default,,0,0,0,,Yes, hello. Let's start now.
 Dialogue: 0,0:18:49.96,0:18:53.46,Narrator,,0,0,0,,In the afternoon, \NToda came to this branch office
-Dialogue: 0,0:18:53.46,0:18:56.78,Narrator,,0,0,0,,and personally counseled the members until the evening.
-Dialogue: 0,0:18:57.35,0:19:05.68,Narrator,,0,0,0,,As always, the room was filled with people seeking Toda's guidance for their life issues. {/worries/hardships}
+Dialogue: 0,0:18:53.46,0:18:56.78,Narrator,,0,0,0,,and personally counseled\N the members until the evening.
+Dialogue: 0,0:18:57.35,0:19:05.68,Narrator,,0,0,0,,As always, the room was filled with people\N seeking Toda's guidance for their life issues. {/worries/hardships}
 Dialogue: 0,0:19:05.68,0:19:06.79,Default,,0,0,0,,What happened?
 Dialogue: 0,0:19:06.79,0:19:09.94,Default,,0,0,0,,Please, sensei. \NThis is about my son.
-Dialogue: 0,0:19:09.94,0:19:15.59,Default,,0,0,0,,He has hemophilia, so his mouth is always bleeding and there is nothing we can do.
-Dialogue: 0,0:19:16.51,0:19:17.61,Default,,0,0,0,,Hmm...
-Dialogue: 0,0:19:18.07,0:19:22.59,Default,,0,0,0,,These days, when we make bread, the white bread would sometimes turn deep red.
+Dialogue: 0,0:19:09.94,0:19:15.59,Default,,0,0,0,,He has hemophilia, so his mouth is always bleeding, and there is nothing we can do.
+Dialogue: 0,0:19:16.51,0:19:17.61,Default,,0,0,0,,Hm{m}...
+Dialogue: 0,0:19:18.07,0:19:22.59,Default,,0,0,0,,These days, when we make bread,\N the white bread sometimes turns deep red.
 Dialogue: 0,0:19:23.20,0:19:25.61,Default,,0,0,0,,Open your mouth, for a moment, kid.
 Dialogue: 0,0:19:39.62,0:19:42.62,Default,,0,0,0,,So, what do the doctors say?
 Dialogue: 0,0:19:42.62,0:19:47.62,Default,,0,0,0,,Well, the doctors said there is no treatment for this disorder.
 Dialogue: 0,0:19:47.62,0:19:51.63,Default,,0,0,0,,Aw, what a burdensome disorder. \NWhen did you join Soka Gakkai?
 Dialogue: 0,0:19:51.63,0:19:53.60,Default,,0,0,0,,In April of last year, sir.
 Dialogue: 0,0:19:53.60,0:19:58.53,Default,,0,0,0,,The Buddha lavished us with his grace over the past year. {maybe not buddha but soka gakkai, unsure}
-Dialogue: 0,0:19:58.53,0:20:03.07,Default,,0,0,0,,But when I think about my son, \NI feel really helpless... {poor; pitiful}
-Dialogue: 0,0:20:03.07,0:20:06.49,Narrator,,0,0,0,,This woman divorced her husband before joining Soka Gakkai.
-Dialogue: 0,0:20:06.49,0:20:13.40,Narrator,,0,0,0,,She struggled with four children and recently lost her eldest son, also to hemophilia. {not sure what's "during that time" here}
-Dialogue: 0,0:20:13.90,0:20:17.90,Thought,,0,0,0,,She lived her life to the fullest, heroically...
+Dialogue: 0,0:19:58.53,0:20:03.07,Default,,0,0,0,,But when I think about my son, \NI feel really helpless. {poor; pitiful}
+Dialogue: 0,0:20:03.07,0:20:06.49,Narrator,,0,0,0,,This woman had divorced her husband before joining Soka Gakkai.
+Dialogue: 0,0:20:06.49,0:20:13.40,Narrator,,0,0,0,,She struggled with four children and had recently lost her eldest son, also to hemophilia. {not sure what's "during that time" here}
+Dialogue: 0,0:20:13.90,0:20:17.90,Thought,,0,0,0,,She lived her life to the fullest, heroically.
 Dialogue: 0,0:20:19.23,0:20:22.09,Default,,0,0,0,,We should leave the curable diseases to the doctors.
 Dialogue: 0,0:20:22.09,0:20:26.41,Default,,0,0,0,,But what should we do about illnesses that the doctors can't cure?
 Dialogue: 0,0:20:26.93,0:20:28.81,Default,,0,0,0,,This is a major problem.
-Dialogue: 0,0:20:28.81,0:20:32.43,Default,,0,0,0,,There are many diseases that the doctors simply cannot help you with.
+Dialogue: 0,0:20:28.81,0:20:32.43,Default,,0,0,0,,There are many diseases that doctors simply cannot help with.
 Dialogue: 0,0:20:32.94,0:20:37.67,Default,,0,0,0,,We call them incurable, but maybe there's more to them than meets the eye. {原因が宿業にあるとしたら それはこの信心でなければ根本的な打開はできないのです - lit: they're called incurable disease (due to evil deeds in one's past life), and there may be more of that kind of illness - there's no word in english to immediately connect it to karma, no idea what the second part means}
 Dialogue: 0,0:20:37.67,0:20:39.93,Default,,0,0,0,,Their cause lies in karma,
 Dialogue: 0,0:20:39.93,0:20:45.57,Default,,0,0,0,,and only through piety can we as a society \Nget to the root of the problem.
 Dialogue: 0,0:20:45.57,0:20:50.94,Default,,0,0,0,,I'm glad you've embraced the Great Buddha, \Nwhose power is immense.
-Dialogue: 0,0:20:50.94,0:20:53.94,Default,,0,0,0,,You should continue walking your path steadily. {真剣に真剣にお願いしなさい!}
+Dialogue: 0,0:20:50.94,0:20:53.94,Default,,0,0,0,,You should continue walking\N your path steadily. {真剣に真剣にお願いしなさい!}
 Dialogue: 0,0:20:54.67,0:20:55.94,Default,,0,0,0,,Okay.
 Dialogue: 0,0:20:56.38,0:20:58.59,Default,,0,0,0,,The more you pray to Buddha,
 Dialogue: 0,0:20:58.59,0:21:02.96,Default,,0,0,0,,the more the fundamental power of life will flow into your body. {lit: will move with vigor - whatever that means}
-Dialogue: 0,0:21:03.42,0:21:05.45,Default,,0,0,0,,How can there be something incurable?
+Dialogue: 0,0:21:03.42,0:21:05.45,Default,,0,0,0,,How then can there be something incurable?
 Dialogue: 0,0:21:06.72,0:21:07.95,Default,,0,0,0,,
-Dialogue: 0,0:21:07.95,0:21:13.35,Default,,0,0,0,,I can tell you were taking your faith seriously even without my counsel.
-Dialogue: 0,0:21:13.35,0:21:19.97,Default,,0,0,0,,What I want you to promise me is that you will never let your faith wane for the rest of your life.
+Dialogue: 0,0:21:07.95,0:21:13.35,Default,,0,0,0,,I can tell you are taking your faith seriously,\N even without my counsel.
+Dialogue: 0,0:21:13.35,0:21:19.97,Default,,0,0,0,,I want you to promise me that you will never let your faith waver for the rest of your life.
 Dialogue: 0,0:21:20.44,0:21:24.11,Default,,0,0,0,,If you find that kind of resolve \Nwithin yourself,
 Dialogue: 0,0:21:24.11,0:21:28.20,Default,,0,0,0,,the Mystic Law will soon manifest itself in one form or another.
 Dialogue: 0,0:21:28.20,0:21:28.98,Default,,0,0,0,,Can you do that?
@@ -1153,34 +1154,34 @@ Dialogue: 0,0:21:59.56,0:22:03.05,Default,,0,0,0,,A large portion of the problem
 Dialogue: 0,0:22:03.05,0:22:09.16,Default,,0,0,0,,If we can neither help people nor resolve these problems, then what kind of religion are we?
 Dialogue: 0,0:22:09.16,0:22:10.06,Default,,0,0,0,,You're right.
 Dialogue: 0,0:22:10.06,0:22:16.06,Default,,0,0,0,,Where else in the world today \Ncan the sick and poor find shelter,
-Dialogue: 0,0:22:17.73,0:22:19.73,Default,,0,0,0,,if not with us, Soka Gakkai.
+Dialogue: 0,0:22:17.73,0:22:19.73,Default,,0,0,0,,if not with us, Soka Gakkai?
 Dialogue: 0,0:22:19.73,0:22:24.84,Default,,0,0,0,,Ask them, "What's wrong with being the place for the poor and sick?"
 Dialogue: 0,0:22:26.20,0:22:31.64,Default,,0,0,0,,The joyful voices of those who have found relief from their worries and suffering through faith
-Dialogue: 0,0:22:31.64,0:22:34.64,Default,,0,0,0,,will resonate throughout the country, eventually
+Dialogue: 0,0:22:31.64,0:22:34.64,Default,,0,0,0,,will resonate throughout\N the country, eventually
 Dialogue: 0,0:22:34.64,0:22:39.68,Default,,0,0,0,,creating a powerful wave of demand for Buddhism that will sweep across all of Japan.
 Dialogue: 0,0:22:39.68,0:22:42.76,Default,,0,0,0,,I can already see it clearly!
 Dialogue: 0,0:22:48.76,0:22:53.43,Narrator,,0,0,0,,In August, the summer regional training program, which had become an annual tradition,
-Dialogue: 0,0:22:53.43,0:22:55.79,Narrator,,0,0,0,,was actively held in Osaka, Nagoya, Kyushu,
+Dialogue: 0,0:22:53.43,0:22:55.79,Narrator,,0,0,0,,was {actively }held in Osaka, Nagoya, Kyushu,
 Dialogue: 0,0:22:55.79,0:23:00.78,NarrTop,,0,0,0,,and, recently added to the list, Hokkaido.
 Dialogue: 0,0:23:00.78,0:23:05.80,Narrator,,0,0,0,,In each of the four areas, at least 415 households were converted that month, {actually "in 4 directions/districts, 415 families were converted", no clue what's so special about 400 over 4 areas since as we know a single branch was netting ~200 a month by then, saying each converted 415 would be even more wild, there's no way they all could've done the same number, so I decided the least weird option is to say it was the quota for each, although it's still a weird number; also doesn't say "that month", that was also assumed implication from me}
 Dialogue: 0,0:23:05.80,0:23:09.83,Narrator,,0,0,0,,further boosting the members' fervor for the spread of the Common Path.
-Dialogue: 0,0:23:11.31,0:23:15.97,Narrator,,0,0,0,,In September, the Seikyo Shimbun, previously published every ten days,
+Dialogue: 0,0:23:11.31,0:23:15.97,Narrator,,0,0,0,,In September, the Seikyo Shimbun,\N previously published every ten days,
 Dialogue: 0,0:23:15.97,0:23:19.14,Narrator,,0,0,0,,became a weekly publication.
 Dialogue: 0,0:23:19.14,0:23:21.44,Narrator,,0,0,0,,The circulation also surged to 21,000 copies,
-Dialogue: 0,0:23:21.44,0:23:24.94,Narrator,,0,0,0,,quadrupling the number at the time of its initial publication two years earlier.
+Dialogue: 0,0:23:21.44,0:23:24.94,Narrator,,0,0,0,,quadrupling the number at the time\N of its initial publication two years earlier.
 Dialogue: 0,0:23:24.94,0:23:29.36,Narrator,,0,0,0,,It was a great joy for the members \Nactively involved in spreading the teachings.
 Dialogue: 0,0:23:29.86,0:23:31.60,NarrTop,,0,0,0,,Then, what happened was...
 Dialogue: 0,0:23:34.28,0:23:35.52,Default,,0,0,0,,What do you think?
 Dialogue: 0,0:23:38.26,0:23:39.36,Default,,0,0,0,,It's this way.
-Dialogue: 0,0:23:39.87,0:23:41.02,Default,,0,0,0,,Hm.
+Dialogue: 0,0:23:39.87,0:23:41.02,Default,,0,0,0,,Hm.{vs Hmm earlier}
 Dialogue: 0,0:23:43.04,0:23:45.75,Default,,0,0,0,,This seems like a quiet residential area.
-Dialogue: 0,0:23:45.75,0:23:50.22,Default,,0,0,0,,Yes. And being only three minutes from the station, the location is great.
+Dialogue: 0,0:23:45.75,0:23:50.22,Default,,0,0,0,,Yes. And it's only three minutes from the station, so the location is great.
 Dialogue: 0,0:23:50.22,0:23:52.03,Default,,0,0,0,,Hm, I suppose.
 Dialogue: 0,0:23:52.54,0:23:55.15,Default,,0,0,0,,This is the building I had in mind.
 Dialogue: 0,0:23:55.50,0:23:57.83,Default,,0,0,0,,My, isn't it wonderful?
 Dialogue: 0,0:23:57.83,0:24:01.44,Default,,0,0,0,,Yes... Perfect for the new headquarters.
 Dialogue: 0,0:24:01.44,0:24:07.19,Narrator,,0,0,0,,Membership surged, and the Common Path activities were constantly on the rise.
-Dialogue: 0,0:24:07.19,0:24:11.55,Narrator,,0,0,0,,The small Nishi-Kanda headquarters \Ncould no longer accommodate it.
+Dialogue: 0,0:24:07.19,0:24:11.55,Narrator,,0,0,0,,The small Nishi-Kanda headquarters \Ncould no longer accommodate them.{referring back to 'activities'}
 Dialogue: 0,0:24:11.55,0:24:16.77,Narrator,,0,0,0,,The establishment of a new Soka Gakkai headquarters became an urgent issue.
 Dialogue: 0,0:24:16.77,0:24:20.12,Narrator,,0,0,0,,That's when a foreign ambassador's residence went up for sale.
 Dialogue: 0,0:24:20.12,0:24:24.78,Narrator,,0,0,0,,Shinanomachi suddenly became a solid candidate site for the new headquarters.
@@ -1191,15 +1192,15 @@ Dialogue: 0,0:24:35.91,0:24:39.79,Default,,0,0,0,,The location, the size, \Nand 
 Dialogue: 0,0:24:39.79,0:24:44.30,Default,,0,0,0,,I agree, especially since it's just a three-minute walk from the station.
 Dialogue: 0,0:24:44.30,0:24:49.33,Default,,0,0,0,,I see. Everyone seems to be on board with the purchase.
 Dialogue: 0,0:24:49.33,0:24:50.86,Default,,0,0,0,,All right, let's do it!
-Dialogue: 0,0:24:50.86,0:24:52.68,Default,,0,0,0,,Capital! {/I'm so glad...}
-Dialogue: 0,0:25:20.54,0:25:25.09,Default,,0,0,0,,How spacious is this hall, compared to the headquarters in Nishi-Kanda!
+Dialogue: 0,0:24:50.86,0:24:52.68,Default,,0,0,0,,I'm so glad...{was: Capital! Leave that to Theodore Roosevelt}
+Dialogue: 0,0:25:20.54,0:25:25.09,Default,,0,0,0,,This hall is really spacious, compared to the headquarters in Nishi-Kanda!
 Dialogue: 0,0:25:25.60,0:25:27.33,Default,,0,0,0,,Don't you all agree?
 Dialogue: 0,0:25:27.92,0:25:29.34,Default,,0,0,0,,Yes!
 Dialogue: 0,0:25:29.34,0:25:32.99,Default,,0,0,0,,But maybe that's just how we feel for now.
 Dialogue: 0,0:25:32.99,0:25:35.13,Default,,0,0,0,,Soka Gakkai is expanding rapidly.
 Dialogue: 0,0:25:35.13,0:25:38.80,Default,,0,0,0,,It won't be long before this room \Nstarts to feel small too.
 Dialogue: 0,0:25:40.26,0:25:43.41,Default,,0,0,0,,In any case, a first step in a new direction has been made.
-Dialogue: 0,0:25:43.41,0:25:46.62,Default,,0,0,0,,Today, I want us all to rejoice together to the fullest.
+Dialogue: 0,0:25:43.41,0:25:46.62,Default,,0,0,0,,Today, I want all of us to rejoice together to the fullest.
 Dialogue: 0,0:25:49.63,0:25:53.92,Narrator,,0,0,0,,On November 17th, four days after moving to the new headquarters,
 Dialogue: 0,0:25:53.92,0:25:56.22,Narrator,,0,0,0,,the 10th anniversary memorial service
 Dialogue: 0,0:25:56.22,0:26:01.12,Narrator,,0,0,0,,for the first president, Makiguchi Tsunesaburo, was held in the main hall.
@@ -1208,7 +1209,7 @@ Dialogue: 0,0:26:07.85,0:26:12.58,Default,,0,0,0,,His wife would often say, \N"Y
 Dialogue: 0,0:26:12.58,0:26:15.49,Default,,0,0,0,,Sometimes I'd fall asleep \Nbefore we could finish. {lit: fall asleep first - not sure what he means}
 Dialogue: 0,0:26:16.33,0:26:22.02,Default,,0,0,0,,Makiguchi-sensei was a truly single-minded and serious man. {actually "pure" so maybe "Serious man of pure faith"}
 Dialogue: 0,0:26:23.01,0:26:26.51,Default,,0,0,0,,For example, the well-known sociologist
-Dialogue: 0,0:26:26.51,0:26:31.67,Default,,0,0,0,,Professor Tanabe wrote the following in the preface
+Dialogue: 0,0:26:26.51,0:26:31.67,Default,,0,0,0,,Professor Tanabe wrote\N the following in the preface
 Dialogue: 0,0:26:31.67,0:26:38.20,Default,,0,0,0,,to Makiguchi-sensei's "The Soka System of Education," published in 1930: {https://en.wikipedia.org/wiki/Hajime_Tanabe}
 Dialogue: 0,0:26:38.20,0:26:42.04,Default,,0,0,0,,"Makiguchi Tsunesaburo, \Nan elementary school principal,
 Dialogue: 0,0:26:42.04,0:26:45.50,Default,,0,0,0,,dedicated his life to fighting
@@ -1224,27 +1225,27 @@ Dialogue: 0,0:27:17.21,0:27:19.88,Default,,0,0,0,,I knew it was my duty to make 
 Dialogue: 0,0:27:20.48,0:27:22.89,Default,,0,0,0,,the great philosophy Sensei left behind.
 Dialogue: 0,0:27:23.76,0:27:27.63,Default,,0,0,0,,To that end, I have decided to publish this "Value Theory,"
 Dialogue: 0,0:27:27.63,0:27:31.94,Default,,0,0,0,,which I withheld from the public eye for the last ten years.
-Dialogue: 0,0:27:32.52,0:27:36.38,Default,,0,0,0,,A value system of "Beautiful, Helpful, and Good"— {dunno if there's official translation, but found this: https://bilizen.com/en/company/}
-Dialogue: 0,0:27:36.38,0:27:40.84,Default,,0,0,0,,this is the philosophy we must make the world recognize as our path forward!
+Dialogue: 0,0:27:32.52,0:27:36.38,Default,,0,0,0,,A value system of "Beautiful, Helpful, and Good." {dunno if there's official translation, but found this: https://bilizen.com/en/company/}
+Dialogue: 0,0:27:36.38,0:27:40.84,Default,,0,0,0,,We must make the world recognize\N this philosophy as our path forward!
 Dialogue: 0,0:27:41.53,0:27:46.52,Default,,0,0,0,,If my lifetime isn’t enough, \NI’m relying on you to see it through!
 Dialogue: 0,0:27:46.95,0:27:48.15,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:27:49.05,0:27:50.02,Thought,,0,0,0,,Yes!
 Dialogue: 0,0:27:51.55,0:27:55.56,Narrator,,0,0,0,,As Makiguchi's sole surviving disciple, \NToda worked hard
-Dialogue: 0,0:27:55.56,0:27:59.11,Narrator,,0,0,0,,to make the publication of the "Value Theory" possible on this day. {lit: toda published it for the sake of this day}
+Dialogue: 0,0:27:55.56,0:27:59.11,Narrator,,0,0,0,,to make the publication of "Value Theory"\N possible on this day. {lit: toda published it for the sake of this day}
 Dialogue: 0,0:27:59.11,0:28:02.23,Narrator,,0,0,0,,Later, he would donate the book to universities across Japan
 Dialogue: 0,0:28:02.23,0:28:07.16,Narrator,,0,0,0,,and send its English translations to institutions worldwide.
 Dialogue: 0,0:28:09.24,0:28:12.89,NarrTop,,0,0,0,,On December 23rd, \Njust before the end of the year,
-Dialogue: 0,0:28:13.40,0:28:16.57,NarrTop,,0,0,0,,the 2nd General Meeting of the Men's Youth Division was held
+Dialogue: 0,0:28:13.40,0:28:16.57,NarrTop,,0,0,0,,the Second General Meeting of the Men's Youth Division was held
 Dialogue: 0,0:28:16.57,0:28:19.94,NarrTop,,0,0,0,,at the Hoshi Pharmaceutical University Auditorium.
-Dialogue: 0,0:28:19.94,0:28:23.94,Narrator,,0,0,0,,This was the second general meeting, \Nthe first one took place in April of that year.
+Dialogue: 0,0:28:19.94,0:28:23.94,Narrator,,0,0,0,,This was the second general meeting.\NThe first had taken place in April of that year.
 Dialogue: 0,0:28:24.56,0:28:27.53,Default,,0,0,0,,How should we proceed with our work on the Common Path?
 Dialogue: 0,0:28:27.53,0:28:31.61,Default,,0,0,0,,The answer to that is \N"with a diverse workforce."
 Dialogue: 0,0:28:31.61,0:28:35.20,Default,,0,0,0,,Moving forward is impossible without valuable specialists
 Dialogue: 0,0:28:35.20,0:28:38.36,Default,,0,0,0,,from all levels and sectors \Nof society on our side.
 Dialogue: 0,0:28:38.36,0:28:43.51,Default,,0,0,0,,Those in their 40s and 50s today are unfit for that.
 Dialogue: 0,0:28:43.51,0:28:45.89,Default,,0,0,0,,We have to let the youth take charge.
-Dialogue: 0,0:28:45.89,0:28:47.97,Default,,0,0,0,,All I want is for each of you
-Dialogue: 0,0:28:47.97,0:28:54.19,Default,,0,0,0,,to develop into the remarkable individuals who will serve as the pillars of society! {lit: I hope that only the great people who will become the people's favoritism/popularity prop ups from among you; 諸君の中から人々の依怙依託となる 偉大な人物が輩出されることを願うばかりです}
+Dialogue: 0,0:28:45.89,0:28:47.97,Default,,0,0,0,,I want each of you
+Dialogue: 0,0:28:47.97,0:28:54.19,Default,,0,0,0,,to develop into remarkable individuals who will serve as the pillars of society! {lit: I hope that only the great people who will become the people's favoritism/popularity prop ups from among you; 諸君の中から人々の依怙依託となる 偉大な人物が輩出されることを願うばかりです}
 Dialogue: 0,0:28:54.19,0:28:56.90,Default,,0,0,0,,I won't give a winding speech today. {unsure what he means, maybe "I won't criticize you today" or "let's not make a fussy discussion"; 今日はやかましい話になしにして}
 Dialogue: 0,0:28:57.65,0:28:59.20,Default,,0,0,0,,Let's wrap it up here.
 Dialogue: 0,0:29:00.03,0:29:03.15,Narrator,,0,0,0,,At this general meeting, Yamamoto Shinichi
@@ -1257,7 +1258,7 @@ Dialogue: 0,0:29:30.10,0:29:31.00,Default,,0,0,0,,Yes.
 Dialogue: 0,0:29:31.00,0:29:35.02,Default,,0,0,0,,We've fought well beyond our goals this past year.
 Dialogue: 0,0:29:35.69,0:29:38.65,Default,,0,0,0,,With more people upholding the righteous teachings,
 Dialogue: 0,0:29:38.65,0:29:41.02,Default,,0,0,0,,Japan will become a little more prosperous.
-Dialogue: 0,0:29:41.02,0:29:42.01,Default,,0,0,0,,Yes.
+Dialogue: 0,0:29:41.02,0:29:42.01,Default,,0,0,0,,Indeed.
 Dialogue: 0,0:29:42.01,0:29:47.74,Default,,0,0,0,,I'm eager to build a peaceful society where everyone can live happily and in harmony.
 Dialogue: 0,0:29:47.74,0:29:52.48,Default,,0,0,0,,We should work even harder next year. \NI'm counting on you, Shin-chan.
 Dialogue: 0,0:29:53.15,0:29:54.05,Default,,0,0,0,,Okay!
@@ -2480,46 +2481,46 @@ Dialogue: 0,0:16:11.11,0:16:11.15,Sign,,0,0,0,,{=48}{\alpha&H83&\fnMercurius CT 
 Dialogue: 0,0:16:11.15,0:16:11.20,Sign,,0,0,0,,{=48}{\alpha&HA2&\fnMercurius CT Std Medium\b0\fs35\blur0.5\c&HE9FAFF&\pos(410.76,87.05)}UNITY OF MIND AND BODY
 Dialogue: 0,0:16:11.20,0:16:11.24,Sign,,0,0,0,,{=48}{\alpha&HC9&\fnMercurius CT Std Medium\b0\fs35\blur0.5\c&HE9FAFF&\pos(410.79,87.23)}UNITY OF MIND AND BODY
 Dialogue: 0,0:16:11.24,0:16:11.28,Sign,,0,0,0,,{=48=50}{\alpha&HE8&\fnMercurius CT Std Medium\b0\fs35\blur0.5\c&HE9FAFF&\pos(411.49,87.79)}UNITY OF MIND AND BODY
-Dialogue: 0,0:18:42.60,0:18:42.64,Sign,,0,0,0,,{=52=53}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.4,-260.64)\clip(m 233.15 -134.37 l 363.46 -79.35 360.91 -0.65 157.89 -32.4 165.16 -164.78)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.1,-57.81)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.64,0:18:42.68,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.34,-252.73)\clip(m 233.09 -126.46 l 363.4 -71.44 360.85 7.26 157.83 -24.49 165.1 -156.87)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.04,-49.9)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.68,0:18:42.72,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.2,-245.07)\clip(m 232.95 -118.8 l 363.26 -63.78 360.71 14.92 157.69 -16.83 164.96 -149.21)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.9,-42.24)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.72,0:18:42.76,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.41,-237.55)\clip(m 233.16 -111.28 l 363.47 -56.26 360.92 22.44 157.9 -9.31 165.17 -141.69)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.11,-34.72)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.76,0:18:42.80,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.53,-230.08)\clip(m 233.28 -103.81 l 363.59 -48.79 361.04 29.91 158.02 -1.84 165.29 -134.22)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.23,-27.25)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.80,0:18:42.85,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.58,-222.74)\clip(m 233.33 -96.48 l 363.64 -41.46 361.09 37.24 158.07 5.5 165.34 -126.88)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.28,-19.92)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.85,0:18:42.89,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.65,-215.07)\clip(m 233.4 -88.8 l 363.71 -33.78 361.16 44.92 158.14 13.17 165.41 -119.21)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.35,-12.24)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.89,0:18:42.93,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.52,-207.6)\clip(m 233.27 -81.33 l 363.58 -26.31 361.03 52.39 158.01 20.64 165.28 -111.74)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.22,-4.77)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.93,0:18:42.97,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.36,-199.92)\clip(m 233.11 -73.65 l 363.42 -18.63 360.88 60.07 157.85 28.32 165.12 -104.06)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.07,2.91)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:42.97,0:18:43.01,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.47,-192.25)\clip(m 233.22 -65.98 l 363.53 -10.96 360.98 67.74 157.96 35.99 165.23 -96.39)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.17,10.58)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.01,0:18:43.06,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.54,-184.49)\clip(m 233.29 -58.22 l 363.61 -3.2 361.06 75.5 158.03 43.75 165.3 -88.63)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.25,18.34)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.06,0:18:43.10,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.14,-176.9)\clip(m 232.89 -50.63 l 363.2 4.39 360.65 83.09 157.63 51.34 164.9 -81.04)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.84,25.93)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.10,0:18:43.14,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.34,-169.4)\clip(m 233.09 -43.13 l 363.4 11.89 360.85 90.59 157.83 58.84 165.1 -73.54)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.04,33.43)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.14,0:18:43.18,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.6,-161.99)\clip(m 233.35 -35.72 l 363.66 19.3 361.11 98 158.09 66.25 165.36 -66.13)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.3,40.84)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.18,0:18:43.22,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.63,-154.59)\clip(m 233.38 -28.32 l 363.69 26.7 361.14 105.4 158.12 73.65 165.39 -58.73)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.33,48.24)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.22,0:18:43.26,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.74,-146.77)\clip(m 233.49 -20.51 l 363.8 34.51 361.25 113.21 158.23 81.47 165.5 -50.91)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.44,56.05)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.26,0:18:43.31,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.66,-139.23)\clip(m 233.41 -12.96 l 363.72 42.06 361.17 120.76 158.15 89.01 165.42 -43.37)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.36,63.6)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.31,0:18:43.35,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.8,-131.93)\clip(m 233.55 -5.66 l 363.86 49.36 361.31 128.06 158.29 96.31 165.56 -36.07)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.5,70.9)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.35,0:18:43.39,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(246.13,-125.09)\clip(m 233.88 1.18 l 364.19 56.2 361.64 134.9 158.62 103.15 165.89 -29.23)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.83,77.74)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.39,0:18:43.43,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(246.2,-119.19)\clip(m 233.95 7.08 l 364.26 62.1 361.71 140.8 158.69 109.05 165.96 -23.33)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.9,83.64)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.43,0:18:43.47,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.94,-113.77)\clip(m 233.69 12.5 l 364 67.52 361.45 146.22 158.43 114.47 165.7 -17.91)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.64,89.06)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.47,0:18:43.51,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.53,-109.01)\clip(m 233.28 17.26 l 363.59 72.28 361.04 150.98 158.02 119.23 165.29 -13.15)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.23,93.82)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.51,0:18:43.56,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.36,-104.79)\clip(m 233.11 21.48 l 363.42 76.5 360.87 155.2 157.85 123.45 165.12 -8.93)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.06,98.04)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.56,0:18:43.60,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.32,-101.23)\clip(m 233.07 25.04 l 363.38 80.06 360.83 158.76 157.81 127.01 165.08 -5.37)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.02,101.6)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.60,0:18:43.64,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.07,-98.25)\clip(m 232.82 28.01 l 363.13 83.03 360.58 161.73 157.56 129.99 164.83 -2.39)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.77,104.57)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.64,0:18:43.68,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.06,-95.91)\clip(m 232.81 30.36 l 363.12 85.38 360.57 164.08 157.55 132.33 164.82 -0.05)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.76,106.92)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.68,0:18:43.72,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.26,-94.3)\clip(m 233.01 31.97 l 363.32 86.99 360.78 165.69 157.75 133.94 165.02 1.56)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.96,108.53)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.72,0:18:43.76,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.36,-93.64)\clip(m 233.11 32.63 l 363.42 87.65 360.87 166.35 157.85 134.6 165.12 2.22)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.06,109.19)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.76,0:18:43.81,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.15,-93.5)\clip(m 232.9 32.77 l 363.21 87.79 360.66 166.49 157.64 134.74 164.91 2.36)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.85,109.33)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.81,0:18:43.85,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.18,-93.57)\clip(m 232.93 32.7 l 363.25 87.72 360.7 166.42 157.67 134.67 164.94 2.29)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.89,109.26)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.85,0:18:43.89,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.2,-93.62)\clip(m 232.95 32.65 l 363.26 87.67 360.71 166.37 157.69 134.62 164.96 2.24)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.9,109.21)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.89,0:18:43.93,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.23,-93.8)\clip(m 232.98 32.46 l 363.29 87.48 360.74 166.18 157.72 134.44 164.99 2.06)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.93,109.02)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.93,0:18:43.97,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.15,-93.71)\clip(m 232.9 32.56 l 363.21 87.58 360.66 166.28 157.64 134.53 164.91 2.15)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.85,109.12)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:43.97,0:18:44.01,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.07,-93.56)\clip(m 232.82 32.7 l 363.13 87.72 360.58 166.42 157.56 134.68 164.83 2.3)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.77,109.26)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.01,0:18:44.06,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.46,-93.63)\clip(m 233.21 32.64 l 363.52 87.66 360.97 166.36 157.95 134.61 165.22 2.23)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.16,109.2)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.06,0:18:44.10,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.45,-93.63)\clip(m 233.2 32.63 l 363.51 87.65 360.96 166.35 157.94 134.61 165.21 2.23)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.15,109.19)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.10,0:18:44.14,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.22,-93.52)\clip(m 232.97 32.75 l 363.28 87.77 360.73 166.47 157.71 134.72 164.98 2.34)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.92,109.31)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.14,0:18:44.18,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.29,-93.51)\clip(m 233.04 32.76 l 363.35 87.78 360.8 166.48 157.78 134.73 165.05 2.35)\c&H212122&\3c&H1F3640&\frz1.739\pos(266.99,109.32)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.18,0:18:44.22,Sign,,0,0,0,,{=52}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.53,-93.83)\clip(m 233.28 32.44 l 363.59 87.46 361.04 166.16 158.02 134.41 165.29 2.03)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.23,109)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
-Dialogue: 0,0:18:44.22,0:18:44.26,Sign,,0,0,0,,{=52=54}{\alpha&H00&\fn@FOT-Seurat Pro UB\b0\fs20\blur0.4\bord0\fscx100\fscy100\frx-2.2417\fry18.6034\org(245.31,-93.5)\clip(m 233.06 32.77 l 363.37 87.79 360.82 166.49 157.8 134.74 165.07 2.36)\c&H212122&\3c&H1F3640&\frz1.739\pos(267.01,109.33)}S{\blur0.44\c&H1E1F20&}O{\blur0.48\c&H1B1D1F&}K{\blur0.52\c&H181A1D&}A{\blur0.56\c&H15181B&} {\blur0.6\c&H12161A&}G{\blur0.64\c&H0F1418&}A{\blur0.68\c&H0C1216&}K{\blur0.72\c&H090F14&}K{\blur0.76\c&H060D13&}A{\blur0.8\c&H030B11&}I {\blur0.4\c&H212122&}\NI{\blur0.43\c&H1F1F21&}C{\blur0.46\c&H1D1E20&}H{\blur0.49\c&H1B1C1E&}I{\blur0.51\c&H181B1D&}G{\blur0.54\c&H16191C&}A{\blur0.57\c&H14181B&}Y{\blur0.6\c&H12161A&}A{\blur0.63\c&H101418&} {\blur0.66\c&H0E1317&}B{\blur0.69\c&H0C1116&}R{\blur0.71\c&H091015&}A{\blur0.74\c&H070E13&}N{\blur0.77\c&H050D12&}C{\blur0.8\c&H030B11&}H
+Dialogue: 0,0:18:42.60,0:18:42.64,Sign,,0,0,0,,{=111=112}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.47,290.71)\pos(480.12,315.13)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.64,0:18:42.68,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.4,298.65)\pos(480.05,323.07)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.68,0:18:42.72,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.29,306.21)\pos(479.94,330.63)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.72,0:18:42.76,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.55,313.78)\pos(480.2,338.2)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.76,0:18:42.80,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.62,321.23)\pos(480.27,345.65)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.80,0:18:42.85,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.68,328.47)\pos(480.33,352.89)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.85,0:18:42.89,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.71,336.23)\pos(480.36,360.65)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.89,0:18:42.93,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.56,343.73)\pos(480.21,368.15)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.93,0:18:42.97,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.46,351.41)\pos(480.11,375.83)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:42.97,0:18:43.01,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.56,359.04)\pos(480.21,383.46)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.01,0:18:43.06,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.64,366.73)\pos(480.29,391.15)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.06,0:18:43.10,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.22,374.36)\pos(479.87,398.78)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.10,0:18:43.14,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.42,381.92)\pos(480.07,406.34)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.14,0:18:43.18,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.67,389.26)\pos(480.32,413.68)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.18,0:18:43.22,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.72,396.73)\pos(480.37,421.15)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.22,0:18:43.26,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.81,404.52)\pos(480.46,428.94)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.26,0:18:43.31,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.73,412.1)\pos(480.38,436.52)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.31,0:18:43.35,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.9,419.37)\pos(480.55,443.79)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.35,0:18:43.39,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(489.21,426.22)\pos(480.86,450.64)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.39,0:18:43.43,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(489.27,432.1)\pos(480.92,456.52)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.43,0:18:43.47,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.95,437.53)\pos(480.6,461.95)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.47,0:18:43.51,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.55,442.29)\pos(480.2,466.72)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.51,0:18:43.56,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.43,446.53)\pos(480.08,470.95)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.56,0:18:43.60,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.42,450.01)\pos(480.07,474.43)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.60,0:18:43.64,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.14,453.09)\pos(479.79,477.51)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.64,0:18:43.68,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.13,455.39)\pos(479.78,479.81)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.68,0:18:43.72,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.33,456.99)\pos(479.98,481.41)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.72,0:18:43.76,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.42,457.69)\pos(480.07,482.11)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.76,0:18:43.81,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.24,457.73)\pos(479.89,482.15)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.81,0:18:43.85,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.24,457.76)\pos(479.89,482.18)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.85,0:18:43.89,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.24,457.7)\pos(479.89,482.12)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.89,0:18:43.93,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.31,457.5)\pos(479.96,481.92)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.93,0:18:43.97,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.23,457.6)\pos(479.88,482.02)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:43.97,0:18:44.01,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.15,457.78)\pos(479.8,482.2)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.01,0:18:44.06,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.53,457.73)\pos(480.18,482.15)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.06,0:18:44.10,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.51,457.71)\pos(480.16,482.13)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.10,0:18:44.14,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.35,457.78)\pos(480,482.2)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.14,0:18:44.18,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.38,457.8)\pos(480.03,482.22)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.18,0:18:44.22,Sign,,0,0,0,,{=111}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.57,457.44)\pos(480.22,481.86)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
+Dialogue: 0,0:18:44.22,0:18:44.26,Sign,,0,0,0,,{=111=113}{\alpha&H00&\fnBell MT\shad1.7\b1\fs20\blur0.8\c&H191B1C&\fax0.426726\fscx97.8\fscy122.09\frz-23.26\frx-7.1197\fry-19.7512\org(488.4,457.8)\pos(480.05,482.22)\3c&H43575A&\4c&H655F57&}SOKA GAKKAI\NICHIGAYA BRANCH
 Dialogue: 0,0:22:55.77,0:22:55.81,Sign,,0,0,0,,{=55=56}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\c&HF1FFFF&\pos(316.41,436.4)}Hakodate, Hokkaido {北海道・函館市}
 Dialogue: 0,0:22:55.81,0:22:55.85,Sign,,0,0,0,,{=55}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\c&HF1FFFF&\pos(317.29,434.27)}Hakodate, Hokkaido {北海道・函館市}
 Dialogue: 0,0:22:55.85,0:22:55.89,Sign,,0,0,0,,{=55}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\c&HF1FFFF&\pos(317.47,433.42)}Hakodate, Hokkaido {北海道・函館市}
@@ -3571,77 +3572,77 @@ Dialogue: 0,0:28:19.71,0:28:19.80,Sign,,0,0,0,,{=88}{\alpha&H00&\fnKozuka Mincho
 Dialogue: 0,0:28:19.80,0:28:19.84,Sign,,0,0,0,,{=88}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\pos(312.14,431.95)\c&HF9FFFF&\frz359.8} \h                               December 23rd\N\N\N\N\N2nd General Meeting of the Men's Youth Division \N{12月23日第2回男子青年部総会}
 Dialogue: 0,0:28:19.84,0:28:19.88,Sign,,0,0,0,,{=88}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\pos(312.74,431.6)\c&HF9FFFF&\frz359.8} \h                               December 23rd\N\N\N\N\N2nd General Meeting of the Men's Youth Division \N{12月23日第2回男子青年部総会}
 Dialogue: 0,0:28:19.88,0:28:19.92,Sign,,0,0,0,,{=88=90}{\alpha&H00&\fnKozuka Mincho Pro H\b0\fs25\blur0.5\pos(313.77,431.51)\c&HF9FFFF&\frz359.8} \h                               December 23rd\N\N\N\N\N2nd General Meeting of the Men's Youth Division \N{12月23日第2回男子青年部総会}
-Dialogue: 0,0:29:23.99,0:29:24.03,Sign,,0,0,0,,{=92=93}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(69.55,414.96)\pos(69.85,428.72)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.03,0:29:24.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(69.98,413.67)\pos(70.28,427.43)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.07,0:29:24.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.09,412.55)\pos(70.39,426.31)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.11,0:29:24.15,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.4,412.68)\pos(70.7,426.44)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.15,0:29:24.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.42,412.89)\pos(70.72,426.65)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.20,0:29:24.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.35,413.15)\pos(70.65,426.91)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.24,0:29:24.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.31,412.8)\pos(70.61,426.56)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.28,0:29:24.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.27,412.84)\pos(70.57,426.6)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.32,0:29:24.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.11,412.93)\pos(70.41,426.69)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.36,0:29:24.40,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.07,412.94)\pos(70.37,426.7)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.40,0:29:24.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.02,412.9)\pos(70.32,426.66)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.45,0:29:24.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70,412.87)\pos(70.3,426.63)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.49,0:29:24.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.04,412.89)\pos(70.34,426.65)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.53,0:29:24.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.09,412.94)\pos(70.39,426.7)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.57,0:29:24.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.18,412.87)\pos(70.48,426.63)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.61,0:29:24.65,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.28,412.65)\pos(70.58,426.41)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.65,0:29:24.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.1,412.69)\pos(70.4,426.45)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.70,0:29:24.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.14,412.63)\pos(70.44,426.39)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.74,0:29:24.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.18,412.6)\pos(70.48,426.36)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.78,0:29:24.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.27,412.6)\pos(70.57,426.36)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.86,0:29:24.90,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.25,412.58)\pos(70.55,426.34)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.90,0:29:24.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.55,412.53)\pos(70.85,426.29)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.95,0:29:24.99,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.46,412.42)\pos(70.76,426.18)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:24.99,0:29:25.03,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.36,412.45)\pos(70.66,426.21)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.03,0:29:25.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.44,412.43)\pos(70.74,426.19)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.07,0:29:25.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.5,412.4)\pos(70.8,426.16)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.11,0:29:25.15,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.78,412.37)\pos(71.08,426.13)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.15,0:29:25.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.91,412.42)\pos(71.21,426.18)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.20,0:29:25.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.71,412.41)\pos(71.01,426.17)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.24,0:29:25.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.31,412.94)\pos(70.61,426.7)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.28,0:29:25.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.3,412.93)\pos(70.6,426.69)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.32,0:29:25.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.39,412.94)\pos(70.69,426.7)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.36,0:29:25.41,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.5,412.74)\pos(70.8,426.5)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.41,0:29:25.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.63,412.59)\pos(70.93,426.35)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.45,0:29:25.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.65,412.63)\pos(70.95,426.39)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.49,0:29:25.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.68,412.38)\pos(70.98,426.14)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.53,0:29:25.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.63,412.64)\pos(70.93,426.4)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.57,0:29:25.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.61,412.69)\pos(70.91,426.45)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.61,0:29:25.66,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.65,412.73)\pos(70.95,426.49)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.66,0:29:25.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.66,412.77)\pos(70.96,426.53)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.70,0:29:25.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.86,412.77)\pos(71.16,426.53)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.74,0:29:25.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.63,412.6)\pos(70.93,426.36)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.78,0:29:25.82,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.33,412.64)\pos(70.63,426.4)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.82,0:29:25.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.32,412.64)\pos(70.62,426.4)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.86,0:29:25.91,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.18,412.54)\pos(70.48,426.3)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.91,0:29:25.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.03,412.79)\pos(70.33,426.55)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.95,0:29:25.99,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.27,412.87)\pos(70.57,426.63)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:25.99,0:29:26.03,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.06,412.89)\pos(70.36,426.65)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.03,0:29:26.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.01,412.91)\pos(70.31,426.67)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.07,0:29:26.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(69.92,412.96)\pos(70.22,426.72)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.11,0:29:26.16,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.03,412.85)\pos(70.33,426.61)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.16,0:29:26.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.12,412.77)\pos(70.42,426.53)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.20,0:29:26.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.23,412.7)\pos(70.53,426.46)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.24,0:29:26.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.16,412.57)\pos(70.46,426.33)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.28,0:29:26.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.16,412.59)\pos(70.46,426.35)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.32,0:29:26.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.15,412.71)\pos(70.45,426.47)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.36,0:29:26.41,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.04,412.82)\pos(70.34,426.58)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.41,0:29:26.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(69.96,412.83)\pos(70.26,426.59)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.45,0:29:26.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.06,412.92)\pos(70.36,426.68)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.49,0:29:26.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.18,412.91)\pos(70.48,426.67)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.53,0:29:26.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.42,412.9)\pos(70.72,426.66)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.57,0:29:26.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.63,412.89)\pos(70.93,426.65)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.61,0:29:26.66,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.51,413.04)\pos(70.81,426.81)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.66,0:29:26.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.56,412.98)\pos(70.86,426.74)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.70,0:29:26.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.53,412.79)\pos(70.83,426.55)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.74,0:29:26.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.6,412.71)\pos(70.9,426.47)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.78,0:29:26.82,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.8,412.78)\pos(71.1,426.54)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.82,0:29:26.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.7,412.74)\pos(71,426.5)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.86,0:29:26.91,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(70.82,412.64)\pos(71.12,426.4)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.91,0:29:26.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(71.21,412.73)\pos(71.51,426.49)\frz1.213}SOKA \NGAKKAI {創價學會}
-Dialogue: 0,0:29:26.95,0:29:26.99,Sign,,0,0,0,,{=92=94}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\fscx94.80\fscy76.23\frx-5.6033\fry11.1964\org(71.49,413.1)\pos(71.79,426.86)\frz1.213}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:23.99,0:29:24.03,Sign,,0,0,0,,{=92=93}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.27,254.49)\org(151.97,240.73)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.03,0:29:24.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.7,253.2)\org(152.4,239.44)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.07,0:29:24.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.81,252.08)\org(152.51,238.32)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.11,0:29:24.15,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.12,252.21)\org(152.82,238.45)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.15,0:29:24.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.14,252.42)\org(152.84,238.66)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.20,0:29:24.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.07,252.68)\org(152.77,238.92)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.24,0:29:24.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.03,252.33)\org(152.73,238.57)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.28,0:29:24.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.99,252.37)\org(152.69,238.61)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.32,0:29:24.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.83,252.46)\org(152.53,238.7)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.36,0:29:24.40,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.79,252.47)\org(152.49,238.71)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.40,0:29:24.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.74,252.43)\org(152.44,238.67)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.45,0:29:24.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.72,252.4)\org(152.42,238.64)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.49,0:29:24.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.76,252.42)\org(152.46,238.66)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.53,0:29:24.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.81,252.47)\org(152.51,238.71)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.57,0:29:24.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.9,252.4)\org(152.6,238.64)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.61,0:29:24.65,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153,252.18)\org(152.7,238.42)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.65,0:29:24.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.82,252.22)\org(152.52,238.46)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.70,0:29:24.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.86,252.16)\org(152.56,238.4)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.74,0:29:24.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.9,252.13)\org(152.6,238.37)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.78,0:29:24.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.99,252.13)\org(152.69,238.37)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.86,0:29:24.90,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.97,252.11)\org(152.67,238.35)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.90,0:29:24.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.27,252.06)\org(152.97,238.3)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.95,0:29:24.99,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.18,251.95)\org(152.88,238.19)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:24.99,0:29:25.03,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.08,251.98)\org(152.78,238.22)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.03,0:29:25.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.16,251.96)\org(152.86,238.2)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.07,0:29:25.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.22,251.93)\org(152.92,238.17)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.11,0:29:25.15,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.5,251.9)\org(153.2,238.14)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.15,0:29:25.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.63,251.95)\org(153.33,238.19)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.20,0:29:25.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.43,251.94)\org(153.13,238.18)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.24,0:29:25.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.03,252.47)\org(152.73,238.71)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.28,0:29:25.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.02,252.46)\org(152.72,238.7)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.32,0:29:25.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.11,252.47)\org(152.81,238.71)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.36,0:29:25.41,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.22,252.27)\org(152.92,238.51)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.41,0:29:25.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.35,252.12)\org(153.05,238.36)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.45,0:29:25.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.37,252.16)\org(153.07,238.4)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.49,0:29:25.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.4,251.91)\org(153.1,238.15)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.53,0:29:25.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.35,252.17)\org(153.05,238.41)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.57,0:29:25.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.33,252.22)\org(153.03,238.46)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.61,0:29:25.66,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.37,252.26)\org(153.07,238.5)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.66,0:29:25.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.38,252.3)\org(153.08,238.54)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.70,0:29:25.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.58,252.3)\org(153.28,238.54)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.74,0:29:25.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.35,252.13)\org(153.05,238.37)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.78,0:29:25.82,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.05,252.17)\org(152.75,238.41)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.82,0:29:25.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.04,252.17)\org(152.74,238.41)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.86,0:29:25.91,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.9,252.07)\org(152.6,238.31)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.91,0:29:25.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.75,252.32)\org(152.45,238.56)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.95,0:29:25.99,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.99,252.4)\org(152.69,238.64)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:25.99,0:29:26.03,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.78,252.42)\org(152.48,238.66)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.03,0:29:26.07,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.73,252.44)\org(152.43,238.68)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.07,0:29:26.11,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.64,252.49)\org(152.34,238.73)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.11,0:29:26.16,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.75,252.38)\org(152.45,238.62)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.16,0:29:26.20,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.84,252.3)\org(152.54,238.54)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.20,0:29:26.24,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.95,252.23)\org(152.65,238.47)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.24,0:29:26.28,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.88,252.1)\org(152.58,238.34)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.28,0:29:26.32,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.88,252.12)\org(152.58,238.36)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.32,0:29:26.36,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.87,252.24)\org(152.57,238.48)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.36,0:29:26.41,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.76,252.35)\org(152.46,238.59)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.41,0:29:26.45,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.68,252.36)\org(152.38,238.6)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.45,0:29:26.49,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.78,252.45)\org(152.48,238.69)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.49,0:29:26.53,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(152.9,252.44)\org(152.6,238.68)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.53,0:29:26.57,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.14,252.43)\org(152.84,238.67)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.57,0:29:26.61,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.35,252.42)\org(153.05,238.66)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.61,0:29:26.66,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.23,252.58)\org(152.93,238.81)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.66,0:29:26.70,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.28,252.51)\org(152.98,238.75)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.70,0:29:26.74,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.25,252.32)\org(152.95,238.56)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.74,0:29:26.78,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.32,252.24)\org(153.02,238.48)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.78,0:29:26.82,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.52,252.31)\org(153.22,238.55)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.82,0:29:26.86,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.42,252.27)\org(153.12,238.51)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.86,0:29:26.91,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.54,252.17)\org(153.24,238.41)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.91,0:29:26.95,Sign,,0,0,0,,{=92}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(153.93,252.26)\org(153.63,238.5)}SOKA \NGAKKAI {創價學會}
+Dialogue: 0,0:29:26.95,0:29:26.99,Sign,,0,0,0,,{=92=94}{\alpha&H00&\fnBell MT\b1\fs13\blur0.8\c&H061619&\1a&H36&\fax0.001997\frx-5.6033\fry11.1964\frz357.8\fscx101\fscy123\pos(154.21,252.63)\org(153.91,238.87)}SOKA \NGAKKAI {創價學會}
 Comment: 0,0:00:31.01,0:00:34.01,Sign,,0,0,0,,{\fnKozuka Mincho Pro H\b0\fs25\blur0.4\c&HE9F7FC&\pos(316.91,423.15)}June, 1953 {1953年(昭和28年)6月一}
 Comment: 0,0:00:34.01,0:00:36.02,Sign,,0,0,0,,{\fscx100\fscy100\alpha&H00&\bord1\fnAntonio\fax-0.06\blur1\fs25\b1\c&H1C2636&\1a&H00&\3c&H3E5C8A&\i0\frx10\fry344\pos(576.69,326.43)\frz19.7}D{\3c&H3F6290&}a{\3c&H406996&}i{\3c&H416F9C&}t{\3c&H4376A2&}o{\3c&H447CA7&} \N{\3c&H4582AD&}T{\3c&H4689B3&}r{\3c&H478FB9&}a{\3c&H478FB9&}d{\3c&H4689B3&}i{\3c&H4582AD&}n{\3c&H447CA7&}g{\3c&H4376A2&} {\3c&H416F9C&}C{\3c&H406996&}o{\3c&H3F6290&}.{\3c&H3E5C8A&} {大東商工株式會社}
 Comment: 0,0:00:40.85,0:00:41.75,Sign,,0,0,0,,{\fnAveria Serif\b1\fs25\blur0.5\c&HC3C3C4&\pos(379.16,83.23)\frx16\fry356\frz343.3\u0}Introduction to Law {法律學概論} {this is about a normal law btw, as in jurisprudence, not the religious mumbo jumbo}
@@ -3728,9 +3729,6 @@ Data: 47,_aegi_folddata,e1;1;15
 Data: 48,a-mo,e{"uuid"#3A"17fda902-1f5b-4d3c-99b3-6fe9dafbacce"#2C"originalText"#3A"{\\fnMercurius CT Std Medium\\fad(230#2C330)\\b0\\fs35\\blur0.5\\c&HE9FAFF&\\pos(406.96#2C85.85)}UNITY OF MIND AND BODY "}
 Data: 49,_aegi_folddata,e0;1;16
 Data: 50,_aegi_folddata,e1;1;16
-Data: 52,a-mo,e{"uuid"#3A"65503fab-c534-4fa5-aa06-b03bcb07ff66"#2C"originalText"#3A"{\\fn@FOT-Seurat Pro UB\\b0\\fs20\\blur0.4\\bord0\\fscx100\\fscy100\\frx-2.2417\\fry18.6034\\org(245.15#2C-93.71)\\clip(m 232.9 32.56 l 363.21 87.58 360.66 166.28 157.64 134.53 164.91 2.15)\\c&H212122&\\3c&H1F3640&\\frz1.739\\pos(266.85#2C109.12)}S{\\blur0.44\\c&H1E1F20&}O{\\blur0.48\\c&H1B1D1F&}K{\\blur0.52\\c&H181A1D&}A{\\blur0.56\\c&H15181B&} {\\blur0.6\\c&H12161A&}G{\\blur0.64\\c&H0F1418&}A{\\blur0.68\\c&H0C1216&}K{\\blur0.72\\c&H090F14&}K{\\blur0.76\\c&H060D13&}A{\\blur0.8\\c&H030B11&}I {\\blur0.4\\c&H212122&}\\NI{\\blur0.43\\c&H1F1F21&}C{\\blur0.46\\c&H1D1E20&}H{\\blur0.49\\c&H1B1C1E&}I{\\blur0.51\\c&H181B1D&}G{\\blur0.54\\c&H16191C&}A{\\blur0.57\\c&H14181B&}Y{\\blur0.6\\c&H12161A&}A{\\blur0.63\\c&H101418&} {\\blur0.66\\c&H0E1317&}B{\\blur0.69\\c&H0C1116&}R{\\blur0.71\\c&H091015&}A{\\blur0.74\\c&H070E13&}N{\\blur0.77\\c&H050D12&}C{\\blur0.8\\c&H030B11&}H"}
-Data: 53,_aegi_folddata,e0;1;17
-Data: 54,_aegi_folddata,e1;1;17
 Data: 55,a-mo,e{"uuid"#3A"53d6ae03-fd7e-4be3-bbf7-6c6023f0e28b"#2C"originalText"#3A"{\\fnKozuka Mincho Pro H\\b0\\fs25\\blur0.5\\c&HF1FFFF&\\pos(316.41#2C436.4)}Hakodate#2C Hokkaido {#E5#8C#97#E6#B5#B7#E9#81#93#E3#83#BB#E5#87#BD#E9#A4#A8#E5#B8#82}"}
 Data: 56,_aegi_folddata,e0;1;18
 Data: 57,_aegi_folddata,e1;1;18
@@ -3778,3 +3776,8 @@ Data: 104,a-mo,e{"originalText"#3A"{\\blur0.6\\shad2\\an4\\fs25\\fad(0#2C1400)\\
 Data: 105,a-mo,e{"originalText"#3A"{\\blur0.6\\shad2\\an6\\fs25\\fad(0#2C1400)\\c&HFFFFFF&\\pos(149.5#2C547.44)} Raw provider \\N Encoding & QC \\N Translation & TS \\N Editing \\NQC"#2C"uuid"#3A"03de21c4-5559-45a3-9b32-d83327d5ef46"}
 Data: 106,_aegi_folddata,e0;1;32
 Data: 107,_aegi_folddata,e1;1;32
+Data: 111,a-mo,e{"uuid"#3A"bf0cda7e-f009-44d4-b59c-43f572f0c62a"#2C"originalText"#3A"{\\fnBell MT\\shad1.7\\b1\\fs20\\blur0.8\\c&H191B1C&\\fax0.426726\\fscx97.80\\fscy122.09\\frz-23.2599\\frx-7.1197\\fry-19.7512\\org(488.47#2C290.71)\\pos(480.12#2C315.13)\\3c&H43575A&\\4c&H655F57&}SOKA GAKKAI\\NICHIGAYA BRANCH"}
+Data: 112,_aegi_folddata,e0;1;33
+Data: 113,_aegi_folddata,e1;1;33
+Data: 114,_aegi_folddata,e0;0;29
+Data: 115,_aegi_folddata,e1;0;29
