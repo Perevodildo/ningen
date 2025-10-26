@@ -16,8 +16,9 @@ Video File: Ningen Kakumei (1995) - 09 [DVD] [9A62134F].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.375000
-Active Line: 807
-Video Position: 44643
+Scroll Position: 270
+Active Line: 1077
+Video Position: 27820
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1111,7 +1112,7 @@ Dialogue: 0,0:19:05.68,0:19:06.79,Default,,0,0,0,,What happened?
 Dialogue: 0,0:19:06.79,0:19:09.94,Default,,0,0,0,,Please, sensei. \NThis is about my son.
 Dialogue: 0,0:19:09.94,0:19:15.59,Default,,0,0,0,,He has hemophilia, so his mouth is always bleeding, and there is nothing we can do.
 Dialogue: 0,0:19:16.51,0:19:17.61,Default,,0,0,0,,Hm{m}...
-Dialogue: 0,0:19:18.07,0:19:22.59,Default,,0,0,0,,These days, when we make bread,\N the white bread sometimes turns deep red.
+Dialogue: 0,0:19:18.07,0:19:22.59,Default,,0,0,0,,These days, when we eat bread,\N the white bread sometimes turns deep red. {lit: do bread - I assume she means "eat"}
 Dialogue: 0,0:19:23.20,0:19:25.61,Default,,0,0,0,,Open your mouth, for a moment, kid.
 Dialogue: 0,0:19:39.62,0:19:42.62,Default,,0,0,0,,So, what do the doctors say?
 Dialogue: 0,0:19:42.62,0:19:47.62,Default,,0,0,0,,Well, the doctors said there is no treatment for this disorder.
