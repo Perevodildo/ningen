@@ -16,8 +16,9 @@ Video File: Ningen Kakumei (1995) - 06 [DVD] [D3553D89].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.625000
-Active Line: 370
-Video Position: 47620
+Scroll Position: 389
+Active Line: 1169
+Video Position: 43165
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -835,7 +836,7 @@ Dialogue: 10,0:02:29.48,0:02:34.23,Default,,0,0,0,,that Soka Gakkai must become 
 Dialogue: 10,0:02:34.23,0:02:40.07,Default,,0,0,0,,In other words, he would often say, \Nas if reprimanding us,
 Dialogue: 10,0:02:40.07,0:02:47.06,Default,,0,0,0,,"We must clarify the original mission \Nand purpose of Soka Gakkai and fulfill it."
 Dialogue: 10,0:02:47.06,0:02:48.94,Default,,0,0,0,,At first, I, his unworthy disciple,
-Dialogue: 10,0:02:48.94,0:02:56.57,Default,,0,0,0,,was utterly perplexed about how to interpret it, \Nleaving me unable to take any action.
+Dialogue: 10,0:02:48.94,0:02:56.57,Default,,0,0,0,,was utterly perplexed about how to interpret it, \Nunable to take any action.
 Dialogue: 10,0:02:58.90,0:03:04.18,Default,,0,0,0,,However, a profound awareness of our mission has now finally arisen
 Dialogue: 10,0:03:04.18,0:03:06.70,Default,,0,0,0,,within the Soka Gakkai as a whole.
 Dialogue: 10,0:03:07.18,0:03:11.31,Default,,0,0,0,,Our missionary activities are now more intense than ever before.
@@ -844,7 +845,7 @@ Dialogue: 10,0:03:17.11,0:03:21.03,Default,,0,0,0,,have wholeheartedly accepted 
 Dialogue: 10,0:03:21.03,0:03:25.54,Default,,0,0,0,,Furthermore, we will carry on the will of the late Chairman Makiguchi
 Dialogue: 10,0:03:25.54,0:03:29.77,Default,,0,0,0,,and fulfill our mission to spread the great Buddhist Dharma
 Dialogue: 10,0:03:29.77,0:03:33.08,Default,,0,0,0,,of the Common Path throughout the East and the world. {/the Orient}
-Dialogue: 10,0:03:33.08,0:03:38.09,Default,,0,0,0,,May we leave this world with the name \Nof the Great Buddha on our lips. {lit: You must die in the presence of the Great Gohonzon - no idea what he means; 大御本尊の御前において死なんのみであります}
+Dialogue: 10,0:03:33.08,0:03:38.09,Default,,0,0,0,,May we leave this world with the words \Nof the Great Scroll on our lips. {lit: You must die in the presence of the Great Gohonzon - no idea what he means; 大御本尊の御前において死なんのみであります}
 Dialogue: 10,0:03:40.00,0:03:42.83,Narrator,,0,0,0,,However, the journey to reach here
 Dialogue: 10,0:03:42.83,0:03:46.83,Narrator,,0,0,0,,was as treacherous as walking along a steep mountain ridge.
 Dialogue: 10,0:03:46.83,0:03:50.62,Narrator,,0,0,0,,In preparation for the day\N he would take office,
@@ -975,7 +976,7 @@ Dialogue: 10,0:12:22.46,0:12:25.72,ThouTop,,0,0,0,,How happy would he have been.
 Dialogue: 10,0:12:32.03,0:12:37.65,NarrTop,,0,0,0,,The ascension of the second president \Nwas met with pride and joy.
 Dialogue: 10,0:12:37.65,0:12:40.21,NarrTop,,0,0,0,,This launched a self-propelled wave
 Dialogue: 10,0:12:40.21,0:12:45.11,NarrTop,,0,0,0,,of enthusiasm for disseminating the Common Path among all the Soka Gakkai members.
-Dialogue: 10,0:12:45.11,0:12:50.10,NarrTop,,0,0,0,,Roundtable discussions, once held twice a month, were now popping up all over the region.
+Dialogue: 10,0:12:45.11,0:12:50.10,NarrTop,,0,0,0,,Roundtable discussions, once held twice a month, \Nwere now popping up all over the region.
 Dialogue: 10,0:12:50.10,0:12:52.75,NarrTop,,0,0,0,,Newcomers began pouring in.
 Dialogue: 10,0:12:53.46,0:12:56.79,NarrTop,,0,0,0,,The Buddha Dharma was spreading like wildfire.
 Dialogue: 10,0:12:56.79,0:13:01.21,NarrTop,,0,0,0,,The number of monthly conversions, \Nwhich had never exceeded 200 countrywide,
@@ -1021,7 +1022,7 @@ Dialogue: 10,0:15:44.86,0:15:47.31,Default,,0,0,0,,This way, we'll be able \Nto 
 Dialogue: 10,0:15:52.30,0:15:55.18,Thought,,0,0,0,,Seems like we've taken \Na pretty big step forward.
 Dialogue: 10,0:15:55.18,0:15:59.66,Thought,,0,0,0,,However, for Toda-sensei to realize\N all of his aspirations,
 Dialogue: 10,0:15:59.66,0:16:03.32,Thought,,0,0,0,,we must take the company \Nto the next level.
-Dialogue: 10,0:16:07.68,0:16:12.33,Top,,0,0,0,,I firmly believe that it is we, the youth division, especially the men’s youth division,
+Dialogue: 10,0:16:07.68,0:16:12.33,Top,,0,0,0,,I firmly believe that it is we, the youth division, \Nespecially the men’s youth division,
 Dialogue: 10,0:16:12.33,0:16:15.01,Top,,0,0,0,,that will forge a path for the unprecedented
 Dialogue: 10,0:16:15.01,0:16:18.83,Top,,0,0,0,,religious revolution that the Common Path will usher in.
 Dialogue: 10,0:16:18.83,0:16:21.85,Narrator,,0,0,0,,A historic formation ceremony for the Men's Youth Division
@@ -1187,7 +1188,8 @@ Dialogue: 10,0:28:29.35,0:28:33.34,Default,,0,0,0,,and fulfill the expectations 
 Dialogue: 10,0:28:43.71,0:28:47.37,Default,,0,0,0,,President’s Lecture, \N"The Great Pledge of Soka Gakkai!"
 Dialogue: 10,0:28:48.24,0:28:52.70,Narrator,,0,0,0,,Just as Yamamoto Shinichi's announcement of his determination, "The Conviction of Youth,"
 Dialogue: 10,0:28:52.70,0:28:55.88,Narrator,,0,0,0,,was a pledge of loyalty to Toda Josei,
-Dialogue: 10,0:28:55.88,0:29:03.89,Narrator,,0,0,0,,Toda's speech "The Great Vow of the Soka Gakkai," was his pledge of loyalty to Buddha.
+Dialogue: 10,0:28:55.88,0:29:00.47,Narrator,,0,0,0,,Toda's speech {\i1}The Great Vow of the Soka Gakkai{\i0},
+Dialogue: 10,0:29:00.47,0:29:03.89,Narrator,,0,0,0,,was his pledge of loyalty \Nto the symbol of their faith. {dai gohonzon}
 Dialogue: 10,0:29:03.89,0:29:08.56,Default,,0,0,0,,I vow to spread the true teachings\N of Buddha Dharma across this nation,
 Dialogue: 10,0:29:08.56,0:29:12.79,Default,,0,0,0,,where so many are afflicted \Nby their erroneous faith.
 Dialogue: 10,0:29:12.79,0:29:14.40,Default,,0,0,0,,This is article 1.
@@ -1202,7 +1204,7 @@ Dialogue: 10,0:29:48.98,0:29:53.60,Default,,0,0,0,,This and the two other articl
 Dialogue: 10,0:29:53.60,0:29:56.50,Default,,0,0,0,,that reflect the unanimous wish \Nof all Soka Gakkai members.
 Dialogue: 10,0:29:56.50,0:29:58.88,Default,,0,0,0,,Are you with me, friends?
 Dialogue: 10,0:29:58.88,0:30:00.21,Default,,0,0,0,,Yes!
-Dialogue: 10,0:29:59.11,0:30:00.21,Overlap,,0,0,0,,Yes!
+Comment: 10,0:29:59.11,0:30:00.21,Overlap,,0,0,0,,Yes!
 Dialogue: 10,0:30:07.49,0:30:10.49,Default,,0,0,0,,Hm, I see we're finally back on track.
 Dialogue: 10,0:30:10.49,0:30:17.35,Default,,0,0,0,,Yes. At this rate, we might be able to pay off our credit union debts sooner than expected.
 Dialogue: 10,0:30:17.35,0:30:19.67,Default,,0,0,0,,Thank you. You did a great job.
