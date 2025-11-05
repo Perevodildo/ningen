@@ -15,10 +15,10 @@ Audio File: Ningen Kakumei (1995) - 10 [DVD] [728A716D].mkv
 Video File: Ningen Kakumei (1995) - 10 [DVD] [728A716D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.625000
-Scroll Position: 395
-Active Line: 1018
-Video Position: 41601
+Video Zoom Percent: 1.375000
+Scroll Position: 218
+Active Line: 842
+Video Position: 22315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -664,12 +664,12 @@ Dialogue: 4,0:30:50.37,0:30:56.33,Sign,,0,0,0,,{\fad(1200,0)\fs50\blur0.7\pos(31
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{oped border}
 Dialogue: 10,0:00:40.82,0:00:43.02,NarrTop,,0,0,0,,Soka Gakkai began its operations
 Dialogue: 10,0:00:43.02,0:00:51.24,NarrTop,,0,0,0,,in 1954 with a goal of converting 80,000 households that year.
-Dialogue: 10,0:00:51.86,0:00:55.88,Narrator,,0,0,0,,President Toda was focused on finding a way to accelerate
-Dialogue: 10,0:00:55.88,0:00:59.54,Narrator,,0,0,0,,Soka Gakkai's progress towards \Nachieving the Common Path.
+Dialogue: 10,0:00:51.86,0:00:55.88,Narrator,,0,0,0,,President Toda was focused\N on finding a way to accelerate
+Dialogue: 10,0:00:55.88,0:00:59.54,Narrator,,0,0,0,,Soka Gakkai's progress toward \Nachieving the Common Path.
 Dialogue: 10,0:01:00.01,0:01:02.54,Default,,0,0,0,,I'll leave that matter to you, then.
 Dialogue: 10,0:01:03.06,0:01:04.68,Default,,0,0,0,,We got you!
-Dialogue: 10,0:01:06.05,0:01:10.32,Thought,,0,0,0,,Indeed, looking at the progress we've made over the past few years,
-Dialogue: 10,0:01:10.32,0:01:14.45,Thought,,0,0,0,,you could say that the Soka Gakkai ship is running at full steam,
+Dialogue: 10,0:01:06.05,0:01:10.30,Thought,,0,0,0,,Indeed, looking at the progress\N we've made over the past few years,
+Dialogue: 10,0:01:10.30,0:01:14.45,Thought,,0,0,0,,you could say that the Soka Gakkai ship is running at full steam,
 Dialogue: 10,0:01:14.45,0:01:17.60,Thought,,0,0,0,,steadily sailing through the ocean of the Common Path. {/Gakkai Maru - maru is a suffix typical for ships}
 Dialogue: 10,0:01:17.60,0:01:23.17,Thought,,0,0,0,,But in which direction should we steer Soka Gakkai to ensure it doesn't go off course?
 Dialogue: 10,0:01:23.75,0:01:25.62,Thought,,0,0,0,,That's the #1 question.
@@ -695,10 +695,10 @@ Dialogue: 10,0:02:55.28,0:02:56.74,Thought,,0,0,0,,Let's give it a try.
 Dialogue: 10,0:03:01.49,0:03:06.37,Thought,,0,0,0,,But can we really expect the youth to become the propulsive force for all of Soka Gakkai
 Dialogue: 10,0:03:06.37,0:03:10.95,Thought,,0,0,0,,by simply placing a male and a female member in each branch?
 Dialogue: 10,0:03:10.95,0:03:13.24,Thought,,0,0,0,,I feel something's amiss.
-Dialogue: 10,0:03:13.24,0:03:14.59,Thought,,0,0,0,,But what is it...?
-Dialogue: 10,0:03:18.18,0:03:21.57,Narrator,,0,0,0,,Focused on promoting education, Toda
-Dialogue: 10,0:03:21.57,0:03:25.58,Narrator,,0,0,0,,delivered a variety of lectures, primarily general ones
-Dialogue: 10,0:03:25.58,0:03:28.25,Narrator,,0,0,0,,at the Toshima Town Hall thrice a week.
+Dialogue: 10,0:03:13.24,0:03:14.59,Thought,,0,0,0,,But what is it?
+Dialogue: 10,0:03:18.18,0:03:21.57,Narrator,,0,0,0,,Focused on promoting education,{yes, I realize 'Toda is here, but the dangling word is bad English}
+Dialogue: 10,0:03:21.57,0:03:25.58,Narrator,,0,0,0,,Toda delivered a variety of lectures,\N primarily general ones,
+Dialogue: 10,0:03:25.58,0:03:28.25,Narrator,,0,0,0,,at the Toshima Town Hall\N three times a week.
 Dialogue: 10,0:03:28.25,0:03:33.78,Narrator,,0,0,0,,This higher-level lecture, aimed at other educators, was one such example. {/for members of the teaching staff; no clue what's this "4 class/level" thing is, thinking maybe "for 4th year university students"; この教学部員を対象にした四級講義もその一つであった}
 Dialogue: 10,0:03:33.78,0:03:38.67,Default,,0,0,0,,The Three Great Secret Laws, formulated by Nichikan Shonin,
 Dialogue: 10,0:03:38.67,0:03:44.25,Default,,0,0,0,,are the ultimate proof of the righteousness of Nichiren Daishonin's Buddhism,
@@ -707,18 +707,18 @@ Dialogue: 10,0:03:48.29,0:03:49.04,Default,,0,0,0,,Well,
 Dialogue: 10,0:03:49.60,0:03:52.04,Default,,0,0,0,,that's all for today.
 Dialogue: 10,0:03:52.52,0:03:54.55,Default,,0,0,0,,Thank you very much!
 Dialogue: 10,0:04:01.55,0:04:03.02,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:04:03.02,0:04:04.41,Default,,0,0,0,,
-Dialogue: 10,0:04:04.41,0:04:06.58,Default,,0,0,0,,Sensei! What's wrong?
-Dialogue: 10,0:04:06.58,0:04:10.31,Default,,0,0,0,,
-Dialogue: 10,0:04:10.31,0:04:12.42,Default,,0,0,0,,
+Comment: 10,0:04:03.02,0:04:04.55,Default,,0,0,0,,
+Dialogue: 10,0:04:04.55,0:04:06.55,Default,,0,0,0,,Sensei! What's wrong?
+Comment: 10,0:04:06.55,0:04:10.31,Default,,0,0,0,,
+Comment: 10,0:04:10.31,0:04:12.42,Default,,0,0,0,,
 Dialogue: 10,0:04:12.42,0:04:15.77,Default,,0,0,0,,Irie-san, I believe Dr. Hayami is here today.
-Dialogue: 10,0:04:15.77,0:04:19.00,Default,,0,0,0,,Quickly call him over, \Nbut make sure not to alarm everyone.
+Dialogue: 10,0:04:15.77,0:04:19.00,Default,,0,0,0,,Call him over quickly, \Nbut make sure not to alarm everyone.
 Dialogue: 10,0:04:19.00,0:04:20.32,Default,,0,0,0,,Okay, understood!
-Dialogue: 10,0:04:23.33,0:04:26.75,Default,,0,0,0,,Sensei, Hayami-san will be here soon, please stay strong.
+Dialogue: 10,0:04:23.33,0:04:26.75,Default,,0,0,0,,Sensei, Hayami-san will be here soon.\N Please stay strong.
 Dialogue: 10,0:04:28.50,0:04:29.58,Default,,0,0,0,,Hayami-san!
-Dialogue: 10,0:04:30.08,0:04:33.59,Default,,0,0,0,,Something's wrong with Sensei, please check on him immediately!
-Dialogue: 10,0:04:34.02,0:04:39.59,Default,,0,0,0,,
-Dialogue: 10,0:04:50.54,0:04:52.86,Default,,0,0,0,,Is Shin there?
+Dialogue: 10,0:04:30.08,0:04:33.59,Default,,0,0,0,,Something's wrong with Sensei.\N Please check on him immediately!
+Comment: 10,0:04:34.02,0:04:39.59,Default,,0,0,0,,
+Dialogue: 10,0:04:50.68,0:04:52.86,Default,,0,0,0,,Is Shin there?
 Dialogue: 10,0:04:52.86,0:04:56.29,Default,,0,0,0,,What? What did you say, Sensei?
 Dialogue: 10,0:04:56.29,0:04:57.86,Default,,0,0,0,,Shin is not there?
 Dialogue: 10,0:04:58.32,0:04:59.44,Default,,0,0,0,,Shin...
@@ -731,14 +731,14 @@ Dialogue: 10,0:05:12.97,0:05:14.06,Default,,0,0,0,,So?
 Dialogue: 10,0:05:14.06,0:05:18.13,Default,,0,0,0,,Looks like a hypoglycemic attack. \NNo need to worry.
 Dialogue: 10,0:05:18.69,0:05:20.13,Default,,0,0,0,,When I make this injection,
 Dialogue: 10,0:05:20.13,0:05:22.55,Default,,0,0,0,,the seizure will subside at once.
-Dialogue: 10,0:05:23.14,0:05:24.74,Default,,0,0,0,,So that's what it was...
+Dialogue: 10,0:05:23.14,0:05:24.74,Default,,0,0,0,,So that's what it was.
 Dialogue: 10,0:05:25.11,0:05:26.64,Default,,0,0,0,,Thank God.
 Dialogue: 10,0:05:26.64,0:05:32.65,Default,,0,0,0,,But to be on the safe side, \NI think it's best if he rests here tonight.
 Dialogue: 10,0:05:33.33,0:05:34.56,Default,,0,0,0,,All right.
 Dialogue: 10,0:05:39.65,0:05:42.88,Thought,,0,0,0,,The harsh prison life
 Dialogue: 10,0:05:43.46,0:05:47.33,Thought,,0,0,0,,and the strain of the last ten years have taken a toll on my health.
 Dialogue: 10,0:05:48.09,0:05:51.30,Thought,,0,0,0,,I might not have much time left to live.
-Dialogue: 10,0:05:52.06,0:05:55.56,Thought,,0,0,0,,However, to lay the foundation for the future spread of the Common Path,
+Dialogue: 10,0:05:52.06,0:05:55.56,Thought,,0,0,0,,However, to lay the foundation for\N the future spread of the Common Path,
 Dialogue: 10,0:05:55.56,0:06:00.68,Thought,,0,0,0,,I must accomplish my mission of converting 750,000 households, no matter what it takes.
 Dialogue: 10,0:06:02.71,0:06:03.68,Default,,0,0,0,,Sensei,
 Dialogue: 10,0:06:04.05,0:06:06.95,Default,,0,0,0,,forgive me for being away last night. {wasn't really night, maybe "evening/afternoon"}
@@ -746,20 +746,20 @@ Dialogue: 10,0:06:07.65,0:06:09.66,Default,,0,0,0,,How are you feeling now?
 Dialogue: 10,0:06:09.66,0:06:11.64,Default,,0,0,0,,Don't worry, I'm fine.
 Dialogue: 10,0:06:12.99,0:06:14.85,Default,,0,0,0,,Shin-chan, let's lie down.
 Dialogue: 10,0:06:15.87,0:06:17.61,Default,,0,0,0,,You can use this as a pillow.
-Dialogue: 10,0:06:20.30,0:06:24.61,Default,,0,0,0,,There's one thing\Noccupying my mind right now.
+Dialogue: 10,0:06:20.30,0:06:24.61,Default,,0,0,0,,There's one thing occupying\N my mind right now.
 Dialogue: 10,0:06:24.61,0:06:29.97,Default,,0,0,0,,I haven't even gotten to the point where \NI'm ready to talk to someone about it yet, but...
 Dialogue: 10,0:06:30.62,0:06:33.62,Default,,0,0,0,,In the end, maybe even talking about it won't solve it. {もっとも相談してもしょうがないことかもしれない}
-Dialogue: 10,0:06:34.21,0:06:38.48,Thought,,0,0,0,,Sensei is acting strange tonight. Completely different from usual.
+Dialogue: 10,0:06:34.21,0:06:38.48,Thought,,0,0,0,,Sensei is acting strange tonight.\N Completely different from usual.
 Dialogue: 10,0:06:38.48,0:06:43.63,Default,,0,0,0,,Shinichi, you young men have to study harder than anyone else, don't you?
 Dialogue: 10,0:06:43.63,0:06:44.69,Default,,0,0,0,,Yes.
-Dialogue: 10,0:06:44.69,0:06:47.01,Default,,0,0,0,,Now is the important time.
+Dialogue: 10,0:06:44.69,0:06:47.01,Default,,0,0,0,,Now is the critical time.
 Dialogue: 10,0:06:47.01,0:06:48.01,Default,,0,0,0,,Yes.
 Dialogue: 10,0:06:48.01,0:06:50.56,Default,,0,0,0,,How is your health these days?
 Dialogue: 10,0:06:50.56,0:06:53.10,Default,,0,0,0,,The success of the Common Path depends on it.
 Dialogue: 10,0:06:53.58,0:06:56.20,Default,,0,0,0,,You should be more worried \Nfor yourself, Sensei.
 Dialogue: 10,0:06:56.65,0:06:58.29,Default,,0,0,0,,My own health?
 Dialogue: 10,0:06:59.00,0:07:01.23,Default,,0,0,0,,I can't die just yet.
-Dialogue: 10,0:07:02.00,0:07:05.10,Default,,0,0,0,,A creature such as man cannot die...
+Dialogue: 10,0:07:02.00,0:07:05.10,Default,,0,0,0,,A creature such as a man cannot die...
 Dialogue: 10,0:07:05.70,0:07:08.17,Default,,0,0,0,,as long as he has work to do.
 Dialogue: 10,0:07:08.17,0:07:11.70,Default,,0,0,0,,In any case, I'll do everything that needs to be done.
 Dialogue: 10,0:07:12.34,0:07:17.42,Default,,0,0,0,,And as long as you study with all your might, \NI have no worries about the future.
@@ -772,14 +772,14 @@ Dialogue: 10,0:07:41.73,0:07:43.86,Thought,,0,0,0,,What would that be?
 Dialogue: 10,0:07:44.75,0:07:45.22,Thought,,0,0,0,,Yes.
 Dialogue: 10,0:07:46.71,0:07:50.51,Thought,,0,0,0,,Rather than putting him in charge \Nof all of Soka Gakkai,
 Dialogue: 10,0:07:50.51,0:07:57.03,Thought,,0,0,0,,we should first let Shinichi try his hand \Nat being a strong screw for the Youth Division.
-Dialogue: 10,0:07:57.79,0:08:01.23,Thought,,0,0,0,,When the Youth move, \NSoka Gakkai moves.
+Dialogue: 10,0:07:57.79,0:08:01.23,Thought,,0,0,0,,When the Youth Division moves, \NSoka Gakkai moves.{or just youth - lower case}
 Dialogue: 10,0:08:01.23,0:08:05.80,Thought,,0,0,0,,We need to consider the circumstances \Nin which such a correlation would be valid. {lit: come up with a position when such diagram would be viable; そんな図式が成り立つような立場それを考えなくては･･･}
 Dialogue: 10,0:08:10.27,0:08:12.07,Narrator,,0,0,0,,On March 1st,
 Dialogue: 10,0:08:12.07,0:08:17.53,Narrator,,0,0,0,,the United States conducted a hydrogen bomb test at Bikini Atoll in the Pacific Ocean. {https://en.wikipedia.org/wiki/Castle_Bravo}
-Dialogue: 10,0:08:17.53,0:08:22.36,Narrator,,0,0,0,,In the process, a Japanese tuna fishing boat, \Nthe Daigo Fukuryu Maru,
+Dialogue: 10,0:08:17.53,0:08:22.36,Narrator,,0,0,0,,In the process, a Japanese tuna fishing boat, \Nthe {\i1}Daigo Fukuryu Maru{\i0},
 Dialogue: 10,0:08:22.36,0:08:25.65,Narrator,,0,0,0,,which was operating outside the danger zone,
 Dialogue: 10,0:08:25.90,0:08:29.36,Narrator,,0,0,0,,was struck by heavy nuclear fallout \Nand became contaminated.
-Dialogue: 10,0:08:29.42,0:08:33.88,Narrator,,0,0,0,,All 23 crew members suffered from acute radiation syndrome,
+Dialogue: 10,0:08:29.42,0:08:33.88,Narrator,,0,0,0,,All 23 crew members suffered\N from acute radiation syndrome,
 Dialogue: 10,0:08:33.88,0:08:37.60,Narrator,,0,0,0,,and the entire tuna catch \Nhad to be discarded.
 Dialogue: 10,0:08:37.60,0:08:43.59,Narrator,,0,0,0,,One of the sailors later passed away due to complications from radiation sickness.
 Dialogue: 10,0:08:49.26,0:08:51.36,Thought,,0,0,0,,This is terrible.
@@ -794,7 +794,7 @@ Dialogue: 10,0:09:17.84,0:09:23.48,ThouTop,,0,0,0,,It must be because they're fi
 Dialogue: 10,0:09:24.00,0:09:30.15,ThouTop,,0,0,0,,with overwhelming destructive force \Nwill deter war and lead to world peace.
 Dialogue: 10,0:09:30.15,0:09:34.15,Thought,,0,0,0,,Atomic and hydrogen weapons, \Nwhich led humanity toward destruction,
 Dialogue: 10,0:09:34.15,0:09:37.07,Thought,,0,0,0,,are truly the devil's handiwork.
-Dialogue: 10,0:09:37.07,0:09:42.66,Thought,,0,0,0,,Fighting that won't be easy, \Nbut we gotta do whatever we can...
+Dialogue: 10,0:09:37.07,0:09:42.66,Thought,,0,0,0,,Fighting that won't be easy, \Nbut we gotta do whatever we can.
 Dialogue: 10,0:09:43.20,0:09:45.52,NarrTop,,0,0,0,,Toda's implacability at that moment
 Dialogue: 10,0:09:45.52,0:09:49.63,NarrTop,,0,0,0,,would later culminate in the historic "Declaration for the Abolition
 Dialogue: 10,0:09:49.63,0:09:53.90,NarrTop,,0,0,0,,of Nuclear Weapons," \Nwhich he delivered to the world from Yokohama.
@@ -804,18 +804,18 @@ Dialogue: 10,0:10:06.14,0:10:09.08,Top,,0,0,0,,and now they've launched a nation
 Dialogue: 10,0:10:09.08,0:10:11.92,Top,,0,0,0,,What should our stance on that be? {lit: how should we think about it}
 Dialogue: 10,0:10:11.92,0:10:16.61,Default,,0,0,0,,Hm... I think it's commendable that the people have realized
 Dialogue: 10,0:10:16.61,0:10:20.93,Default,,0,0,0,,there is no future for mankind if we allow nuclear weapons to go unchecked.
-Dialogue: 10,0:10:20.93,0:10:22.41,Default,,0,0,0,,Yes...
+Dialogue: 10,0:10:20.93,0:10:22.41,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:10:22.94,0:10:26.69,Default,,0,0,0,,Watari-kun, you know the UNESCO Constitution, don't you?
 Dialogue: 10,0:10:27.12,0:10:27.77,Default,,0,0,0,,Y-Yes!
 Dialogue: 10,0:10:27.77,0:10:30.21,Default,,0,0,0,,In the preamble, it says...
 Dialogue: 0,0:10:30.38,0:10:34.65,Default,,0,0,0,,That since wars begin in the minds of men,
-Dialogue: 0,0:10:34.65,0:10:39.80,Default,,0,0,0,,it is in the minds of men that the defences of peace must be constructed; {from the background image}
+Dialogue: 0,0:10:34.65,0:10:39.80,Default,,0,0,0,,it is in the minds of men that the defences of peace must be constructed. {from the background image}
 Dialogue: 10,0:10:40.26,0:10:41.16,Default,,0,0,0,,Period. {/Like that/And so on}
 Dialogue: 10,0:10:41.64,0:10:46.13,Default,,0,0,0,,And I agree with that. \NNo truer words have ever been spoken.
-Dialogue: 10,0:10:48.04,0:10:53.73,Default,,0,0,0,,But the key question is how \Nand with what materials should we 
+Dialogue: 10,0:10:48.04,0:10:53.73,Default,,0,0,0,,But the key question is how \Nand with what materials should we
 Dialogue: 10,0:10:53.73,0:10:57.14,Default,,0,0,0,,construct a bastion of peace in our hearts.
 Dialogue: 10,0:10:57.68,0:10:59.49,Default,,0,0,0,,That's something...
-Dialogue: 10,0:11:00.70,0:11:04.01,Default,,0,0,0,,we never tried to shed light on \Nin our general discourse. {lit: no one has spoken clearly about this}
+Dialogue: 10,0:11:00.70,0:11:04.01,Default,,0,0,0,,we never tried to illuminate \Nin our general discourse. {lit: no one has spoken clearly about this}
 Dialogue: 10,0:11:04.01,0:11:09.54,Default,,0,0,0,,The world's intellectuals and leaders have not been able to clarify it either.
 Dialogue: 10,0:11:09.54,0:11:12.77,Default,,0,0,0,,But I can answer that with full certainty.
 Dialogue: 10,0:11:12.77,0:11:20.05,Default,,0,0,0,,The only thing that could make this possible \Nis Nichiren Daishonin's great philosophy of life.
@@ -824,14 +824,14 @@ Dialogue: 10,0:11:29.14,0:11:32.55,Default,,0,0,0,,and by offering his or her pr
 Dialogue: 10,0:11:32.55,0:11:34.73,Default,,0,0,0,,that one can become an angel or a demon.
 Dialogue: 10,0:11:34.73,0:11:39.10,Default,,0,0,0,,We must transform humanity's fickle mind, \Nwhich is our entire life,
 Dialogue: 10,0:11:39.10,0:11:45.23,Default,,0,0,0,,into a firm and unwavering one \Nthat never ceases to desire absolute peace.
-Dialogue: 10,0:11:45.76,0:11:55.89,Default,,0,0,0,,Only then can we build a bastion of peace in the hearts of all people that will never crumble.
-Dialogue: 10,0:11:55.89,0:11:57.24,Default,,0,0,0,,
+Dialogue: 10,0:11:45.76,0:11:55.89,Default,,0,0,0,,Only then can we build a bastion of peace that will never crumble in the hearts of all people.
+Comment: 10,0:11:55.89,0:11:57.24,Default,,0,0,0,,
 Dialogue: 10,0:11:57.24,0:12:01.13,Default,,0,0,0,,Our nightly roundtable discussions,
 Dialogue: 10,0:12:01.66,0:12:03.24,Default,,0,0,0,,doctrinal lectures,
 Dialogue: 10,0:12:03.24,0:12:06.25,Default,,0,0,0,,conversion work, and personal tutoring
 Dialogue: 10,0:12:06.79,0:12:11.88,Default,,0,0,0,,are humble activities, but they demand far more perseverance, study, and effort
 Dialogue: 10,0:12:11.88,0:12:17.76,Default,,0,0,0,,than signature campaigns, as they comprise a life-transforming movement.
-Dialogue: 10,0:12:18.32,0:12:25.20,Default,,0,0,0,,You, my friends, are the warriors, \Nwho stand on the front lines of this movement.
+Dialogue: 10,0:12:18.32,0:12:25.20,Default,,0,0,0,,You, my friends, are the warriors \Nwho stand on the front lines of this movement.
 Dialogue: 10,0:12:25.20,0:12:28.37,Default,,0,0,0,,I want you to keep that in mind at all times.
 Dialogue: 10,0:12:28.37,0:12:29.23,Default,,0,0,0,,Okay!
 Dialogue: 10,0:12:30.97,0:12:32.77,Top,,0,0,0,,By order of the president,
@@ -840,12 +840,12 @@ Dialogue: 10,0:12:36.50,0:12:39.38,Top,,0,0,0,,Establish a new detached office. 
 Dialogue: 10,0:12:39.38,0:12:43.78,Top,,0,0,0,,Appointed as the new division chief: \NYamamoto Shinichi.
 Dialogue: 10,0:12:44.57,0:12:45.38,Default,,0,0,0,,Okay!
 Dialogue: 10,0:12:46.38,0:12:50.66,Narrator,,0,0,0,,A committee was established to design \Nand draft all operational plans
-Dialogue: 10,0:12:50.66,0:12:57.23,Narrator,,0,0,0,,and educational policies aimed at advancing the Common Path and the religious revolution.
+Dialogue: 10,0:12:50.66,0:12:57.23,Narrator,,0,0,0,,and educational policies aimed at advancing\N the Common Path and the religious revolution.
 Dialogue: 10,0:12:57.23,0:12:59.86,Narrator,,0,0,0,,Yamamoto Shinichi was appointed as the department head,
 Dialogue: 10,0:12:59.86,0:13:03.57,Narrator,,0,0,0,,with Jujo Kiyoshi as the chief of staff,
 Dialogue: 10,0:13:03.57,0:13:06.26,Narrator,,0,0,0,,along with six other men and women.
 Dialogue: 10,0:13:10.85,0:13:14.19,Default,,0,0,0,,"I appoint the following department heads:
-Dialogue: 10,0:13:14.80,0:13:18.19,Default,,0,0,0,,1st Men's Division: Suzumoto Minoru..."
+Dialogue: 10,0:13:14.80,0:13:18.19,Default,,0,0,0,,First Men's Division: Suzumoto Minoru..."
 Dialogue: 10,0:13:17.07,0:13:21.19,NarrTop,,0,0,0,,Additionally, a groundbreaking "one branch, one division" system was introduced,
 Dialogue: 10,0:13:21.19,0:13:25.50,NarrTop,,0,0,0,,assigning separate men's and women's divisions to all 15 branches.
 Dialogue: 10,0:13:35.48,0:13:39.34,Narrator,,0,0,0,,And then came the time for the Joint Youth General Meeting. {/Men's and Women's }
@@ -868,53 +868,54 @@ Dialogue: 10,0:14:36.31,0:14:37.98,Default,,0,0,0,,Yes, let's do that.
 Dialogue: 10,0:14:37.98,0:14:40.85,Default,,0,0,0,,As Sensei always says at Suikokai meetings,
 Dialogue: 10,0:14:40.85,0:14:43.13,Default,,0,0,0,,I believe that the Common Path
 Dialogue: 10,0:14:43.13,0:14:47.58,Default,,0,0,0,,is about fighting to save the unfortunate people of Japan and the world.
-Dialogue: 10,0:14:48.12,0:14:49.05,Default,,0,0,0,,
+Comment: 10,0:14:48.12,0:14:49.05,Default,,0,0,0,,
 Dialogue: 10,0:14:49.99,0:14:55.33,Default,,0,0,0,,To achieve that, we need to develop a detailed and robust 100-year strategy
 Dialogue: 10,0:14:56.04,0:15:01.45,Default,,0,0,0,,that takes into account all the various problematic contingencies we may face.
-Dialogue: 10,0:15:02.34,0:15:08.35,Default,,0,0,0,,In other words, isn't it our responsibility to create a realistic and innovative plan
-Dialogue: 10,0:15:09.05,0:15:10.36,Default,,0,0,0,,to address the issues?
-Dialogue: 10,0:15:10.88,0:15:12.87,Default,,0,0,0,,Starting with religion,
-Dialogue: 10,0:15:13.32,0:15:16.97,Default,,0,0,0,,of politics, economy, ideology, culture, and education—
-Dialogue: 10,0:15:16.97,0:15:22.16,Default,,0,0,0,,essentially all the various challenges that impact people's lives—
-Dialogue: 10,0:15:22.16,0:15:29.87,Default,,0,0,0,,through the lens of Buddhist philosophy and under the guidance of Toda-sensei?
-Dialogue: 10,0:15:29.87,0:15:31.38,Default,,0,0,0,,
+Dialogue: 10,0:15:02.34,0:15:08.35,Default,,0,0,0,,In other words, isn't it our responsibility to create a realistic and innovative plan?
+Dialogue: 10,0:15:09.05,0:15:10.36,Default,,0,0,0,,A plan that views 
+Dialogue: 10,0:15:10.88,0:15:12.87,Default,,0,0,0,,first religion,
+Dialogue: 10,0:15:13.32,0:15:16.97,Default,,0,0,0,,then politics, economy, \Nideology, culture, and education—
+Dialogue: 10,0:15:16.97,0:15:22.16,Default,,0,0,0,,essentially all the challenges that impact people's lives—
+Dialogue: 10,0:15:22.16,0:15:29.87,Default,,0,0,0,,through the lens of Buddhist philosophy, \Nunder the guidance of Toda-sensei.
+Comment: 10,0:15:29.87,0:15:31.38,Default,,0,0,0,,
 Dialogue: 10,0:15:32.68,0:15:38.07,Default,,0,0,0,,Only by becoming unsung heroes can we serve as the driving force that propels
 Dialogue: 10,0:15:38.07,0:15:42.48,Default,,0,0,0,,all the activities of Soka Gakkai and the Youth Division forward. {I assume the terminology referencing the machinery is important in this episode}
 Dialogue: 10,0:15:42.48,0:15:43.38,Default,,0,0,0,,Understood.
-Dialogue: 10,0:15:43.98,0:15:48.72,Default,,0,0,0,,By the way, just a suggestion, why don't we put together a music band in the Youth Division?
-Dialogue: 10,0:15:48.72,0:15:50.72,Default,,0,0,0,,Huh? Music band?
-Dialogue: 10,0:15:50.72,0:15:57.48,Default,,0,0,0,,Yes. Revolutions always come with music. Why should our religious revolution be any different?
-Dialogue: 10,0:15:57.99,0:16:00.81,Default,,0,0,0,,A musical band performing at a youth event or meeting
+Dialogue: 10,0:15:43.98,0:15:48.72,Default,,0,0,0,,By the way, here's an idea. Why don't we put together a music band in the Youth Division?
+Dialogue: 10,0:15:48.72,0:15:50.72,Default,,0,0,0,,Huh? A music band?
+Dialogue: 10,0:15:50.72,0:15:54.29,Default,,0,0,0,,Yes. Revolutions always come with music.{shades of the search for a 'war song' in 'Wagging the Dog'}
+Dialogue: 10,0:15:54.29,0:15:57.48,Default,,0,0,0,,Why should our religious revolution be any different?
+Dialogue: 10,0:15:57.99,0:16:00.81,Default,,0,0,0,,A musical band performing\N at a youth event or meeting
 Dialogue: 10,0:16:00.81,0:16:02.82,Default,,0,0,0,,will lift the spirits of our ranks.
-Dialogue: 10,0:16:03.29,0:16:09.32,Default,,0,0,0,,I believe it will serve as a symbol of our youth's unity, and pave the way for a bright future.
+Dialogue: 10,0:16:03.29,0:16:09.32,Default,,0,0,0,,I believe it will serve as a symbol of our youth's unity and pave the way for a bright future.
 Dialogue: 10,0:16:09.32,0:16:12.33,Default,,0,0,0,,I see! It's a great idea. \NIsn't it, Irie-san?
 Dialogue: 10,0:16:12.33,0:16:15.33,Default,,0,0,0,,Yes, I think so too.
-Dialogue: 10,0:16:15.90,0:16:20.78,Default,,0,0,0,,Speaking of which, we have Arimura-kun, a composer in the Men's Youth Division,
+Dialogue: 10,0:16:15.90,0:16:20.78,Default,,0,0,0,,Speaking of that, we have Arimura-kun, a composer in the Men's Youth Division,
 Dialogue: 10,0:16:20.78,0:16:24.09,Default,,0,0,0,,so why not let him take charge of things?
-Dialogue: 10,0:16:24.70,0:16:25.76,Default,,0,0,0,,Yes.
-Dialogue: 10,0:16:26.36,0:16:27.67,Default,,0,0,0,,I agree! 
+Dialogue: 10,0:16:24.70,0:16:25.76,Default,,0,0,0,,Yeah.{Or Good idea.}
+Dialogue: 10,0:16:26.36,0:16:27.67,Default,,0,0,0,,I agree!
 Dialogue: 10,0:16:28.14,0:16:29.68,Default,,0,0,0,,I agree too!
 Dialogue: 10,0:16:30.34,0:16:34.95,Default,,0,0,0,,If everyone agrees, I'm going to ask Toda-sensei \Nfor his approval to form the band.
 Dialogue: 10,0:16:35.47,0:16:36.97,Default,,0,0,0,,Please do!
 Dialogue: 10,0:16:43.94,0:16:46.94,Narrator,,0,0,0,,Toda, who served as a counselor to Daito Trading,
-Dialogue: 10,0:16:46.96,0:16:53.84,Narrator,,0,0,0,,would come to the office every morning to consult and offer advice on business matters.
+Dialogue: 10,0:16:46.94,0:16:53.84,Narrator,,0,0,0,,would come to the office every morning to consult and offer advice on business matters.
 Dialogue: 10,0:16:53.84,0:16:57.58,Default,,0,0,0,,Sensei, may I have a minute of your time?
-Dialogue: 10,0:16:57.58,0:16:59.41,Default,,0,0,0,,Very well. Get seated first.
+Dialogue: 10,0:16:57.58,0:16:59.41,Default,,0,0,0,,Very well. Sit down first.
 Dialogue: 10,0:17:01.17,0:17:02.42,Default,,0,0,0,,What is it?
 Dialogue: 10,0:17:02.81,0:17:07.51,Default,,0,0,0,,Sir, I'd like to form a music band \Nwithin the Youth Division.
-Dialogue: 10,0:17:08.15,0:17:09.17,Default,,0,0,0,,Music band?
+Dialogue: 10,0:17:08.15,0:17:09.17,Default,,0,0,0,,A music band?
 Dialogue: 10,0:17:09.17,0:17:13.14,Default,,0,0,0,,Yes, they will perform at all future youth meetings,
-Dialogue: 10,0:17:13.14,0:17:17.45,Default,,0,0,0,,bringing courage and hope \Nto everyone in attendance, I believe.
-Dialogue: 10,0:17:17.99,0:17:19.12,Default,,0,0,0,,
+Dialogue: 10,0:17:13.14,0:17:17.43,Default,,0,0,0,,bringing courage and hope \Nto everyone in attendance, I believe.
+Comment: 10,0:17:17.99,0:17:19.12,Default,,0,0,0,,
 Dialogue: 10,0:17:19.87,0:17:21.83,Default,,0,0,0,,I approve, but who's going to pay?
-Dialogue: 10,0:17:22.45,0:17:27.32,Default,,0,0,0,,At present, Soka Gakkai doesn't have the financial wherewithal to buy instruments.
+Dialogue: 10,0:17:22.45,0:17:27.32,Default,,0,0,0,,At present, Soka Gakkai doesn't have\N the financial wherewithal to buy instruments.
 Dialogue: 10,0:17:27.80,0:17:31.57,Default,,0,0,0,,It's not a problem. \NWe'll make do with rented ones for now.
 Dialogue: 10,0:17:31.57,0:17:33.16,Default,,0,0,0,,I see.
 Dialogue: 10,0:17:34.22,0:17:35.58,Default,,0,0,0,,Please leave it to me.
 Dialogue: 10,0:17:36.21,0:17:37.20,Default,,0,0,0,,Okay.
 Dialogue: 10,0:17:38.95,0:17:40.58,Top,,0,0,0,,Oh, Arimura-kun?
-Dialogue: 10,0:17:40.58,0:17:43.60,Default,,0,0,0,,Thank you for coming. \NCome on in now.
-Dialogue: 10,0:17:45.59,0:17:48.46,Default,,0,0,0,,So, is the band prepared?
+Dialogue: 10,0:17:40.58,0:17:43.60,Default,,0,0,0,,Thank you for coming. \NCome in.
+Dialogue: 10,0:17:45.59,0:17:48.46,Default,,0,0,0,,So, is the band ready?{or progressing}
 Dialogue: 10,0:17:48.94,0:17:52.11,Default,,0,0,0,,Yes. Nine members agreed to participate.
 Dialogue: 10,0:17:52.11,0:17:55.46,Default,,0,0,0,,We borrowed the instruments from the Tsurumi neighborhood association.
 Dialogue: 10,0:17:56.07,0:17:57.85,Default,,0,0,0,,All experienced performers?
@@ -933,16 +934,16 @@ Dialogue: 10,0:18:27.64,0:18:30.81,Default,,0,0,0,,There's not much time for pra
 Dialogue: 10,0:18:30.81,0:18:33.38,Default,,0,0,0,,by the day of the youth's climbing of Taisekiji. {lit: general mountain climbing - a ritual of coming to taisekiji}
 Dialogue: 10,0:18:34.15,0:18:35.22,Default,,0,0,0,,O-Okay!
 Dialogue: 10,0:18:36.07,0:18:41.24,NarrTop,,0,0,0,,On May 3rd, 30,000 representatives from across the country
-Dialogue: 10,0:18:41.24,0:18:45.24,NarrTop,,0,0,0,,gathered to hold the 10th Spring Headquarters General Meeting.
+Dialogue: 10,0:18:41.24,0:18:45.24,NarrTop,,0,0,0,,gathered to hold the Tenth Spring Headquarters General Meeting.
 Dialogue: 10,0:18:46.11,0:18:53.23,NarrTop,,0,0,0,,When Toda took office in May 1951, Soka Gakkai had just 1,200 households,
 Dialogue: 10,0:18:53.67,0:18:55.46,Narrator,,0,0,0,,but now, three years later,
-Dialogue: 10,0:18:55.46,0:18:59.36,Narrator,,0,0,0,,it has expanded to 102,000 households—\Nnearly 100 times that number.
+Dialogue: 10,0:18:55.46,0:18:59.36,Narrator,,0,0,0,,it has expanded to 102,000 households,\Nnearly 100 times that number.
 Dialogue: 10,0:18:59.36,0:19:06.75,Narrator,,0,0,0,,The desire to further advance the people's religious awakening swept through the venue.
 Dialogue: 10,0:19:06.75,0:19:11.00,Default,,0,0,0,,You might think of the Soka Gakkai spirit as a burdensome set of ideas,
 Dialogue: 10,0:19:11.00,0:19:16.51,Default,,0,0,0,,but it's really just one, that of returning to the times of Nichiren Daishonin. {学会精神というと何か面倒なことのように思うが それは「日蓮大聖人の時代に還れ」 というだけのことです}
 Dialogue: 10,0:19:17.84,0:19:23.95,Default,,0,0,0,,Daishonin, driven by his deep desire to bring happiness to people,
 Dialogue: 10,0:19:23.95,0:19:27.19,Default,,0,0,0,,was able to reveal the Great Buddha Dharma.
-Dialogue: 10,0:19:27.19,0:19:34.06,Default,,0,0,0,,Embracing this spirit and working diligently to spread his teachings is what it truly means
+Dialogue: 10,0:19:27.19,0:19:34.06,Default,,0,0,0,,Embracing this spirit and working diligently\N to spread his teachings is what it truly means
 Dialogue: 10,0:19:34.06,0:19:37.45,Default,,0,0,0,,to "return to the times of Daishonin."
 Dialogue: 10,0:19:39.45,0:19:44.58,Default,,0,0,0,,I hope that by May 3rd of next year, we can all come together again,
 Dialogue: 10,0:19:44.58,0:19:52.24,Default,,0,0,0,,having found true happiness through Buddha's grace by fully embracing our faith.
@@ -968,23 +969,23 @@ Dialogue: 10,0:21:36.81,0:21:37.90,Default,,0,0,0,,Are we doing it?
 Dialogue: 10,0:21:37.90,0:21:39.90,Default,,0,0,0,,Yes! Just give the word.
 Dialogue: 10,0:21:39.90,0:21:42.41,Default,,0,0,0,,All right, I heard you. \NLet's do it.
 Dialogue: 10,0:21:43.01,0:21:45.66,Narrator,,0,0,0,,The youth division began its solemn ascent.
-Dialogue: 10,0:21:45.66,0:21:52.17,Narrator,,0,0,0,,On May 9th, 5,500 men and women from the Youth Division gathered in the pouring rain
+Dialogue: 10,0:21:45.66,0:21:52.17,Narrator,,0,0,0,,On May 9th, 5,500 men and women from\N the Youth Division gathered in the pouring rain
 Dialogue: 10,0:21:52.17,0:21:56.42,Narrator,,0,0,0,,to pledge their commitment \Nto a new beginning for the Common Path.
 Dialogue: 10,0:21:57.67,0:22:03.44,Default,,0,0,0,,Let us, the Youth Division, solemnly vow to dedicate our lives to the fight
-Dialogue: 10,0:22:03.44,0:22:09.22,Default,,0,0,0,,for the achievement of the Common Path, under the great leadership of Toda Josei-sensei!
+Dialogue: 10,0:22:03.44,0:22:09.22,Default,,0,0,0,,for the achievement of the Common Path,\N under the great leadership of Toda Josei-sensei!
 Dialogue: 10,0:22:09.99,0:22:15.27,Thought,,0,0,0,,Three years ago, on the day the Men's Youth Division was formed, it also rained heavily.
 Dialogue: 10,0:22:15.96,0:22:17.87,Thought,,0,0,0,,Back then, Director Kiyohara said,
-Dialogue: 10,0:22:18.46,0:22:25.43,Thought,,0,0,0,,"This rain spells the challenges ahead for the Youth Division more clearly than anything else." {unsure what they mean, lit is "speak of" assumed in the sense of "foreboding"}
+Dialogue: 10,0:22:18.46,0:22:25.43,Thought,,0,0,0,,"This rain predicts the challenges ahead for the Youth Division more clearly than anything else." {unsure what they mean, lit is "speak of" assumed in the sense of "foreboding"}
 Dialogue: 10,0:22:26.13,0:22:27.78,Thought,,0,0,0,,Three years have passed.
 Dialogue: 10,0:22:27.78,0:22:30.26,Thought,,0,0,0,,Today, the elite of the 30 male and female divisions
 Dialogue: 10,0:22:30.26,0:22:32.58,Thought,,0,0,0,,have gathered to announce \Nthe second beginning.
 Dialogue: 10,0:22:33.26,0:22:36.27,Thought,,0,0,0,,Once again, it became a ritual in the rain.
-Dialogue: 10,0:22:38.11,0:22:43.51,Thought,,0,0,0,,The heavens never seem to tire of reminding us how difficult the road ahead will be.
+Dialogue: 10,0:22:38.11,0:22:43.51,Thought,,0,0,0,,The heavens never seem to tire of reminding us\N how difficult the road ahead will be.
 Dialogue: 10,0:22:44.21,0:22:51.18,Thought,,0,0,0,,Then it is up to us to take on the many challenges \Nthat will come our way in the future.
 Dialogue: 10,0:22:51.85,0:22:54.37,Thought,,0,0,0,,The unprecedented mission \Nof the Common Path
 Dialogue: 10,0:22:54.37,0:22:57.60,Thought,,0,0,0,,can only be accomplished \Nby overcoming unprecedented difficulties.
 Dialogue: 10,0:22:58.52,0:23:05.17,Default,,0,0,0,,The reason today's Youth Division meeting didn’t receive the blessing of Brahma and Sakra,
-Dialogue: 10,0:23:05.17,0:23:13.54,Default,,0,0,0,,and must be held in the pouring rain, is entirely due to my slander of the Law.
+Dialogue: 10,0:23:05.17,0:23:13.54,Default,,0,0,0,,and must be held in the pouring rain,\N is entirely due to my slander of the Law.
 Dialogue: 10,0:23:13.54,0:23:16.46,Default,,0,0,0,,For that, I offer my deepest apologies.
 Dialogue: 10,0:23:19.02,0:23:20.46,Default,,0,0,0,,However,
 Dialogue: 10,0:23:20.46,0:23:26.61,Default,,0,0,0,,I hope that as you fight for the achievement of the Common Path
@@ -1003,16 +1004,16 @@ Dialogue: 10,0:24:25.54,0:24:29.71,Song,,0,0,0,,our ranks are as flexible as the
 Dialogue: 10,0:24:28.80,0:24:30.45,NarrTop,,0,0,0,,After this ceremony,
 Dialogue: 10,0:24:30.45,0:24:38.12,Narrator,,0,0,0,,President Toda proposed that the Youth Division hold another Meeting at Taisekiji in October.
 Dialogue: 10,0:24:38.81,0:24:41.79,Narrator,,0,0,0,,Yamamoto Shinichi and his young men and women
-Dialogue: 10,0:24:41.79,0:24:46.59,Narrator,,0,0,0,,take on this new challenge with the goal of rallying 10,000 members.
+Dialogue: 10,0:24:41.79,0:24:46.59,Narrator,,0,0,0,,took on this new challenge with the goal of rallying 10,000 members.{tense consistency: previous line past, this line should be past}
 Dialogue: 10,0:24:53.81,0:24:58.01,Default,,0,0,0,,"Do not preach this Sutra to people ignorant.
 Dialogue: 10,0:24:58.01,0:25:02.81,Default,,0,0,0,,If you are clever, keenly aware of prajna, possess great wisdom and strong vijnana..." {great wisdom in this case should also be a special buddhist term}
-Dialogue: 10,0:25:02.81,0:25:05.46,NarrTop,,0,0,0,,In response to a request from the "Lotus Sutra Study Group,"
+Dialogue: 10,0:25:02.81,0:25:05.46,NarrTop,,0,0,0,,In response to a request from\N the "Lotus Sutra Study Group,"
 Dialogue: 10,0:25:05.46,0:25:08.04,NarrTop,,0,0,0,,an intramural circle at the University of Tokyo,
 Dialogue: 10,0:25:08.04,0:25:09.81,NarrTop,,0,0,0,,Toda delivered monthly lectures
 Dialogue: 10,0:25:09.81,0:25:12.82,NarrTop,,0,0,0,,on the Lotus Sutra to the university students.
 Dialogue: 10,0:25:13.83,0:25:17.81,Narrator,,0,0,0,,Every member had joined Soka Gakkai \Nwithin the past two years
 Dialogue: 10,0:25:17.81,0:25:22.65,Narrator,,0,0,0,,and participated in daily activities as part of the Youth Division.
-Dialogue: 10,0:25:22.65,0:25:26.90,Default,,0,0,0,,
+Comment: 10,0:25:22.65,0:25:26.90,Default,,0,0,0,,
 Dialogue: 10,0:25:26.90,0:25:30.40,Default,,0,0,0,,That's good. \NNow it's my turn to ask questions.
 Dialogue: 10,0:25:30.40,0:25:33.36,Default,,0,0,0,,Who authored the Lotus Sutra?
 Dialogue: 10,0:25:33.36,0:25:34.39,Default,,0,0,0,,{\i1}Buddha!{\i0}
@@ -1023,7 +1024,7 @@ Dialogue: 10,0:25:46.65,0:25:49.90,Default,,0,0,0,,Um... I believe it's\NNam-Myo
 Dialogue: 10,0:25:49.90,0:25:52.91,Default,,0,0,0,,Yes! That's it. \NNow you understand, don't you?
 Dialogue: 10,0:25:53.38,0:25:54.91,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:25:54.91,0:25:56.91,Default,,0,0,0,,Allow me to expand that thought.
-Dialogue: 10,0:25:56.91,0:26:01.72,Default,,0,0,0,,Unless we make a clear distinction between Nichiren Daishonin's Buddhism,
+Dialogue: 10,0:25:56.91,0:26:01.72,Default,,0,0,0,,Unless we make a clear distinction\N between Nichiren Daishonin's Buddhism,
 Dialogue: 10,0:26:01.72,0:26:05.41,Default,,0,0,0,,the highest wisdom of humanity, and the Buddha's Lotus Sutra,
 Dialogue: 10,0:26:05.41,0:26:09.92,Default,,0,0,0,,we won't be able to apply the essence of Buddhism to the modern age.
 Dialogue: 10,0:26:09.92,0:26:12.32,Default,,0,0,0,,In order to grasp this parable,
@@ -1032,15 +1033,15 @@ Dialogue: 10,0:26:17.93,0:26:22.94,Default,,0,0,0,,Then you will be able to unde
 Dialogue: 10,0:26:23.50,0:26:25.19,Thought,,0,0,0,,So that's where I need to look?
 Dialogue: 10,0:26:25.67,0:26:31.04,Narrator,,0,0,0,,The reason Toda, despite his busy schedule, began lecturing on the Lotus Sutra
 Dialogue: 10,0:26:31.04,0:26:36.72,Narrator,,0,0,0,,to a handful of argumentative and often critical University of Tokyo students {lit: full of logic}
-Dialogue: 10,0:26:36.72,0:26:44.16,Narrator,,0,0,0,,was his early recognition of the crucial role students play in advancing the Common Path.
-Dialogue: 10,0:26:44.78,0:26:51.01,Narrator,,0,0,0,,He had envisioned the future success that the students he introduced to the Buddha's Law
+Dialogue: 10,0:26:36.72,0:26:44.16,Narrator,,0,0,0,,was his early recognition of the crucial role students played in advancing the Common Path.
+Dialogue: 10,0:26:44.78,0:26:51.01,Narrator,,0,0,0,,He had envisioned the future success that\N the students he introduced to the Buddha's Law
 Dialogue: 10,0:26:51.01,0:26:55.00,Narrator,,0,0,0,,would achieve over the next few decades.
 Dialogue: 10,0:26:55.53,0:27:02.57,NarrTop,,0,0,0,,In the following year of 1955, the number of listeners for his Lotus Sutra lectures grew to 30,
 Dialogue: 10,0:27:02.57,0:27:09.90,NarrTop,,0,0,0,,with applicants chosen from Waseda, Keio, Nihon, Chuo, Meiji, and other universities.
 Dialogue: 10,0:27:09.90,0:27:12.61,NarrTop,,0,0,0,,This gathering would later become the basis
-Dialogue: 10,0:27:12.61,0:27:16.03,NarrTop,,0,0,0,,for the formation of the \NSoka Gakkai Student Division.
+Dialogue: 10,0:27:12.61,0:27:16.03,NarrTop,,0,0,0,,for the formation of the Soka Gakkai Student Division.
 Dialogue: 10,0:27:19.03,0:27:23.39,Default,,0,0,0,,We're finally going to my homeland of Hokkaido. Do your best while we're away, everyone. {actually "favourite; likely winner" but I think that's what he means}
-Dialogue: 10,0:27:23.39,0:27:24.69,Default,,0,0,0,,Come back soon! 
+Dialogue: 10,0:27:23.39,0:27:24.69,Default,,0,0,0,,Come back soon!
 Dialogue: 10,0:27:37.05,0:27:42.66,Narrator,,0,0,0,,This year's annual summer regional guidance program far exceeded the scale
 Dialogue: 10,0:27:42.66,0:27:48.08,Narrator,,0,0,0,,of any previous one, with 250 representatives sent to 20 major cities nationwide.
 Dialogue: 10,0:27:49.25,0:27:56.44,NarrTop,,0,0,0,,Yamamoto Shinichi accompanied Toda to Hokkaido and visited Sapporo for the first time.
@@ -1054,13 +1055,13 @@ Dialogue: 10,0:28:36.94,0:28:42.46,Default,,0,0,0,,Although it's just some fish 
 Dialogue: 10,0:28:42.88,0:28:48.12,Default,,0,0,0,,I've been really looking forward to visiting Atsuta from the moment I heard about it from you.
 Dialogue: 10,0:28:49.78,0:28:53.73,Default,,0,0,0,,So, does it help you grasp the vastness of the Ishikari Plain from looking at it?
 Dialogue: 10,0:28:53.73,0:28:56.12,Default,,0,0,0,,Yes, it's really immense.
-Dialogue: 10,0:28:56.12,0:28:59.88,Default,,0,0,0,,Shin-chan, in a little while, we'll reach the Ishikari River.
+Dialogue: 10,0:28:56.12,0:28:59.88,Default,,0,0,0,,Shin-chan, in a little while,\N we'll reach the Ishikari River.
 Dialogue: 10,0:29:00.62,0:29:01.89,Default,,0,0,0,,Got it.
 Dialogue: 10,0:29:14.46,0:29:20.41,Default,,0,0,0,,Sensei, it's actually incredibly wide. \NIsn't it also quite deep? {actually "that's a whole lot of water" but idk what he meant by that}
 Dialogue: 10,0:29:20.41,0:29:24.41,Default,,0,0,0,,Yes, because its drainage basin is huge.
 Dialogue: 10,0:29:24.41,0:29:25.76,Narrator,,0,0,0,,For the first time,
 Dialogue: 10,0:29:25.76,0:29:30.42,Narrator,,0,0,0,,the teacher and student travel together to visit the teacher's hometown of Atsuta Village
-Dialogue: 10,0:29:31.25,0:29:36.42,Narrator,,0,0,0,,"I wonder what kind of nature and climate nurtured Sensei during his upbringing..."
+Dialogue: 10,0:29:31.25,0:29:36.42,Narrator,,0,0,0,,"I wonder what kind of nature and climate nurtured Sensei during his upbringing."
 Dialogue: 10,0:29:37.03,0:29:39.42,Narrator,,0,0,0,,Thinking about Toda's hometown of Atsuta,
 Dialogue: 10,0:29:39.42,0:29:45.93,Narrator,,0,0,0,,which he would soon lay his eyes on, \NShinichi felt incredible lightness in his chest. {/puffed his chest out}
 Comment: 0,0:29:45.93,0:29:47.93,Narrator,,0,0,0,,{signs}
